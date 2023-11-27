@@ -199,119 +199,6 @@
         }
     },
     {
-        "id": 6679,
-        "objectNumber": "2016.792",
-        "constituents": [
-            {
-                "id": 1485,
-                "name": "Uchida Shigeru"
-            }
-        ],
-        "title": "August Chair",
-        "beginDate": 1988,
-        "medium": "beech moulded plywood with lacquer enamel paint",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Furniture"
-            ]
-        }
-    },
-    {
-        "id": 5714,
-        "objectNumber": "2016.375",
-        "constituents": [
-            {
-                "id": 1207,
-                "name": "Tadaomi Mizunoe"
-            },
-            {
-                "id": 1033,
-                "name": "Tendo Co., Ltd."
-            }
-        ],
-        "title": "Book Chair",
-        "beginDate": 1954,
-        "medium": "beech and teak-veneered plywood",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Furniture"
-            ]
-        }
-    },
-    {
-        "id": 5159,
-        "objectNumber": "2015.414",
-        "constituents": [
-            {
-                "id": 1112,
-                "name": "Pierre Jeanneret"
-            }
-        ],
-        "title": "Library Chair",
-        "beginDate": 1925,
-        "medium": "teak and caning",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Furniture"
-            ]
-        }
-    },
-    {
-        "id": 6684,
-        "objectNumber": "2016.771",
-        "constituents": [
-            {
-                "id": 1485,
-                "name": "Uchida Shigeru"
-            }
-        ],
-        "title": "Okazaki Chair",
-        "beginDate": 1995,
-        "medium": "resin plywood with core filling",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Furniture"
-            ]
-        }
-    },
-    {
-        "id": 5118,
-        "objectNumber": "2015.303",
-        "constituents": [
-            {
-                "id": 1101,
-                "name": "Kidokoro Ubunji"
-            },
-            {
-                "id": 1102,
-                "name": "Tokyo Chikkosha"
-            }
-        ],
-        "title": "Bamboo chair",
-        "beginDate": 1935,
-        "medium": "bamboo",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Furniture"
-            ]
-        }
-    },
-    {
         "id": 4823,
         "objectNumber": "2016.64",
         "constituents": [
@@ -431,6 +318,119 @@
         "title": "Bamboo Chair",
         "beginDate": 1937,
         "medium": "bamboo and brass",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Furniture"
+            ]
+        }
+    },
+    {
+        "id": 6679,
+        "objectNumber": "2016.792",
+        "constituents": [
+            {
+                "id": 1485,
+                "name": "Uchida Shigeru"
+            }
+        ],
+        "title": "August Chair",
+        "beginDate": 1988,
+        "medium": "beech moulded plywood with lacquer enamel paint",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Furniture"
+            ]
+        }
+    },
+    {
+        "id": 5714,
+        "objectNumber": "2016.375",
+        "constituents": [
+            {
+                "id": 1207,
+                "name": "Tadaomi Mizunoe"
+            },
+            {
+                "id": 1033,
+                "name": "Tendo Co., Ltd."
+            }
+        ],
+        "title": "Book Chair",
+        "beginDate": 1954,
+        "medium": "beech and teak-veneered plywood",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Furniture"
+            ]
+        }
+    },
+    {
+        "id": 5159,
+        "objectNumber": "2015.414",
+        "constituents": [
+            {
+                "id": 1112,
+                "name": "Pierre Jeanneret"
+            }
+        ],
+        "title": "Library Chair",
+        "beginDate": 1925,
+        "medium": "teak and caning",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Furniture"
+            ]
+        }
+    },
+    {
+        "id": 6684,
+        "objectNumber": "2016.771",
+        "constituents": [
+            {
+                "id": 1485,
+                "name": "Uchida Shigeru"
+            }
+        ],
+        "title": "Okazaki Chair",
+        "beginDate": 1995,
+        "medium": "resin plywood with core filling",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Furniture"
+            ]
+        }
+    },
+    {
+        "id": 5118,
+        "objectNumber": "2015.303",
+        "constituents": [
+            {
+                "id": 1101,
+                "name": "Kidokoro Ubunji"
+            },
+            {
+                "id": 1102,
+                "name": "Tokyo Chikkosha"
+            }
+        ],
+        "title": "Bamboo chair",
+        "beginDate": 1935,
+        "medium": "bamboo",
         "classification": {
             "area": [
                 "Design and Architecture"
@@ -575,6 +575,35 @@
         }
     },
     {
+        "id": 9102,
+        "objectNumber": "2018.1078",
+        "constituents": [
+            {
+                "id": 1662,
+                "name": "Ohashi Teruaki"
+            },
+            {
+                "id": 2857,
+                "name": "Inoue Industries Inc."
+            },
+            {
+                "id": 2858,
+                "name": "Viale"
+            }
+        ],
+        "title": "Hannan Chair Long",
+        "beginDate": 1984,
+        "medium": "metal, lacquer, cotton, and wool",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Furniture"
+            ]
+        }
+    },
+    {
         "id": 6675,
         "objectNumber": "2016.791",
         "constituents": [
@@ -607,35 +636,6 @@
         "title": "Harmony\u2014Light Chair",
         "beginDate": 2010,
         "medium": "elm, cotton, and wood",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Furniture"
-            ]
-        }
-    },
-    {
-        "id": 9102,
-        "objectNumber": "2018.1078",
-        "constituents": [
-            {
-                "id": 1662,
-                "name": "Ohashi Teruaki"
-            },
-            {
-                "id": 2857,
-                "name": "Inoue Industries Inc."
-            },
-            {
-                "id": 2858,
-                "name": "Viale"
-            }
-        ],
-        "title": "Hannan Chair Long",
-        "beginDate": 1984,
-        "medium": "metal, lacquer, cotton, and wool",
         "classification": {
             "area": [
                 "Design and Architecture"
@@ -847,6 +847,27 @@
         }
     },
     {
+        "id": 818,
+        "objectNumber": "2014.65",
+        "constituents": [
+            {
+                "id": 390,
+                "name": "Sakakura Junzo"
+            }
+        ],
+        "title": "Side Chair, no. 5015",
+        "beginDate": 1958,
+        "medium": "bent laminated beechwood, beechwood-veneered plywood, and fabric",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Furniture"
+            ]
+        }
+    },
+    {
         "id": 20546,
         "objectNumber": "2018.1181",
         "constituents": [
@@ -918,48 +939,6 @@
         }
     },
     {
-        "id": 818,
-        "objectNumber": "2014.65",
-        "constituents": [
-            {
-                "id": 390,
-                "name": "Sakakura Junzo"
-            }
-        ],
-        "title": "Side Chair, no. 5015",
-        "beginDate": 1958,
-        "medium": "bent laminated beechwood, beechwood-veneered plywood, and fabric",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Furniture"
-            ]
-        }
-    },
-    {
-        "id": 8381,
-        "objectNumber": "2017.201",
-        "constituents": [
-            {
-                "id": 1542,
-                "name": "Alessandro Mendini"
-            }
-        ],
-        "title": "Poltrona di Proust",
-        "beginDate": 1978,
-        "medium": "painted wood and upholstery",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Furniture"
-            ]
-        }
-    },
-    {
         "id": 9392,
         "objectNumber": "2017.399",
         "constituents": [
@@ -996,6 +975,27 @@
         "title": "Found chair collected for Michael Wolf's 'Bastard Chair' photography series",
         "beginDate": 1990,
         "medium": "wood, steel and rubber",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Furniture"
+            ]
+        }
+    },
+    {
+        "id": 8381,
+        "objectNumber": "2017.201",
+        "constituents": [
+            {
+                "id": 1542,
+                "name": "Alessandro Mendini"
+            }
+        ],
+        "title": "Poltrona di Proust",
+        "beginDate": 1978,
+        "medium": "painted wood and upholstery",
         "classification": {
             "area": [
                 "Design and Architecture"
@@ -1194,6 +1194,27 @@
         }
     },
     {
+        "id": 5800,
+        "objectNumber": "2016.78",
+        "constituents": [
+            {
+                "id": 1279,
+                "name": "Satyendra Pakhal\u00e9"
+            }
+        ],
+        "title": "RCCC/Roll Carbon Ceramic Chair",
+        "beginDate": 2001,
+        "medium": "ceramic and carbon fibre coating",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Furniture"
+            ]
+        }
+    },
+    {
         "id": 5006,
         "objectNumber": "2016.323",
         "constituents": [
@@ -1209,27 +1230,6 @@
         "title": "Prototype, Low Chair, model 5016",
         "beginDate": 1957,
         "medium": "teak-veneered plywood and fabric",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Furniture"
-            ]
-        }
-    },
-    {
-        "id": 5800,
-        "objectNumber": "2016.78",
-        "constituents": [
-            {
-                "id": 1279,
-                "name": "Satyendra Pakhal\u00e9"
-            }
-        ],
-        "title": "RCCC/Roll Carbon Ceramic Chair",
-        "beginDate": 2001,
-        "medium": "ceramic and carbon fibre coating",
         "classification": {
             "area": [
                 "Design and Architecture"
@@ -1328,27 +1328,6 @@
         }
     },
     {
-        "id": 5943,
-        "objectNumber": "2016.352",
-        "constituents": [
-            {
-                "id": 68,
-                "name": "Star Industrial Co., Ltd."
-            }
-        ],
-        "title": "Red A chair, no. 354",
-        "beginDate": 1960,
-        "medium": "polypropylene with chromium-plated aluminium legs",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Product Design"
-            ]
-        }
-    },
-    {
         "id": 8819,
         "objectNumber": "2018.1095",
         "constituents": [
@@ -1428,6 +1407,27 @@
             ],
             "category": [
                 "Furniture"
+            ]
+        }
+    },
+    {
+        "id": 5943,
+        "objectNumber": "2016.352",
+        "constituents": [
+            {
+                "id": 68,
+                "name": "Star Industrial Co., Ltd."
+            }
+        ],
+        "title": "Red A chair, no. 354",
+        "beginDate": 1960,
+        "medium": "polypropylene with chromium-plated aluminium legs",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Product Design"
             ]
         }
     },
@@ -1557,27 +1557,6 @@
         }
     },
     {
-        "id": 5553,
-        "objectNumber": "2016.330",
-        "constituents": [
-            {
-                "id": 1162,
-                "name": "Umeda Masanori"
-            }
-        ],
-        "title": "Model, Medio Oriente (General Officer's Chair)",
-        "beginDate": 1975,
-        "medium": "polyurethane foam and acrylic paint",
-        "classification": {
-            "area": [
-                "Design and Architecture"
-            ],
-            "category": [
-                "Product Design"
-            ]
-        }
-    },
-    {
         "id": 5599,
         "objectNumber": "2016.331",
         "constituents": [
@@ -1589,6 +1568,27 @@
         "title": "Model, RAN-Orchid",
         "beginDate": 1988,
         "medium": "polyurethane foam, acrylic paint, and metal push-pins",
+        "classification": {
+            "area": [
+                "Design and Architecture"
+            ],
+            "category": [
+                "Product Design"
+            ]
+        }
+    },
+    {
+        "id": 5553,
+        "objectNumber": "2016.330",
+        "constituents": [
+            {
+                "id": 1162,
+                "name": "Umeda Masanori"
+            }
+        ],
+        "title": "Model, Medio Oriente (General Officer's Chair)",
+        "beginDate": 1975,
+        "medium": "polyurethane foam and acrylic paint",
         "classification": {
             "area": [
                 "Design and Architecture"
