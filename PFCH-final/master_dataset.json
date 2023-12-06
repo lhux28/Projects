@@ -1,4263 +1,5 @@
 [
     {
-        "artist": "David Rowland",
-        "date": 1956,
-        "medium": [
-            "steel",
-            "vinyl"
-        ],
-        "title": "GF 40/4 Chair (one of a pair)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Edgar Bartolucci",
-        "date": 1946,
-        "medium": [
-            "aluminum",
-            "upholstery"
-        ],
-        "title": "Barwa Lounge Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Ron Arad",
-        "date": 1981,
-        "medium": [
-            "rover 2000 car seat mounted on a frame of kee klamp scaffolding",
-            "tubular steel frame",
-            "vinyl upholstery"
-        ],
-        "title": "Rover Car Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Campana Brothers",
-        "date": 2006,
-        "medium": [
-            "bent steel wire",
-            "epoxy paint"
-        ],
-        "title": "Corallo Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Eames",
-        "date": 1946,
-        "medium": [
-            "molded plywood"
-        ],
-        "title": "Dining Chair (model DCW)",
-        "museum": "aic"
-    },
-    {
-        "artist": "George Nelson",
-        "date": 1955,
-        "medium": [
-            "fiberglass",
-            "aluminum",
-            "nylon",
-            "chlorofiber upholstery"
-        ],
-        "title": "Coconut Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Joe Cesare Colombo",
-        "date": 1963,
-        "medium": [
-            "fiberglass",
-            "vinyl"
-        ],
-        "title": "Elda Chair, no 1005",
-        "museum": "aic"
-    },
-    {
-        "artist": "Rudolph Michael Schindler",
-        "date": 1938,
-        "medium": [
-            "plywood veneer"
-        ],
-        "title": "Wilshire Medical Office Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Greg Lynn",
-        "date": 2005,
-        "medium": [
-            "fiberglass-reinforced polyester shell",
-            "polyurethane foam seat",
-            "upholstery fabric"
-        ],
-        "title": "Ravioli Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Hans J. Wegner",
-        "date": 1951,
-        "medium": [
-            "wood",
-            "upholstery"
-        ],
-        "title": "Papa Bear Chair and Ottoman",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Eames",
-        "date": 1956,
-        "medium": [
-            "rosewood",
-            "leather",
-            "aluminum"
-        ],
-        "title": "Lounge Chair and Ottoman",
-        "museum": "aic"
-    },
-    {
-        "artist": "Bertjan Pot",
-        "date": 2004,
-        "medium": [
-            "carbon fiber",
-            "epoxy"
-        ],
-        "title": "Carbon Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Henry Peter Glass",
-        "date": 1942,
-        "medium": [
-            "cast iron"
-        ],
-        "title": "American Way Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Campana Brothers",
-        "date": 2002,
-        "medium": [
-            "multicolored fabric (including cotton",
-            "polyester",
-            "blends of both",
-            "polyurethane padded foam",
-            "polyethylene/astroturf)",
-            "wrapped",
-            "cut over stainless steel frame"
-        ],
-        "title": "Sushi Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Tokujin Yoshioka",
-        "date": 2001,
-        "medium": [
-            "honeycomb-paper construction"
-        ],
-        "title": "Honey-Pop",
-        "museum": "aic"
-    },
-    {
-        "artist": "Eero Saarinen",
-        "date": 1955,
-        "medium": [
-            "fiberglass-reinforced plastic",
-            "lacquered aluminum",
-            "silk upholstery"
-        ],
-        "title": "Tulip Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Shigeru Ban",
-        "date": 2009,
-        "medium": [
-            "upm profi (recycled paper",
-            "plastic composite)"
-        ],
-        "title": "10-Unit System Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Harry Bertoia",
-        "date": 1967,
-        "medium": [
-            "white vinyl-covered steel mesh"
-        ],
-        "title": "Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2003,
-        "medium": [
-            "die-cast aluminum",
-            "concrete"
-        ],
-        "title": "chair_ONE",
-        "museum": "aic"
-    },
-    {
-        "artist": "Henry Peter Glass",
-        "date": 1978,
-        "medium": [
-            "aluminum tubing",
-            "polyester mesh"
-        ],
-        "title": "Cricket Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Edgar Bartolucci",
-        "date": 1950,
-        "medium": [
-            "aluminum",
-            "canvas"
-        ],
-        "title": "Barwa Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Alexander Korab",
-        "date": 1983,
-        "medium": [
-            "welded wire mesh",
-            "acrylic head",
-            "seat cushions"
-        ],
-        "title": "Chaise Longue",
-        "museum": "aic"
-    },
-    {
-        "artist": "Eero Saarinen",
-        "date": 1948,
-        "medium": [
-            "plastic",
-            "latex",
-            "cowhide"
-        ],
-        "title": "Womb Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Shigeru Ban",
-        "date": 2009,
-        "medium": [
-            "upm profi (recycled paper",
-            "plastic composite)"
-        ],
-        "title": "10-Unit System Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Finn Juhl",
-        "date": 1949,
-        "medium": [
-            "teak",
-            "leather upholstery"
-        ],
-        "title": "Chieftain Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Eames",
-        "date": 1951,
-        "medium": [
-            "molded metal mesh"
-        ],
-        "title": "Side Chair (model DKR)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Ludwig Mies van der Rohe",
-        "date": 1929,
-        "medium": [
-            "chrome-plated steel",
-            "leather"
-        ],
-        "title": "Barcelona Chair (model MR 90)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank O. Gehry",
-        "date": 1979,
-        "medium": [
-            "corrugated cardboard",
-            "plywood"
-        ],
-        "title": "Sitting Beaver Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Greg Lynn",
-        "date": 2010,
-        "medium": [
-            "3di aramid tape"
-        ],
-        "title": "Carbon Net Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Marcel Wanders",
-        "date": 1996,
-        "medium": [
-            "macram\u00e9 of carbon fibers",
-            "epoxy-coated aramid fibers"
-        ],
-        "title": "Knotted Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Oki Sato",
-        "date": 2008,
-        "medium": [
-            "pleated paper"
-        ],
-        "title": "Cabbage Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Marcel Breuer",
-        "date": 1930,
-        "medium": [
-            "chromed bent tubular steel frame",
-            "fabric covering"
-        ],
-        "title": "Chair, Variation on B5",
-        "museum": "aic"
-    },
-    {
-        "artist": "Achille Castiglioni",
-        "date": 1957,
-        "medium": [
-            "enameled steel",
-            "chrome-plated steel",
-            "beech"
-        ],
-        "title": "Mezzadro Stool",
-        "museum": "aic"
-    },
-    {
-        "artist": "Robert Venturi",
-        "date": 1984,
-        "medium": [
-            "laminated plywood"
-        ],
-        "title": "Queen Anne Chair in Grandmother pattern",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Eames",
-        "date": 1945,
-        "medium": [
-            "molded plywood",
-            "rubber"
-        ],
-        "title": "Lounge Chair (model LCW)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Barber Osgerby",
-        "date": 2006,
-        "medium": [
-            "cast",
-            "pressed aluminum",
-            "steel",
-            "nylon"
-        ],
-        "title": "De La Warr Pavilion Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Hans J. Wegner",
-        "date": 1940,
-        "medium": [
-            "ash",
-            "teak",
-            "paper cord"
-        ],
-        "title": "Peacock Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Douglas Kelley",
-        "date": 1952,
-        "medium": [
-            "steel",
-            "leather"
-        ],
-        "title": "T Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Coop Himmelblau",
-        "date": 1989,
-        "medium": [
-            "painted steel",
-            "chromed tubular steel",
-            "vinyl upholstery"
-        ],
-        "title": "Vod\u00f6l Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Paul Ludick",
-        "date": 1984,
-        "medium": [
-            "wood",
-            "polychrome paint",
-            "polyurethane"
-        ],
-        "title": "New World Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank O. Gehry",
-        "date": 1972,
-        "medium": [
-            "corrugated cardboard",
-            "masonite"
-        ],
-        "title": "Wiggle Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Howard Meister",
-        "date": 1982,
-        "medium": [
-            "steel"
-        ],
-        "title": "Learning Her Lie (Chair)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Harry Bertoia",
-        "date": 1952,
-        "medium": [
-            "steel",
-            "wool",
-            "nylon upholstery"
-        ],
-        "title": "Small Diamond Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Barber Osgerby",
-        "date": 2006,
-        "medium": [
-            "cast",
-            "pressed aluminum",
-            "steel",
-            "nylon"
-        ],
-        "title": "De La Warr Pavilion Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jerome Caruso",
-        "date": 1987,
-        "medium": [
-            "aluminum",
-            "molded polypropylene"
-        ],
-        "title": "Stacking chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Cooper/Kato",
-        "date": 1984,
-        "medium": [
-            "elm"
-        ],
-        "title": "Library Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2014,
-        "medium": [
-            "glass",
-            "metal"
-        ],
-        "title": "\"Man Machine\" Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Rowland",
-        "date": 1964,
-        "medium": [
-            "steel",
-            "vinyl"
-        ],
-        "title": "40/4 Stacking Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Harry Bertoia",
-        "date": 1952,
-        "medium": [
-            "steel",
-            "naugahyde"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Eames",
-        "date": 1946,
-        "medium": [
-            "plywood"
-        ],
-        "title": "Dining Chair (model DCW)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2001,
-        "medium": [
-            "tubular stainless steel",
-            "rubber",
-            "polyurethane foam",
-            "leather",
-            "polyester fiber"
-        ],
-        "title": "Chaos Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Ron Arad",
-        "date": 1997,
-        "medium": [
-            "polypropylene",
-            "steel"
-        ],
-        "title": "Tom Vac Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Thomas Dixon",
-        "date": 1992,
-        "medium": [
-            "enameled steel"
-        ],
-        "title": "Pylon Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Terence Harold Robsjohn-Gibbings",
-        "date": 1941,
-        "medium": [
-            "birch",
-            "metal",
-            "linen"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Enzo Mari",
-        "date": 1974,
-        "medium": [
-            "untreated pine",
-            "nails"
-        ],
-        "title": "Sedia 1 Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2009,
-        "medium": [
-            "aluminum",
-            "pu foam",
-            "powder-coated steel"
-        ],
-        "title": "360\u00ba Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Joe Cesare Colombo",
-        "date": 1960,
-        "medium": [
-            "molded nylon",
-            "polypropylene"
-        ],
-        "title": "Stacking Chair (one of two)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Poul Kjaerholm",
-        "date": 1957,
-        "medium": [
-            "brushed stainless steel",
-            "woven wicker seat",
-            "back"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Jencks",
-        "date": 1985,
-        "medium": [
-            "formica",
-            "wood"
-        ],
-        "title": "Sun Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Harry Bertoia",
-        "date": 1952,
-        "medium": [
-            "steel",
-            "wool"
-        ],
-        "title": "Bird Chair and Ottoman",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jonathan Muecke",
-        "date": 2013,
-        "medium": [
-            "carbon",
-            "kevlar fibers",
-            "epoxy resin"
-        ],
-        "title": "CS (Coiled Stool)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Robert Wilson",
-        "date": 1987,
-        "medium": [
-            "bleached birch",
-            "lacquered finish"
-        ],
-        "title": "Parzival, a Chair with a Shadow",
-        "museum": "aic"
-    },
-    {
-        "artist": "Enzo Mari",
-        "date": 1974,
-        "medium": [
-            "untreated pine",
-            "nails"
-        ],
-        "title": "Sedia 1 Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Max Lamb",
-        "date": 2017,
-        "medium": [
-            "solid textile board"
-        ],
-        "title": "Bench 11a",
-        "museum": "aic"
-    },
-    {
-        "artist": "Tord Boontje",
-        "date": 1998,
-        "medium": [
-            "painted pine",
-            "wool",
-            "plastic"
-        ],
-        "title": "Rough and Ready Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Pierre Paulin",
-        "date": 1967,
-        "medium": [
-            "upholstery over tubular metal frame"
-        ],
-        "title": "Tongue Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jonathan De Pas",
-        "date": 1967,
-        "medium": [
-            "inflated pvc"
-        ],
-        "title": "Blow Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Gerrit Thomas Rietveld",
-        "date": 1934,
-        "medium": [
-            "painted solid wood"
-        ],
-        "title": "Zig-Zag Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Eames",
-        "date": 1950,
-        "medium": [
-            "fiberglass",
-            "steel",
-            "birch"
-        ],
-        "title": "Rocking Armchair (model RAR)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Werner Schmidt",
-        "date": 1988,
-        "medium": [
-            "wood",
-            "metal"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Ron Arad",
-        "date": 2006,
-        "medium": [
-            "rotational-moulded polyethylene"
-        ],
-        "title": "Voido Rocking Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Paul Ludick",
-        "date": 1986,
-        "medium": [
-            "plywood",
-            "paint"
-        ],
-        "title": "Chairnoble",
-        "museum": "aic"
-    },
-    {
-        "artist": "Gregg Fleishman",
-        "date": 1990,
-        "medium": [
-            "birch plywood",
-            "lacquer"
-        ],
-        "title": "Surround Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2006,
-        "medium": [
-            "laminated plywood",
-            "oak veneer",
-            "rubber"
-        ],
-        "title": "Venus Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Richard Hutten",
-        "date": 2004,
-        "medium": [
-            "walnut",
-            "chrome"
-        ],
-        "title": "This Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charlotte Perriand",
-        "date": 1968,
-        "medium": [
-            "pine",
-            "enameled steel"
-        ],
-        "title": "Kindergarten Stools from Les Arcs",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "aluminum"
-        ],
-        "title": "Washington Skeleton Aluminum Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Hans J. Wegner",
-        "date": 1944,
-        "medium": [
-            "stained cherry",
-            "jute",
-            "leather"
-        ],
-        "title": "Chinese Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Paul Ludick",
-        "date": 1992,
-        "medium": [
-            "welded metal",
-            "canvas"
-        ],
-        "title": "Sling Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2008,
-        "medium": [
-            "basf ultradur high speed"
-        ],
-        "title": "Myto Cantilever Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Gregg Fleishman",
-        "date": 1990,
-        "medium": [
-            "birch plywood"
-        ],
-        "title": "Raleigh Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Ronan & Erwan Bouroullec Design",
-        "date": 2009,
-        "medium": [
-            "polyamide"
-        ],
-        "title": "Vegetal Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "injection-molded",
-            "glass-reinforced nylon",
-            "aluminum",
-            "stainless steel"
-        ],
-        "title": "Washington Skin Nylon Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "injection-molded",
-            "glass-reinforced nylon",
-            "aluminum",
-            "stainless steel"
-        ],
-        "title": "Washington Skin Nylon Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Shane Schneck",
-        "date": 2010,
-        "medium": [
-            "birch plywood",
-            "ash veneer"
-        ],
-        "title": "Ru Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Shane Schneck",
-        "date": 2010,
-        "medium": [
-            "birch plywood",
-            "ash veneer"
-        ],
-        "title": "Ru Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jonathan Olivares",
-        "date": 2012,
-        "medium": [
-            "die-cast aluminum",
-            "powder coat paint",
-            "stainless steel"
-        ],
-        "title": "Olivares Aluminum Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jonathan Olivares",
-        "date": 2012,
-        "medium": [
-            "die-cast aluminum",
-            "powder coat paint",
-            "stainless steel"
-        ],
-        "title": "Olivares Aluminum Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "injection-molded",
-            "glass-reinforced nylon",
-            "aluminum",
-            "stainless steel"
-        ],
-        "title": "Washington Skin Nylon Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "injection-molded",
-            "glass-reinforced nylon",
-            "aluminum",
-            "stainless steel"
-        ],
-        "title": "Washington Skin Nylon Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "injection-molded",
-            "glass-reinforced nylon",
-            "aluminum",
-            "stainless steel"
-        ],
-        "title": "Washington Skin Nylon Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Hans Bellmann",
-        "date": 1950,
-        "medium": [
-            "plywood",
-            "steel"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charlotte Perriand",
-        "date": 1965,
-        "medium": [
-            "leather",
-            "chrome-plated steel"
-        ],
-        "title": "Dining chair from Les Arcs, France",
-        "museum": "aic"
-    },
-    {
-        "artist": "Henry Peter Glass",
-        "date": 1966,
-        "medium": [
-            "walnut",
-            "plywood",
-            "artificial leather"
-        ],
-        "title": "Cylindra Plywood Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Shane Schneck",
-        "date": 2010,
-        "medium": [
-            "birch plywood",
-            "ash veneer"
-        ],
-        "title": "Ru Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank O. Gehry",
-        "date": 1982,
-        "medium": [
-            "cardboard"
-        ],
-        "title": "Experimental Edges Beaver Chair and Ottoman",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2008,
-        "medium": [
-            "basf ultradur high speed"
-        ],
-        "title": "Myto Cantilever Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Paul Ludick",
-        "date": 1985,
-        "medium": [
-            "painted wood",
-            "chainlink fencing"
-        ],
-        "title": "The World Theatre: Apartheid (Chair)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Verner Panton",
-        "date": 1973,
-        "medium": [
-            "injection molded plastic"
-        ],
-        "title": "Stacking Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jorge Gonz\u00e1lez Santos",
-        "date": 2016,
-        "medium": [
-            "woven \u201cenea\u201d fiber (typha dominguensis) on \u201claurel espada\u201d wood (ocotea floribunda)"
-        ],
-        "title": "After Arklu (Tur\u00e9)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Cecilie Manz",
-        "date": 2016,
-        "medium": [
-            "oregon pine",
-            "veneer"
-        ],
-        "title": "Workshop Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Barber Osgerby",
-        "date": 2011,
-        "medium": [
-            "polypropylene"
-        ],
-        "title": "Tip Ton Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Eames",
-        "date": 1968,
-        "medium": [
-            "aluminum",
-            "leather"
-        ],
-        "title": "Chaise",
-        "museum": "aic"
-    },
-    {
-        "artist": "Robert Wilson",
-        "date": 1987,
-        "medium": [
-            "perforated",
-            "coated sheet steel"
-        ],
-        "title": "Hamletmachine Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jonathan Muecke",
-        "date": 2022,
-        "medium": [
-            "carbon fiber",
-            "epoxy resin"
-        ],
-        "title": "Carbon Tube Lounge (CTL)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Philippe Starck",
-        "date": 1988,
-        "medium": [
-            "pau rosa plywood",
-            "cast aluminum"
-        ],
-        "title": "Royalton Dining Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2009,
-        "medium": [
-            "ash",
-            "reinforced polypropylene"
-        ],
-        "title": "Monza Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "injection-molded",
-            "glass-reinforced nylon",
-            "aluminum",
-            "stainless steel"
-        ],
-        "title": "Washington Skin Nylon Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Harold L. Cohen",
-        "date": 1945,
-        "medium": [
-            "tubular steel frame",
-            "nylon mesh fabric"
-        ],
-        "title": "Orange Nylon Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Paul Ludick",
-        "date": 1989,
-        "medium": [
-            "painted wood",
-            "cotton velvet",
-            "stones",
-            "silk chiffon"
-        ],
-        "title": "\"Earth\" O-Zone Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Scholten and Baijings",
-        "date": 2013,
-        "medium": [
-            "polyamide"
-        ],
-        "title": "Dot Chair Prototype Shell",
-        "museum": "aic"
-    },
-    {
-        "artist": "Davis Pratt",
-        "date": 1948,
-        "medium": [
-            "tubular steel frame",
-            "rubber inner tube from auto tire",
-            "shag textile cover"
-        ],
-        "title": "Air Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Patricia Urquiola",
-        "date": 2006,
-        "medium": [
-            "felt",
-            "wool",
-            "leather",
-            "polyurethane foam",
-            "synthetic net",
-            "stainless steel",
-            "pvc"
-        ],
-        "title": "Antibodi Chaise",
-        "museum": "aic"
-    },
-    {
-        "artist": "George Nelson",
-        "date": 1956,
-        "medium": [
-            "fiberglass",
-            "steel"
-        ],
-        "title": "Swag Leg Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "aluminum"
-        ],
-        "title": "Washington Skeleton Aluminum Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Hern\u00e1n D\u00edaz Alonso",
-        "date": 2009,
-        "medium": [
-            "expanded polystyrene",
-            "polyester",
-            "metal glaze",
-            "polyurethane auto paint"
-        ],
-        "title": "Eam-Mess (Chaise)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Davis Brewster Allen",
-        "date": 1957,
-        "medium": [
-            "steel"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Dirk Vander Kooij",
-        "date": 2012,
-        "medium": [
-            "reused plastics"
-        ],
-        "title": "Endless Pulse Low Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1987,
-        "medium": [
-            "olive",
-            "sycamore",
-            "lacquered wood"
-        ],
-        "title": "President's Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Christien Meindertsma",
-        "date": 2018,
-        "medium": [
-            "flax"
-        ],
-        "title": "Mold for Flax Chair Prototype",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2008,
-        "medium": [
-            "basf ultradur high speed"
-        ],
-        "title": "Myto Cantilever Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Thomas Heatherwick",
-        "date": 2007,
-        "medium": [
-            "rotation-molded plastic"
-        ],
-        "title": "Spun Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Hans J. Wegner",
-        "date": 1949,
-        "medium": [
-            "oak",
-            "spanish cane"
-        ],
-        "title": "Folding Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank O. Gehry",
-        "date": 1967,
-        "medium": [
-            "cardboard"
-        ],
-        "title": "Easy Edges Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Cecilie Manz",
-        "date": 2009,
-        "medium": [
-            "oregon pine"
-        ],
-        "title": "Pluralis Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Richard Hutten",
-        "date": 2004,
-        "medium": [
-            "walnut",
-            "chrome"
-        ],
-        "title": "This Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Richard Hutten",
-        "date": 2004,
-        "medium": [
-            "beech",
-            "chrome"
-        ],
-        "title": "This Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Richard Hutten",
-        "date": 2004,
-        "medium": [
-            "beech",
-            "chrome"
-        ],
-        "title": "This Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2009,
-        "medium": [
-            "steel",
-            "plywood",
-            "polyester"
-        ],
-        "title": "Tube Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Dan Friedman",
-        "date": 1987,
-        "medium": [
-            "medium-density fiberboard",
-            "plastic",
-            "wood laminates",
-            "nickel-plated metal",
-            "hand-painted letters"
-        ],
-        "title": "Truth Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jorge Gonz\u00e1lez Santos",
-        "date": 2018,
-        "medium": [
-            "woven cotton cord on constructed \u201croble\u201d wood (tabebuia heterophylla)"
-        ],
-        "title": "Banquetas Ch\u00e9vere (Ch\u00e9vere Stool)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Industrial Facility",
-        "date": 2009,
-        "medium": [
-            "beech wood",
-            "natural waxed oak"
-        ],
-        "title": "Table, Bench, Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Max Lamb",
-        "date": 2017,
-        "medium": [
-            "aisi 1045 carbon steel"
-        ],
-        "title": "Forge Chair (Square Chair #2) 298",
-        "museum": "aic"
-    },
-    {
-        "artist": "Michele Oka Doner",
-        "date": 1991,
-        "medium": [
-            "silver"
-        ],
-        "title": "Dialogic: Silver (Chair)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Patrick Jouin",
-        "date": 2006,
-        "medium": [
-            "plastic",
-            "stereolithography"
-        ],
-        "title": "Solid C2 Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "aluminum"
-        ],
-        "title": "Washington Skeleton Aluminum Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Hans J. Wegner",
-        "date": 1944,
-        "medium": [
-            "stained cherry",
-            "jute",
-            "leather"
-        ],
-        "title": "Chinese Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jean Prouv\u00e9",
-        "date": 1950,
-        "medium": [
-            "wood",
-            "metal",
-            "fabric cushion"
-        ],
-        "title": "Visiteur Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Bruno Mathsson",
-        "date": 1960,
-        "medium": [
-            "bent plywood or beechwood",
-            "hemp webbing"
-        ],
-        "title": "Chaise Longue: \"Pernilla\"",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank Lloyd Wright",
-        "date": 1940,
-        "medium": [
-            "blonde mahogany (philippine bataan)",
-            "plywood",
-            "leather"
-        ],
-        "title": "Square Usonian Hassock",
-        "museum": "aic"
-    },
-    {
-        "artist": "Nanna and Jorgen Ditzel",
-        "date": 1950,
-        "medium": [
-            "wicker",
-            "teak"
-        ],
-        "title": "Basket Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Maarten van Severen",
-        "date": 1999,
-        "medium": [
-            "polyurethane foam",
-            "coating",
-            "enameled steel",
-            "enameled aluminum"
-        ],
-        "title": "Chair No. 3",
-        "museum": "aic"
-    },
-    {
-        "artist": "Yves B\u00e9har",
-        "date": 2010,
-        "medium": [
-            "paper"
-        ],
-        "title": "SAYL Chair booklet",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jasper Morrison",
-        "date": 2000,
-        "medium": [
-            "injection-molded polypropylene",
-            "fiberglass"
-        ],
-        "title": "Air Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "aluminum"
-        ],
-        "title": "Washington Skeleton Aluminum Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "aluminum"
-        ],
-        "title": "Washington Skeleton Aluminum Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Bertjan Pot",
-        "date": 2004,
-        "medium": [
-            "carbon fiber",
-            "epoxy"
-        ],
-        "title": "Carbon Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Paul McCobb",
-        "date": 1957,
-        "medium": [
-            "mahogany",
-            "leather upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Paul McCobb",
-        "date": 1957,
-        "medium": [
-            "mahogany",
-            "leather upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Adjaye",
-        "date": 2013,
-        "medium": [
-            "injection-molded",
-            "glass-reinforced nylon",
-            "aluminum",
-            "stainless steel"
-        ],
-        "title": "Washington Skin Nylon Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Shane Schneck",
-        "date": 2010,
-        "medium": [
-            "birch plywood",
-            "ash veneer"
-        ],
-        "title": "Ru Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jonathan Olivares",
-        "date": 2012,
-        "medium": [
-            "die-cast aluminum",
-            "powder coat paint",
-            "stainless steel"
-        ],
-        "title": "Olivares Aluminum Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Hans J. Wegner",
-        "date": 1949,
-        "medium": [
-            "oak",
-            "spanish cane"
-        ],
-        "title": "Folding Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Joe Cesare Colombo",
-        "date": 1960,
-        "medium": [
-            "molded nylon",
-            "polypropylene"
-        ],
-        "title": "Stacking Chair (one of two)",
-        "museum": "aic"
-    },
-    {
-        "artist": "David Rowland",
-        "date": 1987,
-        "medium": [
-            "chrome",
-            "vinyl"
-        ],
-        "title": "Set of two armchairs and two side chairs with cart",
-        "museum": "aic"
-    },
-    {
-        "artist": "Mathias Bengtsson",
-        "date": 2003,
-        "medium": [
-            "spun carbon fiber"
-        ],
-        "title": "Spun Carbon-Fiber Chaise Lounge",
-        "museum": "aic"
-    },
-    {
-        "artist": "Gaetano Pesce",
-        "date": 1969,
-        "medium": [
-            "bayfit flexible cold-shaped polyurethane foam",
-            "jersey fabric",
-            "jute"
-        ],
-        "title": "Up 5 Easy Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2009,
-        "medium": [
-            "tubular steel",
-            "mdf",
-            "upholstery"
-        ],
-        "title": "Pipe Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Konstantin Grcic",
-        "date": 2011,
-        "medium": [
-            "fabric",
-            "steel"
-        ],
-        "title": "Waver Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Gio Ponti",
-        "date": 1957,
-        "medium": [
-            "lacquered wood",
-            "cane"
-        ],
-        "title": "Superleggera Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank Lloyd Wright",
-        "date": 1902,
-        "medium": [
-            "poplar",
-            "leather"
-        ],
-        "title": "Spindle Cube Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Carlo Bugatti",
-        "date": 1902,
-        "medium": [
-            "wood",
-            "parchment",
-            "copper",
-            "pigments"
-        ],
-        "title": "Cobra Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Michael Thonet",
-        "date": 1876,
-        "medium": [
-            "beech",
-            "caning"
-        ],
-        "title": "Rocking Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Hector Guimard",
-        "date": 1900,
-        "medium": [
-            "pearwood",
-            "tooled leather"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Peter Behrens",
-        "date": 1902,
-        "medium": [
-            "ebonized oak",
-            "woven rattan"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank Lloyd Wright",
-        "date": 1937,
-        "medium": [
-            "steel",
-            "maple",
-            "original upholstery (later laminated surface)"
-        ],
-        "title": "Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Richard Riemerschmid",
-        "date": 1898,
-        "medium": [
-            "bog oak",
-            "leather"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Unknown",
-        "date": 1815,
-        "medium": [
-            "walnut",
-            "modern replacement upholstery"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Dutch School",
-        "date": 1740,
-        "medium": [
-            "walnut",
-            "walnut veneer",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Giles Grendey",
-        "date": 1735,
-        "medium": [
-            "walnut",
-            "18th-century replacement upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Thomas Hope",
-        "date": 1802,
-        "medium": [
-            "mahogany",
-            "ebony",
-            "beech",
-            "leather upholstery"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Swahili",
-        "date": 1801,
-        "medium": [
-            "wood",
-            "ivory",
-            "cotton fiber"
-        ],
-        "title": "Chair (Kiti Cha Enzi)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank Lloyd Wright",
-        "date": 1904,
-        "medium": [
-            "oak",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "George Grant Elmslie",
-        "date": 1910,
-        "medium": [
-            "oak",
-            "laminated wood",
-            "leather",
-            "jute webbing",
-            "horsehair"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Adolf Loos",
-        "date": 1893,
-        "medium": [
-            "beech",
-            "cane"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Filipo Pelagio Palagi",
-        "date": 1830,
-        "medium": [
-            "mahogany",
-            "maple",
-            "modern reproduction upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Ludwig Mies van der Rohe",
-        "date": 1926,
-        "medium": [
-            "bent tubular chromium-plated steel",
-            "banded",
-            "sewn dark green leather spanning seat",
-            "back"
-        ],
-        "title": "MR 20 Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Ludwig Mies van der Rohe",
-        "date": 1926,
-        "medium": [
-            "bent chromed flat steel frame",
-            "leather upholstery"
-        ],
-        "title": "MR 90 Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Gerrit Thomas Rietveld",
-        "date": 1920,
-        "medium": [
-            "painted plywood"
-        ],
-        "title": "Red-Blue Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Josef Hoffmann",
-        "date": 1903,
-        "medium": [
-            "bent beechwood",
-            "laminated wood",
-            "red leather seat"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Herter Brothers",
-        "date": 1869,
-        "medium": [
-            "rosewood",
-            "marquetry of various woods",
-            "ivory",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Michael Thonet",
-        "date": 1846,
-        "medium": [
-            "beech",
-            "cane"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "George Nakashima",
-        "date": 1988,
-        "medium": [
-            "walnut",
-            "hickory"
-        ],
-        "title": "\"Conoid Chair\"",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1825,
-        "medium": [
-            "solid walnut",
-            "walnut veneer",
-            "modern upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Rohlfs",
-        "date": 1900,
-        "medium": [
-            "oak",
-            "black stain"
-        ],
-        "title": "Hall Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Asante",
-        "date": 1850,
-        "medium": [
-            "wood",
-            "brass",
-            "leather"
-        ],
-        "title": "Royal Chair (Akonkromfi)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Cevedra B. Sheldon",
-        "date": 1876,
-        "medium": [
-            "iron",
-            "walnut",
-            "cane",
-            "upholstery"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Augustus Welby Northmore Pugin",
-        "date": 1843,
-        "medium": [
-            "oak",
-            "leather",
-            "brass"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Chokwe",
-        "date": 1875,
-        "medium": [
-            "wood",
-            "brass tacks",
-            "hide"
-        ],
-        "title": "Chair (Chitwamo or Njunga)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Asante",
-        "date": 1875,
-        "medium": [
-            "wood",
-            "brass",
-            "leather"
-        ],
-        "title": "Royal Chair (Asipim)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1870,
-        "medium": [
-            "horn",
-            "silk",
-            "brass",
-            "upholstery"
-        ],
-        "title": "Steer Horn Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Bruno Paul",
-        "date": 1910,
-        "medium": [
-            "wood",
-            "upholstery"
-        ],
-        "title": "Tub Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "John Philip Fond\u00e9",
-        "date": 1816,
-        "medium": [
-            "ash",
-            "white pine",
-            "white oak",
-            "painted decoration",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Theophilus Edvard von Hansen",
-        "date": 1865,
-        "medium": [
-            "walnut",
-            "beech",
-            "modern velvet upholstery"
-        ],
-        "title": "Dining Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Herter Brothers",
-        "date": 1877,
-        "medium": [
-            "ebonized cherry",
-            "various inlaid woods",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Josef Hoffmann",
-        "date": 1901,
-        "medium": [
-            "beech",
-            "wood laminate"
-        ],
-        "title": "Side Chair, Model No. 371",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1760,
-        "medium": [
-            "walnut"
-        ],
-        "title": "High-Back Windsor Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1790,
-        "medium": [
-            "carved",
-            "gilded",
-            "painted wood",
-            "inlay reverse painted glass",
-            "modern upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Sumner Greene",
-        "date": 1907,
-        "medium": [
-            "mahogany",
-            "ebony",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Richard Joseph Neutra",
-        "date": 1930,
-        "medium": [
-            "chrome-plated steel",
-            "replacement upholstery"
-        ],
-        "title": "Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Tiv",
-        "date": 1901,
-        "medium": [
-            "wood"
-        ],
-        "title": "Tripod Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1765,
-        "medium": [
-            "wood",
-            "leather",
-            "brass"
-        ],
-        "title": "Pair of Musician's Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Ngombe",
-        "date": 1875,
-        "medium": [
-            "wood",
-            "brass tacks"
-        ],
-        "title": "Reclined-Back Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank Lloyd Wright",
-        "date": 1956,
-        "medium": [
-            "plywood",
-            "copper",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1760,
-        "medium": [
-            "mahogany",
-            "oak",
-            "maple",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank Lloyd Wright",
-        "date": 1908,
-        "medium": [
-            "oak"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Bruno Paul",
-        "date": 1910,
-        "medium": [
-            "wood",
-            "modern upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Lobi",
-        "date": 1901,
-        "medium": [
-            "wood"
-        ],
-        "title": "Reclining Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Giles Grendey",
-        "date": 1730,
-        "medium": [
-            "wood",
-            "red",
-            "gold lacquer decoration",
-            "caned seat"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1750,
-        "medium": [
-            "mahogany",
-            "tulip poplar",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1750,
-        "medium": [
-            "mahogany",
-            "tulip poplar",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1760,
-        "medium": [
-            "tulipwood",
-            "maple",
-            "hickory",
-            "oak"
-        ],
-        "title": "Fan-Back Windsor Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Samuel McIntire",
-        "date": 1794,
-        "medium": [
-            "mahogany",
-            "ash",
-            "birch",
-            "upholstery"
-        ],
-        "title": "Pair of Side Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Warren McArthur",
-        "date": 1936,
-        "medium": [
-            "anodized aluminum",
-            "cotton upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1730,
-        "medium": [
-            "white pine",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Harvey Ellis",
-        "date": 1903,
-        "medium": [
-            "oak",
-            "copper",
-            "bronze inlays"
-        ],
-        "title": "Rocking Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1640,
-        "medium": [
-            "ash",
-            "white oak",
-            "silver maple"
-        ],
-        "title": "High Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1600,
-        "medium": [
-            "maple",
-            "oak"
-        ],
-        "title": "Chair Table",
-        "museum": "aic"
-    },
-    {
-        "artist": "Samuel Gragg",
-        "date": 1808,
-        "medium": [
-            "oak",
-            "ash",
-            "maple",
-            "paint"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1740,
-        "medium": [
-            "walnut"
-        ],
-        "title": "High Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Carlo Bugatti",
-        "date": 1902,
-        "medium": [
-            "wood frame covered",
-            "parchment",
-            "painted",
-            "gilded",
-            "applied brass mounts"
-        ],
-        "title": "Eiffel Tower Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Marcel Breuer",
-        "date": 1926,
-        "medium": [
-            "chrome-plated steel tubing",
-            "woven wicker seat",
-            "back"
-        ],
-        "title": "B-5 Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Giles Grendey",
-        "date": 1730,
-        "medium": [
-            "wood",
-            "red",
-            "gold lacquer decoration",
-            "caned seat"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "George Nakashima",
-        "date": 1988,
-        "medium": [
-            "walnut",
-            "hickory"
-        ],
-        "title": "\"New Chair\"",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1722,
-        "medium": [
-            "maple",
-            "leather"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1825,
-        "medium": [
-            "chestnut",
-            "oak"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1795,
-        "medium": [
-            "beechwood",
-            "carved",
-            "painted",
-            "gilded",
-            "modern upholstery"
-        ],
-        "title": "Armchair (one of two)",
-        "museum": "aic"
-    },
-    {
-        "artist": "R. J. Horner and Company",
-        "date": 1890,
-        "medium": [
-            "maple",
-            "birds-eye maple"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1690,
-        "medium": [
-            "painted",
-            "gilded beechwood",
-            "modern upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Filipo Pelagio Palagi",
-        "date": 1830,
-        "medium": [
-            "mahogany veneer",
-            "maple",
-            "mahogany inlay",
-            "modern reproduction upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1685,
-        "medium": [
-            "black lacquer",
-            "gilded beechwood"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1742,
-        "medium": [
-            "mahogany",
-            "white oak",
-            "white pine",
-            "beech"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Donald Deskey",
-        "date": 1938,
-        "medium": [
-            "chrome-plated metal",
-            "upholstered fabric"
-        ],
-        "title": "Pair of Armchairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "John Makepeace",
-        "date": 1988,
-        "medium": [
-            "laminated english holly wood",
-            "natural hide"
-        ],
-        "title": "Millennium 3 Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1755,
-        "medium": [
-            "mahogany",
-            "yellow pine",
-            "white pine",
-            "atlantic white cedar",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "John Gaines, III",
-        "date": 1735,
-        "medium": [
-            "maple"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1746,
-        "medium": [
-            "maple"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "L\u00e9on Albert Jallot",
-        "date": 1920,
-        "medium": [
-            "walnut",
-            "shagreen"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1780,
-        "medium": [
-            "mahogany",
-            "white pine",
-            "maple",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Chapin School of Cabinetmakers",
-        "date": 1770,
-        "medium": [
-            "mahogany",
-            "white pine",
-            "yellow pine",
-            "upholstery"
-        ],
-        "title": "Pair of Side Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "J. & J.W. Meeks",
-        "date": 1856,
-        "medium": [
-            "rosewood",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "John Henry Belter and Company",
-        "date": 1851,
-        "medium": [
-            "rosewood",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1890,
-        "medium": [
-            "painted cast iron"
-        ],
-        "title": "Armchair (1 of 3)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Louis Comfort Tiffany",
-        "date": 1911,
-        "medium": [
-            "oak",
-            "velvet upholstery"
-        ],
-        "title": "Pair of Side Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1760,
-        "medium": [
-            "mahogany",
-            "white pine",
-            "american sweetgum",
-            "upholstery"
-        ],
-        "title": "Pair of Side Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "George Trask",
-        "date": 1825,
-        "medium": [
-            "mahogany",
-            "birch",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Charles Francis Annesley Voysey",
-        "date": 1898,
-        "medium": [
-            "oak",
-            "ash",
-            "original rush seat"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Shaker",
-        "date": 1831,
-        "medium": [
-            "birch"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Alexander Jackson Davis",
-        "date": 1849,
-        "medium": [
-            "rosewood",
-            "upholstery"
-        ],
-        "title": "Pair of Side Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Hendrik Van Keppel",
-        "date": 1939,
-        "medium": [
-            "enameled steel tubing",
-            "cotton cording"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Le Corbusier (Charles-\u00c9douard Jeanneret)",
-        "date": 1928,
-        "medium": [
-            "chrome-plated steel",
-            "replacement american shorthorn upholstery",
-            "leather",
-            "painted metal"
-        ],
-        "title": "Chaise Longue",
-        "museum": "aic"
-    },
-    {
-        "artist": "Louis Comfort Tiffany",
-        "date": 1885,
-        "medium": [
-            "painted maple",
-            "vinyl"
-        ],
-        "title": "Side Chair (part of a set)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jacques-\u00c9mile Ruhlmann",
-        "date": 1920,
-        "medium": [
-            "macassar ebony",
-            "silvered bronze ferrules on front feet",
-            "silk velvet upholstered seat"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1890,
-        "medium": [
-            "painted cast iron"
-        ],
-        "title": "Armchair (1 of 3)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1890,
-        "medium": [
-            "hickory",
-            "oak"
-        ],
-        "title": "Rocking Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Kem Weber",
-        "date": 1928,
-        "medium": [
-            "painted wood",
-            "leather upholstery"
-        ],
-        "title": "Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1770,
-        "medium": [
-            "mahogany",
-            "tulipwood",
-            "white pine",
-            "upholstery"
-        ],
-        "title": "Pair of Side Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "D. E. Cutter",
-        "date": 1800,
-        "medium": [
-            "maple",
-            "beech",
-            "oak",
-            "hickory"
-        ],
-        "title": "Pair of Windsor Side Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Edward Welby Pugin",
-        "date": 1865,
-        "medium": [
-            "oak",
-            "ebony",
-            "later iron plate"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1796,
-        "medium": [
-            "oak",
-            "cherry",
-            "pine",
-            "paint",
-            "gilding",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1850,
-        "medium": [
-            "white pine",
-            "walnut",
-            "maple"
-        ],
-        "title": "Rocking Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1755,
-        "medium": [
-            "mahogany",
-            "upholstery"
-        ],
-        "title": "Pair of Side Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1790,
-        "medium": [
-            "mahogany",
-            "ash",
-            "soft maple",
-            "upholstery"
-        ],
-        "title": "Pair of Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Peter Bonnett Wight",
-        "date": 1876,
-        "medium": [
-            "oak",
-            "cane"
-        ],
-        "title": "Dining Room chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Lars Kinsarvik",
-        "date": 1908,
-        "medium": [
-            "pine",
-            "pigment"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Kem Weber",
-        "date": 1928,
-        "medium": [
-            "painted wood",
-            "silver leaf",
-            "walnut"
-        ],
-        "title": "Serving Table",
-        "museum": "aic"
-    },
-    {
-        "artist": "Clifton Monteith",
-        "date": 1991,
-        "medium": [
-            "willow",
-            "aspen"
-        ],
-        "title": "\"Lean Back Chair with Halo\"",
-        "museum": "aic"
-    },
-    {
-        "artist": "Thomas Chippendale, I",
-        "date": 1770,
-        "medium": [
-            "giltwood",
-            "modern upholstery"
-        ],
-        "title": "Armchair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jacob Keller",
-        "date": 1900,
-        "medium": [
-            "walnut",
-            "caning"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1815,
-        "medium": [
-            "hardwood",
-            "caning"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Edwin Lutyens",
-        "date": 1931,
-        "medium": [
-            "walnut",
-            "replacement leather"
-        ],
-        "title": "Armchair and stool",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1790,
-        "medium": [
-            "white pine",
-            "other woods"
-        ],
-        "title": "Child's Windsor Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1815,
-        "medium": [
-            "mahogany",
-            "ebony",
-            "slip seat",
-            "modern upholstery"
-        ],
-        "title": "Side Chair (one of two)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1725,
-        "medium": [
-            "padauk wood",
-            "textile"
-        ],
-        "title": "Chair (one of a pair)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1725,
-        "medium": [
-            "padauk wood",
-            "textile"
-        ],
-        "title": "Chair (one of a pair)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Frank Lloyd Wright",
-        "date": 1900,
-        "medium": [
-            "oak"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "August Thonet",
-        "date": 1880,
-        "medium": [
-            "beech",
-            "cane"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Louis Comfort Tiffany",
-        "date": 1885,
-        "medium": [
-            "painted maple",
-            "vinyl"
-        ],
-        "title": "Side Chair (part of a set)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Richard Parkin",
-        "date": 1835,
-        "medium": [
-            "wood",
-            "upholstery"
-        ],
-        "title": "Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1715,
-        "medium": [
-            "frames: gilt gesso on beechwood",
-            "backs",
-            "seats: lacquered",
-            "gilt chinese softwood"
-        ],
-        "title": "Pair of Hall Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1900,
-        "medium": [
-            "mahogany"
-        ],
-        "title": "Corner Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Jennens and Bettridge",
-        "date": 1844,
-        "medium": [
-            "papier-m\u00e2ch\u00e9",
-            "wood",
-            "gilded",
-            "inlaid",
-            "mother-of-pearl",
-            "modern upholstery"
-        ],
-        "title": "Pair of Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Marcel Breuer",
-        "date": 1936,
-        "medium": [
-            "bent plywood",
-            "laminated",
-            "solid wood"
-        ],
-        "title": "Chaise Longue",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1805,
-        "medium": [
-            "mahogany",
-            "ash",
-            "cherry",
-            "white pine",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1890,
-        "medium": [
-            "painted cast iron"
-        ],
-        "title": "Armchair (one of a set of three)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Mount Lebanon Shaker Village (New Lebanon, N.Y.)",
-        "date": 1873,
-        "medium": [
-            "maple"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1755,
-        "medium": [
-            "mahogany",
-            "white pine",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1691,
-        "medium": [
-            "maple",
-            "ash"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1790,
-        "medium": [
-            "mahogany",
-            "walnut",
-            "ash",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1660,
-        "medium": [
-            "maple",
-            "birch"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "George Nakashima",
-        "date": 1945,
-        "medium": [
-            "walnut"
-        ],
-        "title": "Pair of Chairs",
-        "museum": "aic"
-    },
-    {
-        "artist": "Louis Comfort Tiffany",
-        "date": 1885,
-        "medium": [
-            "painted maple",
-            "vinyl"
-        ],
-        "title": "Side Chair (part of a set)",
-        "museum": "aic"
-    },
-    {
-        "artist": "Louis Comfort Tiffany",
-        "date": 1885,
-        "medium": [
-            "painted maple",
-            "vinyl"
-        ],
-        "title": "Side Chair (part of a set)",
-        "museum": "aic"
-    },
-    {
-        "artist": "L\u00e9on Albert Jallot",
-        "date": 1920,
-        "medium": [
-            "walnut",
-            "shagreen"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Samuel A. Marx",
-        "date": 1944,
-        "medium": [
-            "birch",
-            "plastic",
-            "veneered legs",
-            "black plastic"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1870,
-        "medium": [
-            "wood"
-        ],
-        "title": "Side chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1790,
-        "medium": [
-            "mahogany",
-            "walnut",
-            "ash",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1755,
-        "medium": [
-            "mahogany",
-            "yellow pine",
-            "white pine",
-            "atlantic white cedar",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1730,
-        "medium": [
-            "walnut",
-            "maple",
-            "upholstery"
-        ],
-        "title": "Child's Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1790,
-        "medium": [
-            "maple",
-            "white pine",
-            "hickory"
-        ],
-        "title": "Windsor High Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Louis Comfort Tiffany",
-        "date": 1885,
-        "medium": [
-            "painted maple",
-            "vinyl"
-        ],
-        "title": "Side Chair (part of a set)",
-        "museum": "aic"
-    },
-    {
-        "artist": [
-            "PINWU"
-        ],
-        "date": 2012,
-        "medium": [
-            "beech (wood)",
-            "bamboo paper"
-        ],
-        "title": "G\u00f9",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "PINWU"
-        ],
-        "date": 2011,
-        "medium": [
-            "beech (wood)",
-            "rice paper"
-        ],
-        "title": "Piao",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "PINWU"
-        ],
-        "date": 2012,
-        "medium": [
-            "xuan paper",
-            "wood",
-            "foam",
-            "silk"
-        ],
-        "title": "Ti\u00e9",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki",
-            "Aoshima Shoten"
-        ],
-        "date": 1976,
-        "medium": [
-            "japanese cherry wood",
-            "stainless steel wire"
-        ],
-        "title": "Chair or a Stand-Like Chair / Chair Miri",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1974,
-        "medium": [
-            "metal wire",
-            "wood"
-        ],
-        "title": "Study model, Chair Or A Stand-Like Chair / Chair Miri",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Michael Young",
-            "EOQ"
-        ],
-        "date": 2008,
-        "medium": [
-            "aluminium"
-        ],
-        "title": "Chair 4A",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "nendo",
-            "Oki Sato"
-        ],
-        "date": 2008,
-        "medium": [
-            "paper",
-            "fabric"
-        ],
-        "title": "Cabbage Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Watanabe Riki",
-            "Yokoyama Industry"
-        ],
-        "date": 1952,
-        "medium": [
-            "japanese oak",
-            "cotton rope",
-            "metal"
-        ],
-        "title": "Rope Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1988,
-        "medium": [
-            "beech moulded plywood",
-            "lacquer enamel paint"
-        ],
-        "title": "August Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Tadaomi Mizunoe",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1954,
-        "medium": [
-            "beech",
-            "teak-veneered plywood"
-        ],
-        "title": "Book Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Pierre Jeanneret"
-        ],
-        "date": 1925,
-        "medium": [
-            "teak",
-            "caning"
-        ],
-        "title": "Library Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1995,
-        "medium": [
-            "resin plywood",
-            "core filling"
-        ],
-        "title": "Okazaki Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Kidokoro Ubunji",
-            "Tokyo Chikkosha"
-        ],
-        "date": 1935,
-        "medium": [
-            "bamboo"
-        ],
-        "title": "Bamboo chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Charlotte Perriand"
-        ],
-        "date": 1946,
-        "medium": [
-            "rattan",
-            "wood"
-        ],
-        "title": "Low Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Tarumi Kenzo",
-            "Q Designers",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1962,
-        "medium": [
-            "plywood",
-            "fabric"
-        ],
-        "title": "Legless chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki",
-            "Inoue Industries Inc.",
-            "Viale"
-        ],
-        "date": 1985,
-        "medium": [
-            "metal",
-            "lacquer paint",
-            "cotton",
-            "textile"
-        ],
-        "title": "Hannan Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Kowloon Rattan Ware Co."
-        ],
-        "date": 1952,
-        "medium": [
-            "rattan",
-            "pvc (plastic)",
-            "iron",
-            "rubber"
-        ],
-        "title": "Rattan chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Kidokoro Ubunji",
-            "Mitsukoshi Ltd.",
-            "Chikukousha"
-        ],
-        "date": 1937,
-        "medium": [
-            "bamboo",
-            "brass"
-        ],
-        "title": "Bamboo Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Minnie Boga",
-            "Taaru"
-        ],
-        "date": 1969,
-        "medium": [
-            "teak (wood)",
-            "jute (fibre)"
-        ],
-        "title": "Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Kuramata Shiro",
-            "Ishimaru Co. Ltd."
-        ],
-        "date": 1969,
-        "medium": [
-            "plastic",
-            "fluorescent lamp"
-        ],
-        "title": "Luminous Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Tom Dixon"
-        ],
-        "date": 1988,
-        "medium": [
-            "steel",
-            "rush"
-        ],
-        "title": "S-Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1986,
-        "medium": [
-            "steel",
-            "melamine coating",
-            "upholstered seat"
-        ],
-        "title": "NY Chair II",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Pierre Jeanneret"
-        ],
-        "date": 1958,
-        "medium": [
-            "teak",
-            "caning"
-        ],
-        "title": "Rectangular Feet Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Xiao Tianyu"
-        ],
-        "date": 2010,
-        "medium": [
-            "elm",
-            "cotton",
-            "wood"
-        ],
-        "title": "Harmony\u2014Circle Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1986,
-        "medium": [
-            "steel",
-            "melamine coating"
-        ],
-        "title": "NY Chair I",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Xiao Tianyu"
-        ],
-        "date": 2010,
-        "medium": [
-            "elm",
-            "cotton",
-            "wood"
-        ],
-        "title": "Harmony\u2014Light Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki",
-            "Inoue Industries Inc.",
-            "Viale"
-        ],
-        "date": 1984,
-        "medium": [
-            "metal",
-            "lacquer",
-            "cotton",
-            "wool"
-        ],
-        "title": "Hannan Chair Long",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Yoshioka Tokujin"
-        ],
-        "date": 2006,
-        "medium": [
-            "polyester fiber"
-        ],
-        "title": "Pane Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "nendo",
-            "Oki Sato"
-        ],
-        "date": 2008,
-        "medium": [
-            "pleated paper",
-            "paint"
-        ],
-        "title": "Cabbage Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Zhang Zhoujie"
-        ],
-        "date": 2011,
-        "medium": [
-            "stainless steel"
-        ],
-        "title": "'SQN3-A' chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Xiao Tianyu"
-        ],
-        "date": 2010,
-        "medium": [
-            "elm",
-            "cotton",
-            "wood"
-        ],
-        "title": "Harmony\u2014Master Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Artist unknown"
-        ],
-        "date": 1990,
-        "medium": [
-            "metal",
-            "upholstered cushion"
-        ],
-        "title": "Found chair collected for Michael Wolf's 'Bastard Chair' photography series",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1985,
-        "medium": [
-            "metal wire",
-            "paper",
-            "textile",
-            "wood",
-            "foam board"
-        ],
-        "title": "Study model, Long Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1971,
-        "medium": [
-            "wood"
-        ],
-        "title": "Study model, Small Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki",
-            "Aoshima Shoten",
-            "Viale"
-        ],
-        "date": 1973,
-        "medium": [
-            "maple (wood)",
-            "natural dye",
-            "cotton"
-        ],
-        "title": "Study model, Small Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1988,
-        "medium": [
-            "metal wire",
-            "paper",
-            "textile",
-            "wood",
-            "foam board"
-        ],
-        "title": "Study model, Caf\u00e9 Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1972,
-        "medium": [
-            "wood"
-        ],
-        "title": "Study model, Shaker chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Sakakura Junzo",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1953,
-        "medium": [
-            "stained beechwood",
-            "stained beechwood-veneered plywood"
-        ],
-        "title": "Side Chair, No. 3221",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Choh Daisaku",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1957,
-        "medium": [
-            "teak-veneered plywood",
-            "fabric"
-        ],
-        "title": "Low Chair, model 5016",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Sakakura Junzo"
-        ],
-        "date": 1958,
-        "medium": [
-            "bent laminated beechwood",
-            "beechwood-veneered plywood",
-            "fabric"
-        ],
-        "title": "Side Chair, no. 5015",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Artist unknown"
-        ],
-        "date": 1990,
-        "medium": [
-            "plastic bag",
-            "fabric cushion",
-            "fabric strip",
-            "plastic strap",
-            "iron box",
-            "plastic dispenser outer casing"
-        ],
-        "title": "Found chair collected for Michael Wolf's 'Bastard Chair' photography series",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Artist unknown"
-        ],
-        "date": 1990,
-        "medium": [
-            "wood",
-            "steel",
-            "rubber"
-        ],
-        "title": "Found chair collected for Michael Wolf's 'Bastard Chair' photography series",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Alessandro Mendini"
-        ],
-        "date": 1978,
-        "medium": [
-            "painted wood",
-            "upholstery"
-        ],
-        "title": "Poltrona di Proust",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Umeda Masanori",
-            "Arte Japan Ltd."
-        ],
-        "date": 1982,
-        "medium": [
-            "metal",
-            "polyurethane foam"
-        ],
-        "title": "Prototype, Animal chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Kowloon Rattan Ware Co."
-        ],
-        "date": 1954,
-        "medium": [
-            "rattan",
-            "plastic",
-            "iron"
-        ],
-        "title": "Flying saucer chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Isamu Noguchi",
-            "Isamu Kenmochi",
-            "Kenmochi Design Associates",
-            "Kondo Shosaku",
-            "Yamakawa Rattan (now YMK Nagaoka)"
-        ],
-        "date": 1950,
-        "medium": [
-            "shioji wood",
-            "bamboo",
-            "iron"
-        ],
-        "title": "Bamboo Basket Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1972,
-        "medium": [
-            "wood",
-            "string",
-            "paper",
-            "textile",
-            "foam board"
-        ],
-        "title": "Study model, klismos chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1985,
-        "medium": [
-            "metal wire",
-            "paper",
-            "textile",
-            "wood",
-            "foam board"
-        ],
-        "title": "Study model, Side Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1983,
-        "medium": [
-            "metal",
-            "fabric"
-        ],
-        "title": "Study model, Hannan Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Pierre Jeanneret"
-        ],
-        "date": 1953,
-        "medium": [
-            "teak",
-            "caning"
-        ],
-        "title": "Easy Chair, Chandigarh, India",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1972,
-        "medium": [
-            "wood"
-        ],
-        "title": "Study model, Shaker rocking chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Choh Daisaku",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1957,
-        "medium": [
-            "teak-veneered plywood",
-            "fabric"
-        ],
-        "title": "Prototype, Low Chair, model 5016",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Satyendra Pakhal\u00e9"
-        ],
-        "date": 2001,
-        "medium": [
-            "ceramic",
-            "carbon fibre coating"
-        ],
-        "title": "RCCC/Roll Carbon Ceramic Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Yoshioka Tokujin"
-        ],
-        "date": 2006,
-        "medium": [
-            "polyester fiber",
-            "paper"
-        ],
-        "title": "Pane Chair process version",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Xiao Tianyu"
-        ],
-        "date": 2010,
-        "medium": [
-            "elm",
-            "cotton",
-            "wood"
-        ],
-        "title": "Harmony\u2014Little Circle Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Kuramata Shiro"
-        ],
-        "date": 1967,
-        "medium": [
-            "wood",
-            "plywood",
-            "rattan",
-            "paint",
-            "vinyl fabric"
-        ],
-        "title": "Prototype, Chair for SUPPER CLUB cazador",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Tange Kenzo",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1955,
-        "medium": [
-            "bent laminated birch",
-            "fabric"
-        ],
-        "title": "Lounge Chair for Sumi Memorial Hall",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Star Industrial Co., Ltd."
-        ],
-        "date": 1960,
-        "medium": [
-            "polypropylene",
-            "chromium-plated aluminium legs"
-        ],
-        "title": "Red A chair, no. 354",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ron Arad"
-        ],
-        "date": 1981,
-        "medium": [
-            "leather imitation",
-            "metal",
-            "foam",
-            "plastic",
-            "lacquered steel"
-        ],
-        "title": "Rover Chair (3.5 litre one-seater)",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Front",
-            "Sofia Lagerkvist",
-            "Charlotte von der Lancken",
-            "Anna Lindgren",
-            "Katja Pettersson"
-        ],
-        "date": 2005,
-        "medium": [
-            "selective laser\u2013sintered 3d-printed nylon",
-            "acrylic paint"
-        ],
-        "title": "Materialised Sketch of a Round Back Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Yanagi Sori",
-            "Kotobuki Seating Co., Ltd."
-        ],
-        "date": 1969,
-        "medium": [
-            "polyester",
-            "metal",
-            "textile",
-            "rubber"
-        ],
-        "title": "Side Chair, model FRP-3276F",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Front",
-            "Sofia Lagerkvist",
-            "Charlotte von der Lancken",
-            "Anna Lindgren",
-            "Katja Pettersson"
-        ],
-        "date": 2005,
-        "medium": [
-            "selective laser\u2013sintered 3d-printed nylon",
-            "acrylic paint"
-        ],
-        "title": "Materialised Sketch of a Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Frank Lloyd Wright"
-        ],
-        "date": 1919,
-        "medium": [
-            "oak",
-            "oil cloth covering",
-            "metal"
-        ],
-        "title": "'Peacock Chair' for Imperial Hotel, Tokyo, Japan",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Isamu Kenmochi",
-            "Yamakawa Rattan Japan Inc."
-        ],
-        "date": 1961,
-        "medium": [
-            "rattan",
-            "fabric upholstered cushion"
-        ],
-        "title": "Rattan Round Chair, model C-315-S",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Kiyonori Kikutake"
-        ],
-        "date": 1966,
-        "medium": [
-            "fibre-reinforced plastic",
-            "metal",
-            "textile"
-        ],
-        "title": "Chair for Miyakonojo Civic Center, Japan",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1978,
-        "medium": [
-            "wood"
-        ],
-        "title": "Study model, Closed Board-Leg Chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Umeda Masanori"
-        ],
-        "date": 1988,
-        "medium": [
-            "polyurethane foam",
-            "acrylic paint",
-            "metal push-pins"
-        ],
-        "title": "Model, RAN-Orchid",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Umeda Masanori"
-        ],
-        "date": 1975,
-        "medium": [
-            "polyurethane foam",
-            "acrylic paint"
-        ],
-        "title": "Model, Medio Oriente (General Officer's Chair)",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Kader Industrial Company Limited"
-        ],
-        "date": 1973,
-        "medium": [
-            "pp (plastic)",
-            "aluminum"
-        ],
-        "title": "OK 'Best-line' chair, model no. 902A",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki",
-            "Inoue Industries Inc."
-        ],
-        "date": 1981,
-        "medium": [
-            "lacquered plywood"
-        ],
-        "title": "Board Stool 'Bird Bud' #4",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Lanzavecchia + Wai"
-        ],
-        "date": 2012,
-        "medium": [
-            "iron",
-            "oak plywood",
-            "veneer",
-            "textile"
-        ],
-        "title": "No Country for Old Men\u2014Assunta chair",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Kuramata Shiro",
-            "Terada Tekkojo, Ltd."
-        ],
-        "date": 1985,
-        "medium": [
-            "partially burnt bentwood",
-            "metal"
-        ],
-        "title": "Homage to Josef Hoffmann, Begin the Beguine",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Star Industrial Co., Ltd."
-        ],
-        "date": 1960,
-        "medium": [
-            "polypropylene",
-            "chromium-plated aluminium legs"
-        ],
-        "title": "Red A chair, no. 355",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Umeda Masanori",
-            "Umeda Design Studio Inc."
-        ],
-        "date": 1989,
-        "medium": [
-            "velvet",
-            "steel",
-            "wood",
-            "plastic",
-            "pu (plastic) foam"
-        ],
-        "title": "Prototype, Getsuen",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Umeda Masanori",
-            "Toyo Kitchen Style Co., Ltd."
-        ],
-        "date": 1991,
-        "medium": [
-            "alcantara fabric",
-            "stainless steel",
-            "wood structure",
-            "polyurethane foam"
-        ],
-        "title": "RAN-Orchid",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1977,
-        "medium": [
-            "steel",
-            "melamine coating",
-            "steel wire"
-        ],
-        "title": "September",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Alvar Aalto"
-        ],
-        "date": 1932,
-        "medium": [
-            "birch burl (wood) veneer"
-        ],
-        "title": "Armchair, model 31",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Oscar Niemeyer",
-            "Anna Maria Niemeyer",
-            "Tendo Brasileira"
-        ],
-        "date": 1978,
-        "medium": [
-            "brazilian pau ferro (wood)",
-            "straw"
-        ],
-        "title": "'Rio' chaise longue",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Kuramata Shiro",
-            "Ishimaru Co. Ltd."
-        ],
-        "date": 1988,
-        "medium": [
-            "acrylic resin",
-            "plastic",
-            "epoxy-coated anodized aluminium"
-        ],
-        "title": "Miss Blanche",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Ohashi Teruaki",
-            "Inoue Industries Inc.",
-            "Viale"
-        ],
-        "date": 1989,
-        "medium": [
-            "steel pipe",
-            "polyurethane foam",
-            "synthetic leather",
-            "leotard fabric",
-            "chrome plated steel",
-            "lauan plywood"
-        ],
-        "title": "Donald Duck A",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1981,
-        "medium": [
-            "enameled steel",
-            "brass-plated steel",
-            "upholstered cushion"
-        ],
-        "title": "Nirvana",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Charlotte Perriand",
-            "Tendo Co., Ltd.",
-            "Hardware Shokai"
-        ],
-        "date": 1954,
-        "medium": [
-            "beech plywood"
-        ],
-        "title": "Ombre",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Zhang Zhoujie"
-        ],
-        "date": 2011,
-        "medium": [
-            "cardboard"
-        ],
-        "title": "Paper models, Digital Lab Furniture",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Estudio Campana"
-        ],
-        "date": 2006,
-        "medium": [
-            "wicker",
-            "plastic",
-            "iron"
-        ],
-        "title": "Una Famiglia",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Gunjan Gupta",
-            "Wrap"
-        ],
-        "date": 2009,
-        "medium": [
-            "silk",
-            "steel",
-            "foam",
-            "recycled bicycle parts"
-        ],
-        "title": "Gadda Walla Bicycle Throne",
-        "museum": "m+"
-    },
-    {
         "artist": "Venturi Scott Brown",
         "date": "1984",
         "medium": [
@@ -12781,5 +8523,4263 @@
         "medium": [],
         "title": "",
         "museum": "v&a"
+    },
+    {
+        "artist": "David Rowland",
+        "date": 1956,
+        "medium": [
+            "steel",
+            "vinyl"
+        ],
+        "title": "GF 40/4 Chair (one of a pair)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Edgar Bartolucci",
+        "date": 1946,
+        "medium": [
+            "aluminum",
+            "upholstery"
+        ],
+        "title": "Barwa Lounge Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Ron Arad",
+        "date": 1981,
+        "medium": [
+            "rover 2000 car seat mounted on a frame of kee klamp scaffolding",
+            "tubular steel frame",
+            "vinyl upholstery"
+        ],
+        "title": "Rover Car Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Campana Brothers",
+        "date": 2006,
+        "medium": [
+            "bent steel wire",
+            "epoxy paint"
+        ],
+        "title": "Corallo Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Eames",
+        "date": 1946,
+        "medium": [
+            "molded plywood"
+        ],
+        "title": "Dining Chair (model DCW)",
+        "museum": "aic"
+    },
+    {
+        "artist": "George Nelson",
+        "date": 1955,
+        "medium": [
+            "fiberglass",
+            "aluminum",
+            "nylon",
+            "chlorofiber upholstery"
+        ],
+        "title": "Coconut Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Joe Cesare Colombo",
+        "date": 1963,
+        "medium": [
+            "fiberglass",
+            "vinyl"
+        ],
+        "title": "Elda Chair, no 1005",
+        "museum": "aic"
+    },
+    {
+        "artist": "Rudolph Michael Schindler",
+        "date": 1938,
+        "medium": [
+            "plywood veneer"
+        ],
+        "title": "Wilshire Medical Office Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Greg Lynn",
+        "date": 2005,
+        "medium": [
+            "fiberglass-reinforced polyester shell",
+            "polyurethane foam seat",
+            "upholstery fabric"
+        ],
+        "title": "Ravioli Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Hans J. Wegner",
+        "date": 1951,
+        "medium": [
+            "wood",
+            "upholstery"
+        ],
+        "title": "Papa Bear Chair and Ottoman",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Eames",
+        "date": 1956,
+        "medium": [
+            "rosewood",
+            "leather",
+            "aluminum"
+        ],
+        "title": "Lounge Chair and Ottoman",
+        "museum": "aic"
+    },
+    {
+        "artist": "Bertjan Pot",
+        "date": 2004,
+        "medium": [
+            "carbon fiber",
+            "epoxy"
+        ],
+        "title": "Carbon Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Henry Peter Glass",
+        "date": 1942,
+        "medium": [
+            "cast iron"
+        ],
+        "title": "American Way Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Campana Brothers",
+        "date": 2002,
+        "medium": [
+            "multicolored fabric (including cotton",
+            "polyester",
+            "blends of both",
+            "polyurethane padded foam",
+            "polyethylene/astroturf)",
+            "wrapped",
+            "cut over stainless steel frame"
+        ],
+        "title": "Sushi Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Tokujin Yoshioka",
+        "date": 2001,
+        "medium": [
+            "honeycomb-paper construction"
+        ],
+        "title": "Honey-Pop",
+        "museum": "aic"
+    },
+    {
+        "artist": "Eero Saarinen",
+        "date": 1955,
+        "medium": [
+            "fiberglass-reinforced plastic",
+            "lacquered aluminum",
+            "silk upholstery"
+        ],
+        "title": "Tulip Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Shigeru Ban",
+        "date": 2009,
+        "medium": [
+            "upm profi (recycled paper",
+            "plastic composite)"
+        ],
+        "title": "10-Unit System Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Harry Bertoia",
+        "date": 1967,
+        "medium": [
+            "white vinyl-covered steel mesh"
+        ],
+        "title": "Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2003,
+        "medium": [
+            "die-cast aluminum",
+            "concrete"
+        ],
+        "title": "chair_ONE",
+        "museum": "aic"
+    },
+    {
+        "artist": "Henry Peter Glass",
+        "date": 1978,
+        "medium": [
+            "aluminum tubing",
+            "polyester mesh"
+        ],
+        "title": "Cricket Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Edgar Bartolucci",
+        "date": 1950,
+        "medium": [
+            "aluminum",
+            "canvas"
+        ],
+        "title": "Barwa Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Alexander Korab",
+        "date": 1983,
+        "medium": [
+            "welded wire mesh",
+            "acrylic head",
+            "seat cushions"
+        ],
+        "title": "Chaise Longue",
+        "museum": "aic"
+    },
+    {
+        "artist": "Eero Saarinen",
+        "date": 1948,
+        "medium": [
+            "plastic",
+            "latex",
+            "cowhide"
+        ],
+        "title": "Womb Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Shigeru Ban",
+        "date": 2009,
+        "medium": [
+            "upm profi (recycled paper",
+            "plastic composite)"
+        ],
+        "title": "10-Unit System Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Finn Juhl",
+        "date": 1949,
+        "medium": [
+            "teak",
+            "leather upholstery"
+        ],
+        "title": "Chieftain Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Eames",
+        "date": 1951,
+        "medium": [
+            "molded metal mesh"
+        ],
+        "title": "Side Chair (model DKR)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Ludwig Mies van der Rohe",
+        "date": 1929,
+        "medium": [
+            "chrome-plated steel",
+            "leather"
+        ],
+        "title": "Barcelona Chair (model MR 90)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank O. Gehry",
+        "date": 1979,
+        "medium": [
+            "corrugated cardboard",
+            "plywood"
+        ],
+        "title": "Sitting Beaver Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Greg Lynn",
+        "date": 2010,
+        "medium": [
+            "3di aramid tape"
+        ],
+        "title": "Carbon Net Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Marcel Wanders",
+        "date": 1996,
+        "medium": [
+            "macram\u00e9 of carbon fibers",
+            "epoxy-coated aramid fibers"
+        ],
+        "title": "Knotted Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Oki Sato",
+        "date": 2008,
+        "medium": [
+            "pleated paper"
+        ],
+        "title": "Cabbage Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Marcel Breuer",
+        "date": 1930,
+        "medium": [
+            "chromed bent tubular steel frame",
+            "fabric covering"
+        ],
+        "title": "Chair, Variation on B5",
+        "museum": "aic"
+    },
+    {
+        "artist": "Achille Castiglioni",
+        "date": 1957,
+        "medium": [
+            "enameled steel",
+            "chrome-plated steel",
+            "beech"
+        ],
+        "title": "Mezzadro Stool",
+        "museum": "aic"
+    },
+    {
+        "artist": "Robert Venturi",
+        "date": 1984,
+        "medium": [
+            "laminated plywood"
+        ],
+        "title": "Queen Anne Chair in Grandmother pattern",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Eames",
+        "date": 1945,
+        "medium": [
+            "molded plywood",
+            "rubber"
+        ],
+        "title": "Lounge Chair (model LCW)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Barber Osgerby",
+        "date": 2006,
+        "medium": [
+            "cast",
+            "pressed aluminum",
+            "steel",
+            "nylon"
+        ],
+        "title": "De La Warr Pavilion Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Hans J. Wegner",
+        "date": 1940,
+        "medium": [
+            "ash",
+            "teak",
+            "paper cord"
+        ],
+        "title": "Peacock Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Douglas Kelley",
+        "date": 1952,
+        "medium": [
+            "steel",
+            "leather"
+        ],
+        "title": "T Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Coop Himmelblau",
+        "date": 1989,
+        "medium": [
+            "painted steel",
+            "chromed tubular steel",
+            "vinyl upholstery"
+        ],
+        "title": "Vod\u00f6l Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Paul Ludick",
+        "date": 1984,
+        "medium": [
+            "wood",
+            "polychrome paint",
+            "polyurethane"
+        ],
+        "title": "New World Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank O. Gehry",
+        "date": 1972,
+        "medium": [
+            "corrugated cardboard",
+            "masonite"
+        ],
+        "title": "Wiggle Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Howard Meister",
+        "date": 1982,
+        "medium": [
+            "steel"
+        ],
+        "title": "Learning Her Lie (Chair)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Harry Bertoia",
+        "date": 1952,
+        "medium": [
+            "steel",
+            "wool",
+            "nylon upholstery"
+        ],
+        "title": "Small Diamond Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Barber Osgerby",
+        "date": 2006,
+        "medium": [
+            "cast",
+            "pressed aluminum",
+            "steel",
+            "nylon"
+        ],
+        "title": "De La Warr Pavilion Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jerome Caruso",
+        "date": 1987,
+        "medium": [
+            "aluminum",
+            "molded polypropylene"
+        ],
+        "title": "Stacking chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Cooper/Kato",
+        "date": 1984,
+        "medium": [
+            "elm"
+        ],
+        "title": "Library Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2014,
+        "medium": [
+            "glass",
+            "metal"
+        ],
+        "title": "\"Man Machine\" Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Rowland",
+        "date": 1964,
+        "medium": [
+            "steel",
+            "vinyl"
+        ],
+        "title": "40/4 Stacking Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Harry Bertoia",
+        "date": 1952,
+        "medium": [
+            "steel",
+            "naugahyde"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Eames",
+        "date": 1946,
+        "medium": [
+            "plywood"
+        ],
+        "title": "Dining Chair (model DCW)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2001,
+        "medium": [
+            "tubular stainless steel",
+            "rubber",
+            "polyurethane foam",
+            "leather",
+            "polyester fiber"
+        ],
+        "title": "Chaos Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Ron Arad",
+        "date": 1997,
+        "medium": [
+            "polypropylene",
+            "steel"
+        ],
+        "title": "Tom Vac Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Thomas Dixon",
+        "date": 1992,
+        "medium": [
+            "enameled steel"
+        ],
+        "title": "Pylon Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Terence Harold Robsjohn-Gibbings",
+        "date": 1941,
+        "medium": [
+            "birch",
+            "metal",
+            "linen"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Enzo Mari",
+        "date": 1974,
+        "medium": [
+            "untreated pine",
+            "nails"
+        ],
+        "title": "Sedia 1 Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2009,
+        "medium": [
+            "aluminum",
+            "pu foam",
+            "powder-coated steel"
+        ],
+        "title": "360\u00ba Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Joe Cesare Colombo",
+        "date": 1960,
+        "medium": [
+            "molded nylon",
+            "polypropylene"
+        ],
+        "title": "Stacking Chair (one of two)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Poul Kjaerholm",
+        "date": 1957,
+        "medium": [
+            "brushed stainless steel",
+            "woven wicker seat",
+            "back"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Jencks",
+        "date": 1985,
+        "medium": [
+            "formica",
+            "wood"
+        ],
+        "title": "Sun Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Harry Bertoia",
+        "date": 1952,
+        "medium": [
+            "steel",
+            "wool"
+        ],
+        "title": "Bird Chair and Ottoman",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jonathan Muecke",
+        "date": 2013,
+        "medium": [
+            "carbon",
+            "kevlar fibers",
+            "epoxy resin"
+        ],
+        "title": "CS (Coiled Stool)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Robert Wilson",
+        "date": 1987,
+        "medium": [
+            "bleached birch",
+            "lacquered finish"
+        ],
+        "title": "Parzival, a Chair with a Shadow",
+        "museum": "aic"
+    },
+    {
+        "artist": "Enzo Mari",
+        "date": 1974,
+        "medium": [
+            "untreated pine",
+            "nails"
+        ],
+        "title": "Sedia 1 Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Max Lamb",
+        "date": 2017,
+        "medium": [
+            "solid textile board"
+        ],
+        "title": "Bench 11a",
+        "museum": "aic"
+    },
+    {
+        "artist": "Tord Boontje",
+        "date": 1998,
+        "medium": [
+            "painted pine",
+            "wool",
+            "plastic"
+        ],
+        "title": "Rough and Ready Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Pierre Paulin",
+        "date": 1967,
+        "medium": [
+            "upholstery over tubular metal frame"
+        ],
+        "title": "Tongue Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jonathan De Pas",
+        "date": 1967,
+        "medium": [
+            "inflated pvc"
+        ],
+        "title": "Blow Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Gerrit Thomas Rietveld",
+        "date": 1934,
+        "medium": [
+            "painted solid wood"
+        ],
+        "title": "Zig-Zag Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Eames",
+        "date": 1950,
+        "medium": [
+            "fiberglass",
+            "steel",
+            "birch"
+        ],
+        "title": "Rocking Armchair (model RAR)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Werner Schmidt",
+        "date": 1988,
+        "medium": [
+            "wood",
+            "metal"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Ron Arad",
+        "date": 2006,
+        "medium": [
+            "rotational-moulded polyethylene"
+        ],
+        "title": "Voido Rocking Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Paul Ludick",
+        "date": 1986,
+        "medium": [
+            "plywood",
+            "paint"
+        ],
+        "title": "Chairnoble",
+        "museum": "aic"
+    },
+    {
+        "artist": "Gregg Fleishman",
+        "date": 1990,
+        "medium": [
+            "birch plywood",
+            "lacquer"
+        ],
+        "title": "Surround Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2006,
+        "medium": [
+            "laminated plywood",
+            "oak veneer",
+            "rubber"
+        ],
+        "title": "Venus Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Richard Hutten",
+        "date": 2004,
+        "medium": [
+            "walnut",
+            "chrome"
+        ],
+        "title": "This Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charlotte Perriand",
+        "date": 1968,
+        "medium": [
+            "pine",
+            "enameled steel"
+        ],
+        "title": "Kindergarten Stools from Les Arcs",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "aluminum"
+        ],
+        "title": "Washington Skeleton Aluminum Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Hans J. Wegner",
+        "date": 1944,
+        "medium": [
+            "stained cherry",
+            "jute",
+            "leather"
+        ],
+        "title": "Chinese Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Paul Ludick",
+        "date": 1992,
+        "medium": [
+            "welded metal",
+            "canvas"
+        ],
+        "title": "Sling Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2008,
+        "medium": [
+            "basf ultradur high speed"
+        ],
+        "title": "Myto Cantilever Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Gregg Fleishman",
+        "date": 1990,
+        "medium": [
+            "birch plywood"
+        ],
+        "title": "Raleigh Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Ronan & Erwan Bouroullec Design",
+        "date": 2009,
+        "medium": [
+            "polyamide"
+        ],
+        "title": "Vegetal Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "injection-molded",
+            "glass-reinforced nylon",
+            "aluminum",
+            "stainless steel"
+        ],
+        "title": "Washington Skin Nylon Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "injection-molded",
+            "glass-reinforced nylon",
+            "aluminum",
+            "stainless steel"
+        ],
+        "title": "Washington Skin Nylon Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Shane Schneck",
+        "date": 2010,
+        "medium": [
+            "birch plywood",
+            "ash veneer"
+        ],
+        "title": "Ru Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Shane Schneck",
+        "date": 2010,
+        "medium": [
+            "birch plywood",
+            "ash veneer"
+        ],
+        "title": "Ru Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jonathan Olivares",
+        "date": 2012,
+        "medium": [
+            "die-cast aluminum",
+            "powder coat paint",
+            "stainless steel"
+        ],
+        "title": "Olivares Aluminum Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jonathan Olivares",
+        "date": 2012,
+        "medium": [
+            "die-cast aluminum",
+            "powder coat paint",
+            "stainless steel"
+        ],
+        "title": "Olivares Aluminum Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "injection-molded",
+            "glass-reinforced nylon",
+            "aluminum",
+            "stainless steel"
+        ],
+        "title": "Washington Skin Nylon Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "injection-molded",
+            "glass-reinforced nylon",
+            "aluminum",
+            "stainless steel"
+        ],
+        "title": "Washington Skin Nylon Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "injection-molded",
+            "glass-reinforced nylon",
+            "aluminum",
+            "stainless steel"
+        ],
+        "title": "Washington Skin Nylon Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Hans Bellmann",
+        "date": 1950,
+        "medium": [
+            "plywood",
+            "steel"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charlotte Perriand",
+        "date": 1965,
+        "medium": [
+            "leather",
+            "chrome-plated steel"
+        ],
+        "title": "Dining chair from Les Arcs, France",
+        "museum": "aic"
+    },
+    {
+        "artist": "Henry Peter Glass",
+        "date": 1966,
+        "medium": [
+            "walnut",
+            "plywood",
+            "artificial leather"
+        ],
+        "title": "Cylindra Plywood Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Shane Schneck",
+        "date": 2010,
+        "medium": [
+            "birch plywood",
+            "ash veneer"
+        ],
+        "title": "Ru Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank O. Gehry",
+        "date": 1982,
+        "medium": [
+            "cardboard"
+        ],
+        "title": "Experimental Edges Beaver Chair and Ottoman",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2008,
+        "medium": [
+            "basf ultradur high speed"
+        ],
+        "title": "Myto Cantilever Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Paul Ludick",
+        "date": 1985,
+        "medium": [
+            "painted wood",
+            "chainlink fencing"
+        ],
+        "title": "The World Theatre: Apartheid (Chair)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Verner Panton",
+        "date": 1973,
+        "medium": [
+            "injection molded plastic"
+        ],
+        "title": "Stacking Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jorge Gonz\u00e1lez Santos",
+        "date": 2016,
+        "medium": [
+            "woven \u201cenea\u201d fiber (typha dominguensis) on \u201claurel espada\u201d wood (ocotea floribunda)"
+        ],
+        "title": "After Arklu (Tur\u00e9)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Cecilie Manz",
+        "date": 2016,
+        "medium": [
+            "oregon pine",
+            "veneer"
+        ],
+        "title": "Workshop Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Barber Osgerby",
+        "date": 2011,
+        "medium": [
+            "polypropylene"
+        ],
+        "title": "Tip Ton Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Eames",
+        "date": 1968,
+        "medium": [
+            "aluminum",
+            "leather"
+        ],
+        "title": "Chaise",
+        "museum": "aic"
+    },
+    {
+        "artist": "Robert Wilson",
+        "date": 1987,
+        "medium": [
+            "perforated",
+            "coated sheet steel"
+        ],
+        "title": "Hamletmachine Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jonathan Muecke",
+        "date": 2022,
+        "medium": [
+            "carbon fiber",
+            "epoxy resin"
+        ],
+        "title": "Carbon Tube Lounge (CTL)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Philippe Starck",
+        "date": 1988,
+        "medium": [
+            "pau rosa plywood",
+            "cast aluminum"
+        ],
+        "title": "Royalton Dining Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2009,
+        "medium": [
+            "ash",
+            "reinforced polypropylene"
+        ],
+        "title": "Monza Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "injection-molded",
+            "glass-reinforced nylon",
+            "aluminum",
+            "stainless steel"
+        ],
+        "title": "Washington Skin Nylon Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Harold L. Cohen",
+        "date": 1945,
+        "medium": [
+            "tubular steel frame",
+            "nylon mesh fabric"
+        ],
+        "title": "Orange Nylon Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Paul Ludick",
+        "date": 1989,
+        "medium": [
+            "painted wood",
+            "cotton velvet",
+            "stones",
+            "silk chiffon"
+        ],
+        "title": "\"Earth\" O-Zone Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Scholten and Baijings",
+        "date": 2013,
+        "medium": [
+            "polyamide"
+        ],
+        "title": "Dot Chair Prototype Shell",
+        "museum": "aic"
+    },
+    {
+        "artist": "Davis Pratt",
+        "date": 1948,
+        "medium": [
+            "tubular steel frame",
+            "rubber inner tube from auto tire",
+            "shag textile cover"
+        ],
+        "title": "Air Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Patricia Urquiola",
+        "date": 2006,
+        "medium": [
+            "felt",
+            "wool",
+            "leather",
+            "polyurethane foam",
+            "synthetic net",
+            "stainless steel",
+            "pvc"
+        ],
+        "title": "Antibodi Chaise",
+        "museum": "aic"
+    },
+    {
+        "artist": "George Nelson",
+        "date": 1956,
+        "medium": [
+            "fiberglass",
+            "steel"
+        ],
+        "title": "Swag Leg Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "aluminum"
+        ],
+        "title": "Washington Skeleton Aluminum Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Hern\u00e1n D\u00edaz Alonso",
+        "date": 2009,
+        "medium": [
+            "expanded polystyrene",
+            "polyester",
+            "metal glaze",
+            "polyurethane auto paint"
+        ],
+        "title": "Eam-Mess (Chaise)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Davis Brewster Allen",
+        "date": 1957,
+        "medium": [
+            "steel"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Dirk Vander Kooij",
+        "date": 2012,
+        "medium": [
+            "reused plastics"
+        ],
+        "title": "Endless Pulse Low Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1987,
+        "medium": [
+            "olive",
+            "sycamore",
+            "lacquered wood"
+        ],
+        "title": "President's Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Christien Meindertsma",
+        "date": 2018,
+        "medium": [
+            "flax"
+        ],
+        "title": "Mold for Flax Chair Prototype",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2008,
+        "medium": [
+            "basf ultradur high speed"
+        ],
+        "title": "Myto Cantilever Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Thomas Heatherwick",
+        "date": 2007,
+        "medium": [
+            "rotation-molded plastic"
+        ],
+        "title": "Spun Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Hans J. Wegner",
+        "date": 1949,
+        "medium": [
+            "oak",
+            "spanish cane"
+        ],
+        "title": "Folding Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank O. Gehry",
+        "date": 1967,
+        "medium": [
+            "cardboard"
+        ],
+        "title": "Easy Edges Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Cecilie Manz",
+        "date": 2009,
+        "medium": [
+            "oregon pine"
+        ],
+        "title": "Pluralis Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Richard Hutten",
+        "date": 2004,
+        "medium": [
+            "walnut",
+            "chrome"
+        ],
+        "title": "This Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Richard Hutten",
+        "date": 2004,
+        "medium": [
+            "beech",
+            "chrome"
+        ],
+        "title": "This Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Richard Hutten",
+        "date": 2004,
+        "medium": [
+            "beech",
+            "chrome"
+        ],
+        "title": "This Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2009,
+        "medium": [
+            "steel",
+            "plywood",
+            "polyester"
+        ],
+        "title": "Tube Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Dan Friedman",
+        "date": 1987,
+        "medium": [
+            "medium-density fiberboard",
+            "plastic",
+            "wood laminates",
+            "nickel-plated metal",
+            "hand-painted letters"
+        ],
+        "title": "Truth Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jorge Gonz\u00e1lez Santos",
+        "date": 2018,
+        "medium": [
+            "woven cotton cord on constructed \u201croble\u201d wood (tabebuia heterophylla)"
+        ],
+        "title": "Banquetas Ch\u00e9vere (Ch\u00e9vere Stool)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Industrial Facility",
+        "date": 2009,
+        "medium": [
+            "beech wood",
+            "natural waxed oak"
+        ],
+        "title": "Table, Bench, Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Max Lamb",
+        "date": 2017,
+        "medium": [
+            "aisi 1045 carbon steel"
+        ],
+        "title": "Forge Chair (Square Chair #2) 298",
+        "museum": "aic"
+    },
+    {
+        "artist": "Michele Oka Doner",
+        "date": 1991,
+        "medium": [
+            "silver"
+        ],
+        "title": "Dialogic: Silver (Chair)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Patrick Jouin",
+        "date": 2006,
+        "medium": [
+            "plastic",
+            "stereolithography"
+        ],
+        "title": "Solid C2 Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "aluminum"
+        ],
+        "title": "Washington Skeleton Aluminum Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Hans J. Wegner",
+        "date": 1944,
+        "medium": [
+            "stained cherry",
+            "jute",
+            "leather"
+        ],
+        "title": "Chinese Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jean Prouv\u00e9",
+        "date": 1950,
+        "medium": [
+            "wood",
+            "metal",
+            "fabric cushion"
+        ],
+        "title": "Visiteur Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Bruno Mathsson",
+        "date": 1960,
+        "medium": [
+            "bent plywood or beechwood",
+            "hemp webbing"
+        ],
+        "title": "Chaise Longue: \"Pernilla\"",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank Lloyd Wright",
+        "date": 1940,
+        "medium": [
+            "blonde mahogany (philippine bataan)",
+            "plywood",
+            "leather"
+        ],
+        "title": "Square Usonian Hassock",
+        "museum": "aic"
+    },
+    {
+        "artist": "Nanna and Jorgen Ditzel",
+        "date": 1950,
+        "medium": [
+            "wicker",
+            "teak"
+        ],
+        "title": "Basket Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Maarten van Severen",
+        "date": 1999,
+        "medium": [
+            "polyurethane foam",
+            "coating",
+            "enameled steel",
+            "enameled aluminum"
+        ],
+        "title": "Chair No. 3",
+        "museum": "aic"
+    },
+    {
+        "artist": "Yves B\u00e9har",
+        "date": 2010,
+        "medium": [
+            "paper"
+        ],
+        "title": "SAYL Chair booklet",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jasper Morrison",
+        "date": 2000,
+        "medium": [
+            "injection-molded polypropylene",
+            "fiberglass"
+        ],
+        "title": "Air Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "aluminum"
+        ],
+        "title": "Washington Skeleton Aluminum Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "aluminum"
+        ],
+        "title": "Washington Skeleton Aluminum Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Bertjan Pot",
+        "date": 2004,
+        "medium": [
+            "carbon fiber",
+            "epoxy"
+        ],
+        "title": "Carbon Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Paul McCobb",
+        "date": 1957,
+        "medium": [
+            "mahogany",
+            "leather upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Paul McCobb",
+        "date": 1957,
+        "medium": [
+            "mahogany",
+            "leather upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Adjaye",
+        "date": 2013,
+        "medium": [
+            "injection-molded",
+            "glass-reinforced nylon",
+            "aluminum",
+            "stainless steel"
+        ],
+        "title": "Washington Skin Nylon Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Shane Schneck",
+        "date": 2010,
+        "medium": [
+            "birch plywood",
+            "ash veneer"
+        ],
+        "title": "Ru Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jonathan Olivares",
+        "date": 2012,
+        "medium": [
+            "die-cast aluminum",
+            "powder coat paint",
+            "stainless steel"
+        ],
+        "title": "Olivares Aluminum Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Hans J. Wegner",
+        "date": 1949,
+        "medium": [
+            "oak",
+            "spanish cane"
+        ],
+        "title": "Folding Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Joe Cesare Colombo",
+        "date": 1960,
+        "medium": [
+            "molded nylon",
+            "polypropylene"
+        ],
+        "title": "Stacking Chair (one of two)",
+        "museum": "aic"
+    },
+    {
+        "artist": "David Rowland",
+        "date": 1987,
+        "medium": [
+            "chrome",
+            "vinyl"
+        ],
+        "title": "Set of two armchairs and two side chairs with cart",
+        "museum": "aic"
+    },
+    {
+        "artist": "Mathias Bengtsson",
+        "date": 2003,
+        "medium": [
+            "spun carbon fiber"
+        ],
+        "title": "Spun Carbon-Fiber Chaise Lounge",
+        "museum": "aic"
+    },
+    {
+        "artist": "Gaetano Pesce",
+        "date": 1969,
+        "medium": [
+            "bayfit flexible cold-shaped polyurethane foam",
+            "jersey fabric",
+            "jute"
+        ],
+        "title": "Up 5 Easy Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2009,
+        "medium": [
+            "tubular steel",
+            "mdf",
+            "upholstery"
+        ],
+        "title": "Pipe Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Konstantin Grcic",
+        "date": 2011,
+        "medium": [
+            "fabric",
+            "steel"
+        ],
+        "title": "Waver Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Gio Ponti",
+        "date": 1957,
+        "medium": [
+            "lacquered wood",
+            "cane"
+        ],
+        "title": "Superleggera Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank Lloyd Wright",
+        "date": 1902,
+        "medium": [
+            "poplar",
+            "leather"
+        ],
+        "title": "Spindle Cube Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Carlo Bugatti",
+        "date": 1902,
+        "medium": [
+            "wood",
+            "parchment",
+            "copper",
+            "pigments"
+        ],
+        "title": "Cobra Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Michael Thonet",
+        "date": 1876,
+        "medium": [
+            "beech",
+            "caning"
+        ],
+        "title": "Rocking Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Hector Guimard",
+        "date": 1900,
+        "medium": [
+            "pearwood",
+            "tooled leather"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Peter Behrens",
+        "date": 1902,
+        "medium": [
+            "ebonized oak",
+            "woven rattan"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank Lloyd Wright",
+        "date": 1937,
+        "medium": [
+            "steel",
+            "maple",
+            "original upholstery (later laminated surface)"
+        ],
+        "title": "Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Richard Riemerschmid",
+        "date": 1898,
+        "medium": [
+            "bog oak",
+            "leather"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Unknown",
+        "date": 1815,
+        "medium": [
+            "walnut",
+            "modern replacement upholstery"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Dutch School",
+        "date": 1740,
+        "medium": [
+            "walnut",
+            "walnut veneer",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Giles Grendey",
+        "date": 1735,
+        "medium": [
+            "walnut",
+            "18th-century replacement upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Thomas Hope",
+        "date": 1802,
+        "medium": [
+            "mahogany",
+            "ebony",
+            "beech",
+            "leather upholstery"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Swahili",
+        "date": 1801,
+        "medium": [
+            "wood",
+            "ivory",
+            "cotton fiber"
+        ],
+        "title": "Chair (Kiti Cha Enzi)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank Lloyd Wright",
+        "date": 1904,
+        "medium": [
+            "oak",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "George Grant Elmslie",
+        "date": 1910,
+        "medium": [
+            "oak",
+            "laminated wood",
+            "leather",
+            "jute webbing",
+            "horsehair"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Adolf Loos",
+        "date": 1893,
+        "medium": [
+            "beech",
+            "cane"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Filipo Pelagio Palagi",
+        "date": 1830,
+        "medium": [
+            "mahogany",
+            "maple",
+            "modern reproduction upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Ludwig Mies van der Rohe",
+        "date": 1926,
+        "medium": [
+            "bent tubular chromium-plated steel",
+            "banded",
+            "sewn dark green leather spanning seat",
+            "back"
+        ],
+        "title": "MR 20 Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Ludwig Mies van der Rohe",
+        "date": 1926,
+        "medium": [
+            "bent chromed flat steel frame",
+            "leather upholstery"
+        ],
+        "title": "MR 90 Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Gerrit Thomas Rietveld",
+        "date": 1920,
+        "medium": [
+            "painted plywood"
+        ],
+        "title": "Red-Blue Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Josef Hoffmann",
+        "date": 1903,
+        "medium": [
+            "bent beechwood",
+            "laminated wood",
+            "red leather seat"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Herter Brothers",
+        "date": 1869,
+        "medium": [
+            "rosewood",
+            "marquetry of various woods",
+            "ivory",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Michael Thonet",
+        "date": 1846,
+        "medium": [
+            "beech",
+            "cane"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "George Nakashima",
+        "date": 1988,
+        "medium": [
+            "walnut",
+            "hickory"
+        ],
+        "title": "\"Conoid Chair\"",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1825,
+        "medium": [
+            "solid walnut",
+            "walnut veneer",
+            "modern upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Rohlfs",
+        "date": 1900,
+        "medium": [
+            "oak",
+            "black stain"
+        ],
+        "title": "Hall Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Asante",
+        "date": 1850,
+        "medium": [
+            "wood",
+            "brass",
+            "leather"
+        ],
+        "title": "Royal Chair (Akonkromfi)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Cevedra B. Sheldon",
+        "date": 1876,
+        "medium": [
+            "iron",
+            "walnut",
+            "cane",
+            "upholstery"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Augustus Welby Northmore Pugin",
+        "date": 1843,
+        "medium": [
+            "oak",
+            "leather",
+            "brass"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Chokwe",
+        "date": 1875,
+        "medium": [
+            "wood",
+            "brass tacks",
+            "hide"
+        ],
+        "title": "Chair (Chitwamo or Njunga)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Asante",
+        "date": 1875,
+        "medium": [
+            "wood",
+            "brass",
+            "leather"
+        ],
+        "title": "Royal Chair (Asipim)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1870,
+        "medium": [
+            "horn",
+            "silk",
+            "brass",
+            "upholstery"
+        ],
+        "title": "Steer Horn Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Bruno Paul",
+        "date": 1910,
+        "medium": [
+            "wood",
+            "upholstery"
+        ],
+        "title": "Tub Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "John Philip Fond\u00e9",
+        "date": 1816,
+        "medium": [
+            "ash",
+            "white pine",
+            "white oak",
+            "painted decoration",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Theophilus Edvard von Hansen",
+        "date": 1865,
+        "medium": [
+            "walnut",
+            "beech",
+            "modern velvet upholstery"
+        ],
+        "title": "Dining Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Herter Brothers",
+        "date": 1877,
+        "medium": [
+            "ebonized cherry",
+            "various inlaid woods",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Josef Hoffmann",
+        "date": 1901,
+        "medium": [
+            "beech",
+            "wood laminate"
+        ],
+        "title": "Side Chair, Model No. 371",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1760,
+        "medium": [
+            "walnut"
+        ],
+        "title": "High-Back Windsor Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1790,
+        "medium": [
+            "carved",
+            "gilded",
+            "painted wood",
+            "inlay reverse painted glass",
+            "modern upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Sumner Greene",
+        "date": 1907,
+        "medium": [
+            "mahogany",
+            "ebony",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Richard Joseph Neutra",
+        "date": 1930,
+        "medium": [
+            "chrome-plated steel",
+            "replacement upholstery"
+        ],
+        "title": "Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Tiv",
+        "date": 1901,
+        "medium": [
+            "wood"
+        ],
+        "title": "Tripod Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1765,
+        "medium": [
+            "wood",
+            "leather",
+            "brass"
+        ],
+        "title": "Pair of Musician's Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Ngombe",
+        "date": 1875,
+        "medium": [
+            "wood",
+            "brass tacks"
+        ],
+        "title": "Reclined-Back Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank Lloyd Wright",
+        "date": 1956,
+        "medium": [
+            "plywood",
+            "copper",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1760,
+        "medium": [
+            "mahogany",
+            "oak",
+            "maple",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank Lloyd Wright",
+        "date": 1908,
+        "medium": [
+            "oak"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Bruno Paul",
+        "date": 1910,
+        "medium": [
+            "wood",
+            "modern upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Lobi",
+        "date": 1901,
+        "medium": [
+            "wood"
+        ],
+        "title": "Reclining Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Giles Grendey",
+        "date": 1730,
+        "medium": [
+            "wood",
+            "red",
+            "gold lacquer decoration",
+            "caned seat"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1750,
+        "medium": [
+            "mahogany",
+            "tulip poplar",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1750,
+        "medium": [
+            "mahogany",
+            "tulip poplar",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1760,
+        "medium": [
+            "tulipwood",
+            "maple",
+            "hickory",
+            "oak"
+        ],
+        "title": "Fan-Back Windsor Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Samuel McIntire",
+        "date": 1794,
+        "medium": [
+            "mahogany",
+            "ash",
+            "birch",
+            "upholstery"
+        ],
+        "title": "Pair of Side Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Warren McArthur",
+        "date": 1936,
+        "medium": [
+            "anodized aluminum",
+            "cotton upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1730,
+        "medium": [
+            "white pine",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Harvey Ellis",
+        "date": 1903,
+        "medium": [
+            "oak",
+            "copper",
+            "bronze inlays"
+        ],
+        "title": "Rocking Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1640,
+        "medium": [
+            "ash",
+            "white oak",
+            "silver maple"
+        ],
+        "title": "High Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1600,
+        "medium": [
+            "maple",
+            "oak"
+        ],
+        "title": "Chair Table",
+        "museum": "aic"
+    },
+    {
+        "artist": "Samuel Gragg",
+        "date": 1808,
+        "medium": [
+            "oak",
+            "ash",
+            "maple",
+            "paint"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1740,
+        "medium": [
+            "walnut"
+        ],
+        "title": "High Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Carlo Bugatti",
+        "date": 1902,
+        "medium": [
+            "wood frame covered",
+            "parchment",
+            "painted",
+            "gilded",
+            "applied brass mounts"
+        ],
+        "title": "Eiffel Tower Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Marcel Breuer",
+        "date": 1926,
+        "medium": [
+            "chrome-plated steel tubing",
+            "woven wicker seat",
+            "back"
+        ],
+        "title": "B-5 Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Giles Grendey",
+        "date": 1730,
+        "medium": [
+            "wood",
+            "red",
+            "gold lacquer decoration",
+            "caned seat"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "George Nakashima",
+        "date": 1988,
+        "medium": [
+            "walnut",
+            "hickory"
+        ],
+        "title": "\"New Chair\"",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1722,
+        "medium": [
+            "maple",
+            "leather"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1825,
+        "medium": [
+            "chestnut",
+            "oak"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1795,
+        "medium": [
+            "beechwood",
+            "carved",
+            "painted",
+            "gilded",
+            "modern upholstery"
+        ],
+        "title": "Armchair (one of two)",
+        "museum": "aic"
+    },
+    {
+        "artist": "R. J. Horner and Company",
+        "date": 1890,
+        "medium": [
+            "maple",
+            "birds-eye maple"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1690,
+        "medium": [
+            "painted",
+            "gilded beechwood",
+            "modern upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Filipo Pelagio Palagi",
+        "date": 1830,
+        "medium": [
+            "mahogany veneer",
+            "maple",
+            "mahogany inlay",
+            "modern reproduction upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1685,
+        "medium": [
+            "black lacquer",
+            "gilded beechwood"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1742,
+        "medium": [
+            "mahogany",
+            "white oak",
+            "white pine",
+            "beech"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Donald Deskey",
+        "date": 1938,
+        "medium": [
+            "chrome-plated metal",
+            "upholstered fabric"
+        ],
+        "title": "Pair of Armchairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "John Makepeace",
+        "date": 1988,
+        "medium": [
+            "laminated english holly wood",
+            "natural hide"
+        ],
+        "title": "Millennium 3 Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1755,
+        "medium": [
+            "mahogany",
+            "yellow pine",
+            "white pine",
+            "atlantic white cedar",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "John Gaines, III",
+        "date": 1735,
+        "medium": [
+            "maple"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1746,
+        "medium": [
+            "maple"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "L\u00e9on Albert Jallot",
+        "date": 1920,
+        "medium": [
+            "walnut",
+            "shagreen"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1780,
+        "medium": [
+            "mahogany",
+            "white pine",
+            "maple",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Chapin School of Cabinetmakers",
+        "date": 1770,
+        "medium": [
+            "mahogany",
+            "white pine",
+            "yellow pine",
+            "upholstery"
+        ],
+        "title": "Pair of Side Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "J. & J.W. Meeks",
+        "date": 1856,
+        "medium": [
+            "rosewood",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "John Henry Belter and Company",
+        "date": 1851,
+        "medium": [
+            "rosewood",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1890,
+        "medium": [
+            "painted cast iron"
+        ],
+        "title": "Armchair (1 of 3)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Louis Comfort Tiffany",
+        "date": 1911,
+        "medium": [
+            "oak",
+            "velvet upholstery"
+        ],
+        "title": "Pair of Side Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1760,
+        "medium": [
+            "mahogany",
+            "white pine",
+            "american sweetgum",
+            "upholstery"
+        ],
+        "title": "Pair of Side Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "George Trask",
+        "date": 1825,
+        "medium": [
+            "mahogany",
+            "birch",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Charles Francis Annesley Voysey",
+        "date": 1898,
+        "medium": [
+            "oak",
+            "ash",
+            "original rush seat"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Shaker",
+        "date": 1831,
+        "medium": [
+            "birch"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Alexander Jackson Davis",
+        "date": 1849,
+        "medium": [
+            "rosewood",
+            "upholstery"
+        ],
+        "title": "Pair of Side Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Hendrik Van Keppel",
+        "date": 1939,
+        "medium": [
+            "enameled steel tubing",
+            "cotton cording"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Le Corbusier (Charles-\u00c9douard Jeanneret)",
+        "date": 1928,
+        "medium": [
+            "chrome-plated steel",
+            "replacement american shorthorn upholstery",
+            "leather",
+            "painted metal"
+        ],
+        "title": "Chaise Longue",
+        "museum": "aic"
+    },
+    {
+        "artist": "Louis Comfort Tiffany",
+        "date": 1885,
+        "medium": [
+            "painted maple",
+            "vinyl"
+        ],
+        "title": "Side Chair (part of a set)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jacques-\u00c9mile Ruhlmann",
+        "date": 1920,
+        "medium": [
+            "macassar ebony",
+            "silvered bronze ferrules on front feet",
+            "silk velvet upholstered seat"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1890,
+        "medium": [
+            "painted cast iron"
+        ],
+        "title": "Armchair (1 of 3)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1890,
+        "medium": [
+            "hickory",
+            "oak"
+        ],
+        "title": "Rocking Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Kem Weber",
+        "date": 1928,
+        "medium": [
+            "painted wood",
+            "leather upholstery"
+        ],
+        "title": "Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1770,
+        "medium": [
+            "mahogany",
+            "tulipwood",
+            "white pine",
+            "upholstery"
+        ],
+        "title": "Pair of Side Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "D. E. Cutter",
+        "date": 1800,
+        "medium": [
+            "maple",
+            "beech",
+            "oak",
+            "hickory"
+        ],
+        "title": "Pair of Windsor Side Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Edward Welby Pugin",
+        "date": 1865,
+        "medium": [
+            "oak",
+            "ebony",
+            "later iron plate"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1796,
+        "medium": [
+            "oak",
+            "cherry",
+            "pine",
+            "paint",
+            "gilding",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1850,
+        "medium": [
+            "white pine",
+            "walnut",
+            "maple"
+        ],
+        "title": "Rocking Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1755,
+        "medium": [
+            "mahogany",
+            "upholstery"
+        ],
+        "title": "Pair of Side Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1790,
+        "medium": [
+            "mahogany",
+            "ash",
+            "soft maple",
+            "upholstery"
+        ],
+        "title": "Pair of Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Peter Bonnett Wight",
+        "date": 1876,
+        "medium": [
+            "oak",
+            "cane"
+        ],
+        "title": "Dining Room chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Lars Kinsarvik",
+        "date": 1908,
+        "medium": [
+            "pine",
+            "pigment"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Kem Weber",
+        "date": 1928,
+        "medium": [
+            "painted wood",
+            "silver leaf",
+            "walnut"
+        ],
+        "title": "Serving Table",
+        "museum": "aic"
+    },
+    {
+        "artist": "Clifton Monteith",
+        "date": 1991,
+        "medium": [
+            "willow",
+            "aspen"
+        ],
+        "title": "\"Lean Back Chair with Halo\"",
+        "museum": "aic"
+    },
+    {
+        "artist": "Thomas Chippendale, I",
+        "date": 1770,
+        "medium": [
+            "giltwood",
+            "modern upholstery"
+        ],
+        "title": "Armchair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jacob Keller",
+        "date": 1900,
+        "medium": [
+            "walnut",
+            "caning"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1815,
+        "medium": [
+            "hardwood",
+            "caning"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Edwin Lutyens",
+        "date": 1931,
+        "medium": [
+            "walnut",
+            "replacement leather"
+        ],
+        "title": "Armchair and stool",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1790,
+        "medium": [
+            "white pine",
+            "other woods"
+        ],
+        "title": "Child's Windsor Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1815,
+        "medium": [
+            "mahogany",
+            "ebony",
+            "slip seat",
+            "modern upholstery"
+        ],
+        "title": "Side Chair (one of two)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1725,
+        "medium": [
+            "padauk wood",
+            "textile"
+        ],
+        "title": "Chair (one of a pair)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1725,
+        "medium": [
+            "padauk wood",
+            "textile"
+        ],
+        "title": "Chair (one of a pair)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Frank Lloyd Wright",
+        "date": 1900,
+        "medium": [
+            "oak"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "August Thonet",
+        "date": 1880,
+        "medium": [
+            "beech",
+            "cane"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Louis Comfort Tiffany",
+        "date": 1885,
+        "medium": [
+            "painted maple",
+            "vinyl"
+        ],
+        "title": "Side Chair (part of a set)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Richard Parkin",
+        "date": 1835,
+        "medium": [
+            "wood",
+            "upholstery"
+        ],
+        "title": "Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1715,
+        "medium": [
+            "frames: gilt gesso on beechwood",
+            "backs",
+            "seats: lacquered",
+            "gilt chinese softwood"
+        ],
+        "title": "Pair of Hall Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1900,
+        "medium": [
+            "mahogany"
+        ],
+        "title": "Corner Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Jennens and Bettridge",
+        "date": 1844,
+        "medium": [
+            "papier-m\u00e2ch\u00e9",
+            "wood",
+            "gilded",
+            "inlaid",
+            "mother-of-pearl",
+            "modern upholstery"
+        ],
+        "title": "Pair of Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Marcel Breuer",
+        "date": 1936,
+        "medium": [
+            "bent plywood",
+            "laminated",
+            "solid wood"
+        ],
+        "title": "Chaise Longue",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1805,
+        "medium": [
+            "mahogany",
+            "ash",
+            "cherry",
+            "white pine",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1890,
+        "medium": [
+            "painted cast iron"
+        ],
+        "title": "Armchair (one of a set of three)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Mount Lebanon Shaker Village (New Lebanon, N.Y.)",
+        "date": 1873,
+        "medium": [
+            "maple"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1755,
+        "medium": [
+            "mahogany",
+            "white pine",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1691,
+        "medium": [
+            "maple",
+            "ash"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1790,
+        "medium": [
+            "mahogany",
+            "walnut",
+            "ash",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1660,
+        "medium": [
+            "maple",
+            "birch"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "George Nakashima",
+        "date": 1945,
+        "medium": [
+            "walnut"
+        ],
+        "title": "Pair of Chairs",
+        "museum": "aic"
+    },
+    {
+        "artist": "Louis Comfort Tiffany",
+        "date": 1885,
+        "medium": [
+            "painted maple",
+            "vinyl"
+        ],
+        "title": "Side Chair (part of a set)",
+        "museum": "aic"
+    },
+    {
+        "artist": "Louis Comfort Tiffany",
+        "date": 1885,
+        "medium": [
+            "painted maple",
+            "vinyl"
+        ],
+        "title": "Side Chair (part of a set)",
+        "museum": "aic"
+    },
+    {
+        "artist": "L\u00e9on Albert Jallot",
+        "date": 1920,
+        "medium": [
+            "walnut",
+            "shagreen"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Samuel A. Marx",
+        "date": 1944,
+        "medium": [
+            "birch",
+            "plastic",
+            "veneered legs",
+            "black plastic"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1870,
+        "medium": [
+            "wood"
+        ],
+        "title": "Side chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1790,
+        "medium": [
+            "mahogany",
+            "walnut",
+            "ash",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1755,
+        "medium": [
+            "mahogany",
+            "yellow pine",
+            "white pine",
+            "atlantic white cedar",
+            "upholstery"
+        ],
+        "title": "Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1730,
+        "medium": [
+            "walnut",
+            "maple",
+            "upholstery"
+        ],
+        "title": "Child's Side Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Artist unknown",
+        "date": 1790,
+        "medium": [
+            "maple",
+            "white pine",
+            "hickory"
+        ],
+        "title": "Windsor High Chair",
+        "museum": "aic"
+    },
+    {
+        "artist": "Louis Comfort Tiffany",
+        "date": 1885,
+        "medium": [
+            "painted maple",
+            "vinyl"
+        ],
+        "title": "Side Chair (part of a set)",
+        "museum": "aic"
+    },
+    {
+        "artist": [
+            "PINWU"
+        ],
+        "date": 2012,
+        "medium": [
+            "beech (wood)",
+            "bamboo paper"
+        ],
+        "title": "G\u00f9",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "PINWU"
+        ],
+        "date": 2011,
+        "medium": [
+            "beech (wood)",
+            "rice paper"
+        ],
+        "title": "Piao",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "PINWU"
+        ],
+        "date": 2012,
+        "medium": [
+            "xuan paper",
+            "wood",
+            "foam",
+            "silk"
+        ],
+        "title": "Ti\u00e9",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki",
+            "Aoshima Shoten"
+        ],
+        "date": 1976,
+        "medium": [
+            "japanese cherry wood",
+            "stainless steel wire"
+        ],
+        "title": "Chair or a Stand-Like Chair / Chair Miri",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki"
+        ],
+        "date": 1974,
+        "medium": [
+            "metal wire",
+            "wood"
+        ],
+        "title": "Study model, Chair Or A Stand-Like Chair / Chair Miri",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Michael Young",
+            "EOQ"
+        ],
+        "date": 2008,
+        "medium": [
+            "aluminium"
+        ],
+        "title": "Chair 4A",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "nendo",
+            "Oki Sato"
+        ],
+        "date": 2008,
+        "medium": [
+            "paper",
+            "fabric"
+        ],
+        "title": "Cabbage Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Watanabe Riki",
+            "Yokoyama Industry"
+        ],
+        "date": 1952,
+        "medium": [
+            "japanese oak",
+            "cotton rope",
+            "metal"
+        ],
+        "title": "Rope Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Uchida Shigeru"
+        ],
+        "date": 1988,
+        "medium": [
+            "beech moulded plywood",
+            "lacquer enamel paint"
+        ],
+        "title": "August Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Tadaomi Mizunoe",
+            "Tendo Co., Ltd."
+        ],
+        "date": 1954,
+        "medium": [
+            "beech",
+            "teak-veneered plywood"
+        ],
+        "title": "Book Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Pierre Jeanneret"
+        ],
+        "date": 1925,
+        "medium": [
+            "teak",
+            "caning"
+        ],
+        "title": "Library Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Uchida Shigeru"
+        ],
+        "date": 1995,
+        "medium": [
+            "resin plywood",
+            "core filling"
+        ],
+        "title": "Okazaki Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Kidokoro Ubunji",
+            "Tokyo Chikkosha"
+        ],
+        "date": 1935,
+        "medium": [
+            "bamboo"
+        ],
+        "title": "Bamboo chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Charlotte Perriand"
+        ],
+        "date": 1946,
+        "medium": [
+            "rattan",
+            "wood"
+        ],
+        "title": "Low Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Tarumi Kenzo",
+            "Q Designers",
+            "Tendo Co., Ltd."
+        ],
+        "date": 1962,
+        "medium": [
+            "plywood",
+            "fabric"
+        ],
+        "title": "Legless chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki",
+            "Inoue Industries Inc.",
+            "Viale"
+        ],
+        "date": 1985,
+        "medium": [
+            "metal",
+            "lacquer paint",
+            "cotton",
+            "textile"
+        ],
+        "title": "Hannan Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Kowloon Rattan Ware Co."
+        ],
+        "date": 1952,
+        "medium": [
+            "rattan",
+            "pvc (plastic)",
+            "iron",
+            "rubber"
+        ],
+        "title": "Rattan chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Kidokoro Ubunji",
+            "Mitsukoshi Ltd.",
+            "Chikukousha"
+        ],
+        "date": 1937,
+        "medium": [
+            "bamboo",
+            "brass"
+        ],
+        "title": "Bamboo Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Minnie Boga",
+            "Taaru"
+        ],
+        "date": 1969,
+        "medium": [
+            "teak (wood)",
+            "jute (fibre)"
+        ],
+        "title": "Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Kuramata Shiro",
+            "Ishimaru Co. Ltd."
+        ],
+        "date": 1969,
+        "medium": [
+            "plastic",
+            "fluorescent lamp"
+        ],
+        "title": "Luminous Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Tom Dixon"
+        ],
+        "date": 1988,
+        "medium": [
+            "steel",
+            "rush"
+        ],
+        "title": "S-Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Uchida Shigeru"
+        ],
+        "date": 1986,
+        "medium": [
+            "steel",
+            "melamine coating",
+            "upholstered seat"
+        ],
+        "title": "NY Chair II",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Pierre Jeanneret"
+        ],
+        "date": 1958,
+        "medium": [
+            "teak",
+            "caning"
+        ],
+        "title": "Rectangular Feet Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Xiao Tianyu"
+        ],
+        "date": 2010,
+        "medium": [
+            "elm",
+            "cotton",
+            "wood"
+        ],
+        "title": "Harmony\u2014Circle Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Uchida Shigeru"
+        ],
+        "date": 1986,
+        "medium": [
+            "steel",
+            "melamine coating"
+        ],
+        "title": "NY Chair I",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Xiao Tianyu"
+        ],
+        "date": 2010,
+        "medium": [
+            "elm",
+            "cotton",
+            "wood"
+        ],
+        "title": "Harmony\u2014Light Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki",
+            "Inoue Industries Inc.",
+            "Viale"
+        ],
+        "date": 1984,
+        "medium": [
+            "metal",
+            "lacquer",
+            "cotton",
+            "wool"
+        ],
+        "title": "Hannan Chair Long",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Yoshioka Tokujin"
+        ],
+        "date": 2006,
+        "medium": [
+            "polyester fiber"
+        ],
+        "title": "Pane Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "nendo",
+            "Oki Sato"
+        ],
+        "date": 2008,
+        "medium": [
+            "pleated paper",
+            "paint"
+        ],
+        "title": "Cabbage Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Zhang Zhoujie"
+        ],
+        "date": 2011,
+        "medium": [
+            "stainless steel"
+        ],
+        "title": "'SQN3-A' chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Xiao Tianyu"
+        ],
+        "date": 2010,
+        "medium": [
+            "elm",
+            "cotton",
+            "wood"
+        ],
+        "title": "Harmony\u2014Master Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Artist unknown"
+        ],
+        "date": 1990,
+        "medium": [
+            "metal",
+            "upholstered cushion"
+        ],
+        "title": "Found chair collected for Michael Wolf's 'Bastard Chair' photography series",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki"
+        ],
+        "date": 1985,
+        "medium": [
+            "metal wire",
+            "paper",
+            "textile",
+            "wood",
+            "foam board"
+        ],
+        "title": "Study model, Long Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki"
+        ],
+        "date": 1971,
+        "medium": [
+            "wood"
+        ],
+        "title": "Study model, Small Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki",
+            "Aoshima Shoten",
+            "Viale"
+        ],
+        "date": 1973,
+        "medium": [
+            "maple (wood)",
+            "natural dye",
+            "cotton"
+        ],
+        "title": "Study model, Small Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki"
+        ],
+        "date": 1988,
+        "medium": [
+            "metal wire",
+            "paper",
+            "textile",
+            "wood",
+            "foam board"
+        ],
+        "title": "Study model, Caf\u00e9 Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki"
+        ],
+        "date": 1972,
+        "medium": [
+            "wood"
+        ],
+        "title": "Study model, Shaker chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Sakakura Junzo",
+            "Tendo Co., Ltd."
+        ],
+        "date": 1953,
+        "medium": [
+            "stained beechwood",
+            "stained beechwood-veneered plywood"
+        ],
+        "title": "Side Chair, No. 3221",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Choh Daisaku",
+            "Tendo Co., Ltd."
+        ],
+        "date": 1957,
+        "medium": [
+            "teak-veneered plywood",
+            "fabric"
+        ],
+        "title": "Low Chair, model 5016",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Sakakura Junzo"
+        ],
+        "date": 1958,
+        "medium": [
+            "bent laminated beechwood",
+            "beechwood-veneered plywood",
+            "fabric"
+        ],
+        "title": "Side Chair, no. 5015",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Artist unknown"
+        ],
+        "date": 1990,
+        "medium": [
+            "plastic bag",
+            "fabric cushion",
+            "fabric strip",
+            "plastic strap",
+            "iron box",
+            "plastic dispenser outer casing"
+        ],
+        "title": "Found chair collected for Michael Wolf's 'Bastard Chair' photography series",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Artist unknown"
+        ],
+        "date": 1990,
+        "medium": [
+            "wood",
+            "steel",
+            "rubber"
+        ],
+        "title": "Found chair collected for Michael Wolf's 'Bastard Chair' photography series",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Alessandro Mendini"
+        ],
+        "date": 1978,
+        "medium": [
+            "painted wood",
+            "upholstery"
+        ],
+        "title": "Poltrona di Proust",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Umeda Masanori",
+            "Arte Japan Ltd."
+        ],
+        "date": 1982,
+        "medium": [
+            "metal",
+            "polyurethane foam"
+        ],
+        "title": "Prototype, Animal chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Kowloon Rattan Ware Co."
+        ],
+        "date": 1954,
+        "medium": [
+            "rattan",
+            "plastic",
+            "iron"
+        ],
+        "title": "Flying saucer chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Isamu Noguchi",
+            "Isamu Kenmochi",
+            "Kenmochi Design Associates",
+            "Kondo Shosaku",
+            "Yamakawa Rattan (now YMK Nagaoka)"
+        ],
+        "date": 1950,
+        "medium": [
+            "shioji wood",
+            "bamboo",
+            "iron"
+        ],
+        "title": "Bamboo Basket Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki"
+        ],
+        "date": 1972,
+        "medium": [
+            "wood",
+            "string",
+            "paper",
+            "textile",
+            "foam board"
+        ],
+        "title": "Study model, klismos chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki"
+        ],
+        "date": 1985,
+        "medium": [
+            "metal wire",
+            "paper",
+            "textile",
+            "wood",
+            "foam board"
+        ],
+        "title": "Study model, Side Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki"
+        ],
+        "date": 1983,
+        "medium": [
+            "metal",
+            "fabric"
+        ],
+        "title": "Study model, Hannan Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Pierre Jeanneret"
+        ],
+        "date": 1953,
+        "medium": [
+            "teak",
+            "caning"
+        ],
+        "title": "Easy Chair, Chandigarh, India",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki"
+        ],
+        "date": 1972,
+        "medium": [
+            "wood"
+        ],
+        "title": "Study model, Shaker rocking chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Choh Daisaku",
+            "Tendo Co., Ltd."
+        ],
+        "date": 1957,
+        "medium": [
+            "teak-veneered plywood",
+            "fabric"
+        ],
+        "title": "Prototype, Low Chair, model 5016",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Satyendra Pakhal\u00e9"
+        ],
+        "date": 2001,
+        "medium": [
+            "ceramic",
+            "carbon fibre coating"
+        ],
+        "title": "RCCC/Roll Carbon Ceramic Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Yoshioka Tokujin"
+        ],
+        "date": 2006,
+        "medium": [
+            "polyester fiber",
+            "paper"
+        ],
+        "title": "Pane Chair process version",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Xiao Tianyu"
+        ],
+        "date": 2010,
+        "medium": [
+            "elm",
+            "cotton",
+            "wood"
+        ],
+        "title": "Harmony\u2014Little Circle Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Kuramata Shiro"
+        ],
+        "date": 1967,
+        "medium": [
+            "wood",
+            "plywood",
+            "rattan",
+            "paint",
+            "vinyl fabric"
+        ],
+        "title": "Prototype, Chair for SUPPER CLUB cazador",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Tange Kenzo",
+            "Tendo Co., Ltd."
+        ],
+        "date": 1955,
+        "medium": [
+            "bent laminated birch",
+            "fabric"
+        ],
+        "title": "Lounge Chair for Sumi Memorial Hall",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Star Industrial Co., Ltd."
+        ],
+        "date": 1960,
+        "medium": [
+            "polypropylene",
+            "chromium-plated aluminium legs"
+        ],
+        "title": "Red A chair, no. 354",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ron Arad"
+        ],
+        "date": 1981,
+        "medium": [
+            "leather imitation",
+            "metal",
+            "foam",
+            "plastic",
+            "lacquered steel"
+        ],
+        "title": "Rover Chair (3.5 litre one-seater)",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Front",
+            "Sofia Lagerkvist",
+            "Charlotte von der Lancken",
+            "Anna Lindgren",
+            "Katja Pettersson"
+        ],
+        "date": 2005,
+        "medium": [
+            "selective laser\u2013sintered 3d-printed nylon",
+            "acrylic paint"
+        ],
+        "title": "Materialised Sketch of a Round Back Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Yanagi Sori",
+            "Kotobuki Seating Co., Ltd."
+        ],
+        "date": 1969,
+        "medium": [
+            "polyester",
+            "metal",
+            "textile",
+            "rubber"
+        ],
+        "title": "Side Chair, model FRP-3276F",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Front",
+            "Sofia Lagerkvist",
+            "Charlotte von der Lancken",
+            "Anna Lindgren",
+            "Katja Pettersson"
+        ],
+        "date": 2005,
+        "medium": [
+            "selective laser\u2013sintered 3d-printed nylon",
+            "acrylic paint"
+        ],
+        "title": "Materialised Sketch of a Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Frank Lloyd Wright"
+        ],
+        "date": 1919,
+        "medium": [
+            "oak",
+            "oil cloth covering",
+            "metal"
+        ],
+        "title": "'Peacock Chair' for Imperial Hotel, Tokyo, Japan",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Isamu Kenmochi",
+            "Yamakawa Rattan Japan Inc."
+        ],
+        "date": 1961,
+        "medium": [
+            "rattan",
+            "fabric upholstered cushion"
+        ],
+        "title": "Rattan Round Chair, model C-315-S",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Kiyonori Kikutake"
+        ],
+        "date": 1966,
+        "medium": [
+            "fibre-reinforced plastic",
+            "metal",
+            "textile"
+        ],
+        "title": "Chair for Miyakonojo Civic Center, Japan",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki"
+        ],
+        "date": 1978,
+        "medium": [
+            "wood"
+        ],
+        "title": "Study model, Closed Board-Leg Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Umeda Masanori"
+        ],
+        "date": 1988,
+        "medium": [
+            "polyurethane foam",
+            "acrylic paint",
+            "metal push-pins"
+        ],
+        "title": "Model, RAN-Orchid",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Umeda Masanori"
+        ],
+        "date": 1975,
+        "medium": [
+            "polyurethane foam",
+            "acrylic paint"
+        ],
+        "title": "Model, Medio Oriente (General Officer's Chair)",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Kader Industrial Company Limited"
+        ],
+        "date": 1973,
+        "medium": [
+            "pp (plastic)",
+            "aluminum"
+        ],
+        "title": "OK 'Best-line' chair, model no. 902A",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki",
+            "Inoue Industries Inc."
+        ],
+        "date": 1981,
+        "medium": [
+            "lacquered plywood"
+        ],
+        "title": "Board Stool 'Bird Bud' #4",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Lanzavecchia + Wai"
+        ],
+        "date": 2012,
+        "medium": [
+            "iron",
+            "oak plywood",
+            "veneer",
+            "textile"
+        ],
+        "title": "No Country for Old Men\u2014Assunta chair",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Kuramata Shiro",
+            "Terada Tekkojo, Ltd."
+        ],
+        "date": 1985,
+        "medium": [
+            "partially burnt bentwood",
+            "metal"
+        ],
+        "title": "Homage to Josef Hoffmann, Begin the Beguine",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Star Industrial Co., Ltd."
+        ],
+        "date": 1960,
+        "medium": [
+            "polypropylene",
+            "chromium-plated aluminium legs"
+        ],
+        "title": "Red A chair, no. 355",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Umeda Masanori",
+            "Umeda Design Studio Inc."
+        ],
+        "date": 1989,
+        "medium": [
+            "velvet",
+            "steel",
+            "wood",
+            "plastic",
+            "pu (plastic) foam"
+        ],
+        "title": "Prototype, Getsuen",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Umeda Masanori",
+            "Toyo Kitchen Style Co., Ltd."
+        ],
+        "date": 1991,
+        "medium": [
+            "alcantara fabric",
+            "stainless steel",
+            "wood structure",
+            "polyurethane foam"
+        ],
+        "title": "RAN-Orchid",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Uchida Shigeru"
+        ],
+        "date": 1977,
+        "medium": [
+            "steel",
+            "melamine coating",
+            "steel wire"
+        ],
+        "title": "September",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Alvar Aalto"
+        ],
+        "date": 1932,
+        "medium": [
+            "birch burl (wood) veneer"
+        ],
+        "title": "Armchair, model 31",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Oscar Niemeyer",
+            "Anna Maria Niemeyer",
+            "Tendo Brasileira"
+        ],
+        "date": 1978,
+        "medium": [
+            "brazilian pau ferro (wood)",
+            "straw"
+        ],
+        "title": "'Rio' chaise longue",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Kuramata Shiro",
+            "Ishimaru Co. Ltd."
+        ],
+        "date": 1988,
+        "medium": [
+            "acrylic resin",
+            "plastic",
+            "epoxy-coated anodized aluminium"
+        ],
+        "title": "Miss Blanche",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Ohashi Teruaki",
+            "Inoue Industries Inc.",
+            "Viale"
+        ],
+        "date": 1989,
+        "medium": [
+            "steel pipe",
+            "polyurethane foam",
+            "synthetic leather",
+            "leotard fabric",
+            "chrome plated steel",
+            "lauan plywood"
+        ],
+        "title": "Donald Duck A",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Uchida Shigeru"
+        ],
+        "date": 1981,
+        "medium": [
+            "enameled steel",
+            "brass-plated steel",
+            "upholstered cushion"
+        ],
+        "title": "Nirvana",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Charlotte Perriand",
+            "Tendo Co., Ltd.",
+            "Hardware Shokai"
+        ],
+        "date": 1954,
+        "medium": [
+            "beech plywood"
+        ],
+        "title": "Ombre",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Zhang Zhoujie"
+        ],
+        "date": 2011,
+        "medium": [
+            "cardboard"
+        ],
+        "title": "Paper models, Digital Lab Furniture",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Estudio Campana"
+        ],
+        "date": 2006,
+        "medium": [
+            "wicker",
+            "plastic",
+            "iron"
+        ],
+        "title": "Una Famiglia",
+        "museum": "m+"
+    },
+    {
+        "artist": [
+            "Gunjan Gupta",
+            "Wrap"
+        ],
+        "date": 2009,
+        "medium": [
+            "silk",
+            "steel",
+            "foam",
+            "recycled bicycle parts"
+        ],
+        "title": "Gadda Walla Bicycle Throne",
+        "museum": "m+"
     }
 ]
