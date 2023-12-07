@@ -3,7 +3,7 @@
         "artist": "Verner Panton",
         "date": "1960",
         "medium": [
-            "polyurethan foam",
+            "polyurethane foam",
             "urethane alkyd"
         ],
         "title": "Panton Chair",
@@ -23,9 +23,8 @@
         "artist": "Severen, Van",
         "date": "1992",
         "medium": [
-            "aluminium",
-            "beech",
-            ""
+            "aluminum",
+            "beech"
         ],
         "title": "Chair no.2",
         "museum": "v&a"
@@ -45,7 +44,7 @@
         "date": "1996",
         "medium": [
             "aramid",
-            "carbon fibre",
+            "carbon fiber",
             "multifunctional epoxy"
         ],
         "title": "Knotted Chair",
@@ -55,7 +54,7 @@
         "artist": "Vico Magistretti",
         "date": "1968",
         "medium": [
-            "fibreglass"
+            "fiberglass"
         ],
         "title": "Selene Chair",
         "museum": "v&a"
@@ -84,7 +83,7 @@
         "artist": "Severen, Van",
         "date": "1993",
         "medium": [
-            "aluminium",
+            "aluminum",
             "beech plywood"
         ],
         "title": "Low Chair",
@@ -105,7 +104,13 @@
         "date": "1780",
         "medium": [
             "mahogany",
-            "beech"
+            "beech",
+            "beech",
+            "leather",
+            "mahogany",
+            "beech",
+            "leather",
+            "mahogany"
         ],
         "title": "",
         "museum": "v&a"
@@ -114,7 +119,17 @@
         "artist": "Artist unknown",
         "date": "1670",
         "medium": [
-            "oak"
+            "oak",
+            "wood",
+            "walnut",
+            "walnut",
+            "beech",
+            "cane",
+            "leather",
+            "walnut",
+            "walnut",
+            "walnut",
+            "cane"
         ],
         "title": "",
         "museum": "v&a"
@@ -126,16 +141,6 @@
             "polypropylene"
         ],
         "title": "Wait Chair",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1780",
-        "medium": [
-            "Beech",
-            "Leather"
-        ],
-        "title": "",
         "museum": "v&a"
     },
     {
@@ -162,7 +167,7 @@
         "artist": "Georges Jacob",
         "date": "1785",
         "medium": [
-            "Walnut"
+            "walnut"
         ],
         "title": "",
         "museum": "v&a"
@@ -171,7 +176,6 @@
         "artist": "Roger Fry",
         "date": "1913",
         "medium": [
-            "",
             "cane",
             "paint",
             "wood"
@@ -183,6 +187,15 @@
         "artist": "Artist unknown",
         "date": "1710",
         "medium": [
+            "walnut",
+            "beech",
+            "softwood",
+            "cane",
+            "beech",
+            "cane",
+            "beech",
+            "beech",
+            "walnut",
             "walnut"
         ],
         "title": "",
@@ -202,8 +215,8 @@
         "artist": "Pratt",
         "date": "1786",
         "medium": [
-            "Beech",
-            "Rush"
+            "beech",
+            "rush"
         ],
         "title": "",
         "museum": "v&a"
@@ -212,8 +225,8 @@
         "artist": "Pratt (Mr)",
         "date": "1786",
         "medium": [
-            "Beech",
-            "Rush"
+            "beech",
+            "rush"
         ],
         "title": "",
         "museum": "v&a"
@@ -222,7 +235,32 @@
         "artist": "Artist unknown",
         "date": "1700",
         "medium": [
-            "beech"
+            "beech",
+            "leather",
+            "walnut",
+            "oak",
+            "softwood",
+            "beech",
+            "paint",
+            "walnut",
+            "leather",
+            "walnut",
+            "leather",
+            "oak",
+            "softwood",
+            "iron",
+            "ash",
+            "rush",
+            "ivory",
+            "ivory",
+            "walnut",
+            "walnut",
+            "beech",
+            "walnut",
+            "mahogany",
+            "leather",
+            "walnut",
+            "cane"
         ],
         "title": "",
         "museum": "v&a"
@@ -233,7 +271,7 @@
         "medium": [
             "mahogany",
             "beech",
-            "gilt",
+            "gold leaf",
             "bronze",
             "damask"
         ],
@@ -244,7 +282,35 @@
         "artist": "Artist unknown",
         "date": "1750",
         "medium": [
-            "mahogany"
+            "mahogany",
+            "mahogany",
+            "oak",
+            "softwood",
+            "plush",
+            "mahogany",
+            "mahogany",
+            "silk",
+            "mahogany",
+            "oak",
+            "softwood",
+            "leather",
+            "mahogany",
+            "oak",
+            "softwood",
+            "velvet",
+            "damask",
+            "mahogany",
+            "mahogany",
+            "beech",
+            "mahogany",
+            "oak",
+            "softwood",
+            "plush",
+            "walnut",
+            "mahogany",
+            "mahogany",
+            "leather",
+            "leather"
         ],
         "title": "",
         "museum": "v&a"
@@ -254,16 +320,9 @@
         "date": "1785",
         "medium": [
             "mahogany",
-            "beech"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1780",
-        "medium": [
-            "mahogany"
+            "beech",
+            "mahogany",
+            "horsehair"
         ],
         "title": "",
         "museum": "v&a"
@@ -283,7 +342,11 @@
         "date": "1790",
         "medium": [
             "ash",
-            "rush"
+            "rush",
+            "mahogany",
+            "moquette",
+            "mahogany",
+            "brass"
         ],
         "title": "",
         "museum": "v&a"
@@ -295,11 +358,18 @@
             "beech",
             "velvet",
             "silk braid",
-            "linen (material)",
+            "linen",
             "horsehair",
             "pine",
             "walnut",
-            ""
+            "metal thread",
+            "silk",
+            "velvet",
+            "beech",
+            "pine",
+            "walnut",
+            "linen",
+            "horsehair"
         ],
         "title": "",
         "museum": "v&a"
@@ -310,8 +380,7 @@
         "medium": [
             "walnut",
             "velvet",
-            "silk",
-            ""
+            "silk"
         ],
         "title": "",
         "museum": "v&a"
@@ -320,19 +389,11 @@
         "artist": "Artist unknown",
         "date": "1705",
         "medium": [
-            "Walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "mahogany",
+            "walnut",
+            "beech",
             "oak",
-            "softwood",
-            "plush"
+            "cane",
+            "walnut"
         ],
         "title": "",
         "museum": "v&a"
@@ -361,7 +422,18 @@
         "artist": "Artist unknown",
         "date": "1660",
         "medium": [
-            "Oak"
+            "oak",
+            "oak",
+            "leather",
+            "oak",
+            "walnut",
+            "cane",
+            "ebony",
+            "walnut",
+            "walnut",
+            "cane",
+            "walnut",
+            "oak"
         ],
         "title": "",
         "museum": "v&a"
@@ -370,7 +442,13 @@
         "artist": "Artist unknown",
         "date": "1680",
         "medium": [
-            "oak"
+            "oak",
+            "walnut",
+            "ebony",
+            "cane",
+            "wood",
+            "beech",
+            "cane"
         ],
         "title": "",
         "museum": "v&a"
@@ -380,7 +458,7 @@
         "date": "1722",
         "medium": [
             "walnut",
-            "silk (textile)"
+            "silk"
         ],
         "title": "",
         "museum": "v&a"
@@ -397,19 +475,19 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1660",
-        "medium": [
-            "oak",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1850",
         "medium": [
-            "Ebony"
+            "ebony",
+            "oak",
+            "paper m\u00e2ch\u00e9",
+            "wood",
+            "birch",
+            "paper",
+            "wood",
+            "",
+            "paper m\u00e2ch\u00e9",
+            "wood",
+            "mother of pearl"
         ],
         "title": "",
         "museum": "v&a"
@@ -418,17 +496,19 @@
         "artist": "Artist unknown",
         "date": "1760",
         "medium": [
-            "Mahogany"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1670",
-        "medium": [
-            "wood",
-            "walnut"
+            "mahogany",
+            "mahogany",
+            "oak",
+            "ash",
+            "horsehair",
+            "",
+            "mahogany",
+            "wool",
+            "mahogany",
+            "leather",
+            "mahogany",
+            "mahogany",
+            "beech"
         ],
         "title": "",
         "museum": "v&a"
@@ -437,16 +517,11 @@
         "artist": "Artist unknown",
         "date": "1685",
         "medium": [
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1660",
-        "medium": [
-            "oak"
+            "walnut",
+            "walnut",
+            "cane",
+            "beech",
+            "cane"
         ],
         "title": "",
         "museum": "v&a"
@@ -457,16 +532,6 @@
         "medium": [
             "mahogany",
             "rush"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1790",
-        "medium": [
-            "mahogany",
-            "moquette"
         ],
         "title": "",
         "museum": "v&a"
@@ -488,21 +553,10 @@
             "teak",
             "plywood",
             "rubber",
-            "chromium",
+            "chrome",
             "steel"
         ],
         "title": "3107",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1670",
-        "medium": [
-            "walnut",
-            "beech",
-            "cane"
-        ],
-        "title": "",
         "museum": "v&a"
     },
     {
@@ -510,17 +564,8 @@
         "date": "1865",
         "medium": [
             "beech",
-            "bentwood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1660",
-        "medium": [
-            "walnut",
-            "cane"
+            "",
+            "wood"
         ],
         "title": "",
         "museum": "v&a"
@@ -530,6 +575,7 @@
         "date": "1983",
         "medium": [
             "leather",
+            "wood",
             "wood"
         ],
         "title": "",
@@ -539,7 +585,11 @@
         "artist": "Artist unknown",
         "date": "1600",
         "medium": [
-            "walnut"
+            "walnut",
+            "walnut",
+            "leather",
+            "chestnut",
+            "ivory"
         ],
         "title": "",
         "museum": "v&a"
@@ -559,17 +609,7 @@
         "medium": [
             "walnut",
             "velvet",
-            "silk",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "Mahogany"
+            "silk"
         ],
         "title": "",
         "museum": "v&a"
@@ -579,7 +619,16 @@
         "date": "1770",
         "medium": [
             "mahogany",
-            "leather"
+            "leather",
+            "walnut",
+            "beech",
+            "leather",
+            "beech",
+            "leather",
+            "mahogany",
+            "horsehair",
+            "mahogany",
+            "veneer"
         ],
         "title": "",
         "museum": "v&a"
@@ -598,7 +647,13 @@
         "artist": "Artist unknown",
         "date": "1930",
         "medium": [
-            "wood"
+            "wood",
+            "plywood",
+            "bamboo",
+            "sisal",
+            "wicker",
+            "willow",
+            "beech"
         ],
         "title": "",
         "museum": "v&a"
@@ -607,7 +662,15 @@
         "artist": "Artist unknown",
         "date": "1690",
         "medium": [
-            "walnut"
+            "walnut",
+            "oak",
+            "cane",
+            "beech",
+            "walnut",
+            "cane",
+            "oak",
+            "leather",
+            "brass"
         ],
         "title": "",
         "museum": "v&a"
@@ -626,6 +689,11 @@
         "artist": "Artist unknown",
         "date": "1890",
         "medium": [
+            "wood",
+            "",
+            "wood",
+            "plush",
+            "",
             "wood"
         ],
         "title": "",
@@ -635,7 +703,11 @@
         "artist": "Artist unknown",
         "date": "1715",
         "medium": [
-            "walnut"
+            "walnut",
+            "walnut",
+            "beech",
+            "gesso",
+            "velvet"
         ],
         "title": "",
         "museum": "v&a"
@@ -645,6 +717,19 @@
         "date": "1800",
         "medium": [
             "rosewood",
+            "brass",
+            "mahogany",
+            "beech",
+            "wood",
+            "beech",
+            "cherry",
+            "beech",
+            "composition",
+            "yew",
+            "elm",
+            "chestnut",
+            "European chestnut",
+            "mahogany",
             "brass"
         ],
         "title": "",
@@ -670,56 +755,15 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1800",
-        "medium": [
-            "Mahogany",
-            "Beech"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1732",
-        "medium": [
-            "metal thread",
-            "silk (textile)",
-            "velvet",
-            "beech",
-            "pine",
-            "walnut",
-            "linen (material)",
-            "horsehair",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1680",
-        "medium": [
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1820",
         "medium": [
             "walnut",
             "pine",
-            "brass (alloy)"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1800",
-        "medium": [
-            "wood"
+            "brass",
+            "beech",
+            "oak",
+            "pine",
+            "rush"
         ],
         "title": "",
         "museum": "v&a"
@@ -735,16 +779,16 @@
     },
     {
         "artist": "Charles Eames",
-        "date": 1946,
+        "date": "1946",
         "medium": [
-            "molded plywood"
+            "plywood"
         ],
         "title": "Dining Chair (model DCW)",
         "museum": "aic"
     },
     {
         "artist": "Bertjan Pot",
-        "date": 2004,
+        "date": "2004",
         "medium": [
             "carbon fiber",
             "epoxy"
@@ -754,17 +798,17 @@
     },
     {
         "artist": "Shigeru Ban",
-        "date": 2009,
+        "date": "2009",
         "medium": [
-            "upm profi (recycled paper",
-            "plastic composite)"
+            "UPM ProFi",
+            ""
         ],
         "title": "10-Unit System Chair",
         "museum": "aic"
     },
     {
         "artist": "Barber Osgerby",
-        "date": 2006,
+        "date": "2006",
         "medium": [
             "cast",
             "pressed aluminum",
@@ -776,7 +820,7 @@
     },
     {
         "artist": "Enzo Mari",
-        "date": 1974,
+        "date": "1974",
         "medium": [
             "untreated pine",
             "nails"
@@ -786,9 +830,9 @@
     },
     {
         "artist": "Joe Cesare Colombo",
-        "date": 1960,
+        "date": "1960",
         "medium": [
-            "molded nylon",
+            "nylon",
             "polypropylene"
         ],
         "title": "Stacking Chair (one of two)",
@@ -796,7 +840,7 @@
     },
     {
         "artist": "Richard Hutten",
-        "date": 2004,
+        "date": "2004",
         "medium": [
             "walnut",
             "chrome"
@@ -806,7 +850,7 @@
     },
     {
         "artist": "David Adjaye",
-        "date": 2013,
+        "date": "2013",
         "medium": [
             "aluminum"
         ],
@@ -815,7 +859,7 @@
     },
     {
         "artist": "Hans J. Wegner",
-        "date": 1944,
+        "date": "1944",
         "medium": [
             "stain",
             "cherry",
@@ -827,16 +871,16 @@
     },
     {
         "artist": "Konstantin Grcic",
-        "date": 2008,
+        "date": "2008",
         "medium": [
-            "basf ultradur high speed"
+            "BASF Ultradur High Speed"
         ],
         "title": "Myto Cantilever Chair",
         "museum": "aic"
     },
     {
         "artist": "David Adjaye",
-        "date": 2013,
+        "date": "2013",
         "medium": [
             "injection-molded",
             "glass-reinforced nylon",
@@ -848,7 +892,7 @@
     },
     {
         "artist": "Shane Schneck",
-        "date": 2010,
+        "date": "2010",
         "medium": [
             "birch plywood",
             "ash veneer"
@@ -858,7 +902,7 @@
     },
     {
         "artist": "Jonathan Olivares",
-        "date": 2012,
+        "date": "2012",
         "medium": [
             "die-cast aluminum",
             "powder coat paint",
@@ -869,7 +913,7 @@
     },
     {
         "artist": "Hans J. Wegner",
-        "date": 1949,
+        "date": "1949",
         "medium": [
             "oak",
             "spanish cane"
@@ -879,7 +923,7 @@
     },
     {
         "artist": "Paul McCobb",
-        "date": 1957,
+        "date": "1957",
         "medium": [
             "mahogany",
             "leather upholstery"
@@ -889,30 +933,30 @@
     },
     {
         "artist": "Filipo Pelagio Palagi",
-        "date": 1830,
+        "date": "1830",
         "medium": [
             "mahogany",
             "maple",
-            "modern reproduction upholstery"
+            "upholstery"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Giles Grendey",
-        "date": 1730,
+        "date": "1730",
         "medium": [
             "wood",
-            "red",
-            "gold lacquer decoration",
-            "caned seat"
+            "",
+            "lacquer",
+            "cane"
         ],
         "title": "Chair",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1750,
+        "date": "1750",
         "medium": [
             "mahogany",
             "tulip poplar",
@@ -923,12 +967,15 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1755,
+        "date": "1755",
         "medium": [
             "mahogany",
             "yellow pine",
             "white pine",
             "atlantic white cedar",
+            "upholstery",
+            "mahogany",
+            "white pine",
             "upholstery"
         ],
         "title": "Side Chair",
@@ -936,7 +983,7 @@
     },
     {
         "artist": "L\u00e9on Albert Jallot",
-        "date": 1920,
+        "date": "1920",
         "medium": [
             "walnut",
             "shagreen"
@@ -946,7 +993,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1890,
+        "date": "1890",
         "medium": [
             "paint",
             "cast iron"
@@ -956,7 +1003,7 @@
     },
     {
         "artist": "Louis Comfort Tiffany",
-        "date": 1885,
+        "date": "1885",
         "medium": [
             "paint",
             "maple",
@@ -967,7 +1014,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1725,
+        "date": "1725",
         "medium": [
             "padauk wood",
             "textile"
@@ -977,11 +1024,18 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1790,
+        "date": "1790",
         "medium": [
             "mahogany",
             "walnut",
             "ash",
+            "upholstery",
+            "",
+            "gold leaf",
+            "paint",
+            "wood",
+            "inlay reverse paint",
+            "glass",
             "upholstery"
         ],
         "title": "Side Chair",
@@ -1039,7 +1093,7 @@
         "artist": "Ernest Race",
         "date": "1946",
         "medium": [
-            "aluminium",
+            "aluminum",
             "plywood",
             "fabric",
             "rubber"
@@ -1071,7 +1125,7 @@
         "date": "1987",
         "medium": [
             "steel",
-            "Common Club-rush (Bulrush)"
+            "rush"
         ],
         "title": "S Chair",
         "museum": "v&a"
@@ -1101,7 +1155,7 @@
         "artist": "Werner Aisslinger",
         "date": "2011",
         "medium": [
-            "fibreglass",
+            "fiberglass",
             "hemp",
             "kenaf"
         ],
@@ -1123,7 +1177,7 @@
         "date": "1998",
         "medium": [
             "metal",
-            "Polyurethane resin"
+            "polyurethane resin"
         ],
         "title": "Crosby chair",
         "museum": "v&a"
@@ -1189,7 +1243,7 @@
         "artist": "David Colwell",
         "date": "1989",
         "medium": [
-            "Ash"
+            "ash"
         ],
         "title": "C3 Chair",
         "museum": "v&a"
@@ -1229,8 +1283,8 @@
         "artist": "Sebastian Brajkovic",
         "date": "2008",
         "medium": [
-            "Bronze",
-            "Fabric"
+            "bronze",
+            "fabric"
         ],
         "title": "Lathe Chair VIII",
         "museum": "v&a"
@@ -1239,7 +1293,7 @@
         "artist": "Donald Chadwick",
         "date": "2017",
         "medium": [
-            "aluminium",
+            "aluminum",
             "steel",
             "polypropylene"
         ],
@@ -1260,7 +1314,7 @@
         "date": "1987",
         "medium": [
             "tubular steel",
-            "aluminium",
+            "aluminum",
             "plywood",
             "leather"
         ],
@@ -1271,7 +1325,7 @@
         "artist": "Ronald Carter",
         "date": "1983",
         "medium": [
-            "Ash"
+            "ash"
         ],
         "title": "Haarlem chair",
         "museum": "v&a"
@@ -1291,7 +1345,7 @@
         "date": "1916",
         "medium": [
             "wood",
-            "cane (plant material)"
+            "cane"
         ],
         "title": "Chair for 78 Derngate",
         "museum": "v&a"
@@ -1306,7 +1360,7 @@
         "museum": "v&a"
     },
     {
-        "artist": "Frank Wright",
+        "artist": "Frank Lloyd Wright",
         "date": "1902",
         "medium": [
             "oak",
@@ -1340,7 +1394,7 @@
         "date": "1876",
         "medium": [
             "beech",
-            "cane (plant material)"
+            "cane"
         ],
         "title": "Thonet 18",
         "museum": "v&a"
@@ -1358,7 +1412,7 @@
         "artist": "Eero Aarnio",
         "date": "1963",
         "medium": [
-            "fibreglass",
+            "fiberglass",
             "metal"
         ],
         "title": "'Ball' chair 08702",
@@ -1368,7 +1422,7 @@
         "artist": "Konstantin Grcic",
         "date": "2002",
         "medium": [
-            "aluminium"
+            "aluminum"
         ],
         "title": "Chair One",
         "museum": "v&a"
@@ -1390,7 +1444,7 @@
             "tubular steel",
             "polyurethane",
             "wool jersey",
-            "chrome metal"
+            "chrome"
         ],
         "title": "Djinn Chair",
         "museum": "v&a"
@@ -1419,7 +1473,7 @@
         "medium": [
             "steel",
             "wool",
-            "fibreglass"
+            "fiberglass"
         ],
         "title": "Womb chair",
         "museum": "v&a"
@@ -1473,8 +1527,7 @@
             "steel",
             "acrylic",
             "silicon",
-            "cotton",
-            ""
+            "cotton"
         ],
         "title": "Faraday chair",
         "museum": "v&a"
@@ -1484,7 +1537,7 @@
         "date": "1986",
         "medium": [
             "steel",
-            "Wax"
+            "wax"
         ],
         "title": "Spine Chair",
         "museum": "v&a"
@@ -1502,8 +1555,8 @@
         "artist": "Richard Riemerschmid",
         "date": "1904",
         "medium": [
-            "Beech",
-            "cane (plant material)"
+            "beech",
+            "cane"
         ],
         "title": "Beech chair with caned seat",
         "museum": "v&a"
@@ -1532,7 +1585,7 @@
         "artist": "Artist unknown",
         "date": "1855",
         "medium": [
-            "Ebony",
+            "ebony",
             "ivory",
             "velvet"
         ],
@@ -1573,8 +1626,7 @@
         "artist": "Eric Lyons",
         "date": "1945",
         "medium": [
-            "thermoplastic",
-            ""
+            "thermoplastic"
         ],
         "title": "Tecta",
         "museum": "v&a"
@@ -1584,8 +1636,7 @@
         "date": "2015",
         "medium": [
             "cloth",
-            "metal",
-            ""
+            "metal"
         ],
         "title": "Katran Chair",
         "museum": "v&a"
@@ -1603,7 +1654,7 @@
         "artist": "Magistretti",
         "date": "1968",
         "medium": [
-            "Fibreglass"
+            "fiberglass"
         ],
         "title": "Selene Chair",
         "museum": "v&a"
@@ -1612,7 +1663,7 @@
         "artist": "Magistretti",
         "date": "1967",
         "medium": [
-            "fibreglass"
+            "fiberglass"
         ],
         "title": "Selene Chair",
         "museum": "v&a"
@@ -1621,11 +1672,11 @@
         "artist": "Arthur Mackmurdo",
         "date": "1883",
         "medium": [
-            "Mahogany",
+            "mahogany",
             "leather",
             "horsehair",
             "webbing",
-            "brass (alloy)"
+            "brass"
         ],
         "title": "",
         "museum": "v&a"
@@ -1636,10 +1687,10 @@
         "medium": [
             "velvet",
             "satin",
-            "silvergilt",
+            "silver leaf",
             "wire",
             "gold",
-            "silk (textile)"
+            "silk"
         ],
         "title": "The Juxon Chair",
         "museum": "v&a"
@@ -1662,7 +1713,7 @@
             "steel",
             "wood",
             "paint",
-            "aluminium"
+            "aluminum"
         ],
         "title": "Antelope",
         "museum": "v&a"
@@ -1690,7 +1741,8 @@
         "artist": "Artist unknown",
         "date": "1850",
         "medium": [
-            "Ebony"
+            "ebony",
+            "ebony"
         ],
         "title": "Chair",
         "museum": "v&a"
@@ -1705,22 +1757,10 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1760",
-        "medium": [
-            "mahogany",
-            "oak",
-            "ash",
-            "horsehair"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Richard Bentley",
         "date": "1755",
         "medium": [
-            "Beech"
+            "beech"
         ],
         "title": "The Strawberry Hill Chair",
         "museum": "v&a"
@@ -1729,8 +1769,8 @@
         "artist": "Robin Day",
         "date": "1954",
         "medium": [
-            "Plywood",
-            "cherrywood",
+            "plywood",
+            "cherry",
             "tubular steel"
         ],
         "title": "Q Stak",
@@ -1750,7 +1790,7 @@
         "artist": "",
         "date": "1860",
         "medium": [
-            "Oak"
+            "oak"
         ],
         "title": "Chair",
         "museum": "v&a"
@@ -1760,7 +1800,7 @@
         "date": "1955",
         "medium": [
             "birch plywood",
-            "aluminium",
+            "aluminum",
             "metal",
             "textile"
         ],
@@ -1782,8 +1822,7 @@
         "date": "2000",
         "medium": [
             "beech",
-            "acrylic",
-            ""
+            "acrylic"
         ],
         "title": "Pof 1 Chair",
         "museum": "v&a"
@@ -1792,7 +1831,7 @@
         "artist": "Llewellyn Evans",
         "date": "1925",
         "medium": [
-            "cane (plant material)"
+            "cane"
         ],
         "title": "",
         "museum": "v&a"
@@ -1855,18 +1894,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "leather",
-            "Walnut",
-            "oak",
-            "softwood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Elizabeth Garouste",
         "date": "1981",
         "medium": [
@@ -1901,7 +1928,7 @@
         "artist": "Peter Ghyczy",
         "date": "1968",
         "medium": [
-            "Polyurethane"
+            "polyurethane"
         ],
         "title": "Garden Egg Chair",
         "museum": "v&a"
@@ -1920,7 +1947,7 @@
         "artist": "Huren Marsh",
         "date": "1985",
         "medium": [
-            "beech wood",
+            "beech",
             "rosewood"
         ],
         "title": "Akuaba",
@@ -1940,16 +1967,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "beech",
-            "Paint"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Fred Baier",
         "date": "1982",
         "medium": [
@@ -1963,7 +1980,7 @@
         "artist": "Gio Ponti",
         "date": "1951",
         "medium": [
-            "ash (wood)",
+            "ash",
             "Seagrass"
         ],
         "title": "Leggera",
@@ -1976,7 +1993,7 @@
             "steel",
             "foam",
             "wool",
-            "silk (textile)"
+            "silk"
         ],
         "title": "Margr\u00e9t",
         "museum": "v&a"
@@ -2008,17 +2025,7 @@
             "plywood",
             "brass",
             "walnut",
-            "mahogany-colour stain"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "walnut",
-            "leather"
+            "stain"
         ],
         "title": "",
         "museum": "v&a"
@@ -2063,15 +2070,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1850",
-        "medium": [
-            "ebony"
-        ],
-        "title": "Chair",
-        "museum": "v&a"
-    },
-    {
         "artist": "James Newton",
         "date": "1805",
         "medium": [
@@ -2109,7 +2107,7 @@
         "date": "1982",
         "medium": [
             "wood",
-            "cotton (textile)"
+            "cotton"
         ],
         "title": "Bel Air",
         "museum": "v&a"
@@ -2118,7 +2116,7 @@
         "artist": "Ernest Race",
         "date": "1946",
         "medium": [
-            "aluminium",
+            "aluminum",
             "plywood",
             "dye"
         ],
@@ -2165,7 +2163,11 @@
         "date": "1860",
         "medium": [
             "walnut",
-            "velvet"
+            "velvet",
+            "mahogany",
+            "beech",
+            "ash",
+            "cast iron"
         ],
         "title": "",
         "museum": "v&a"
@@ -2174,11 +2176,11 @@
         "artist": "William Linnell",
         "date": "1760",
         "medium": [
-            "Mahogany",
-            "Beech",
+            "mahogany",
+            "beech",
             "leather",
             "jute",
-            "cotton (textile)",
+            "cotton",
             "horsehair",
             "linen"
         ],
@@ -2208,7 +2210,7 @@
         "date": "1951",
         "medium": [
             "steel",
-            "aluminium",
+            "aluminum",
             "PVC"
         ],
         "title": "",
@@ -2219,7 +2221,7 @@
         "date": "1963",
         "medium": [
             "steel",
-            "ash (wood)"
+            "ash"
         ],
         "title": "Sheppey chair",
         "museum": "v&a"
@@ -2238,7 +2240,7 @@
         "artist": "Gardner & Co.",
         "date": "1872",
         "medium": [
-            "Beech",
+            "beech",
             "wood",
             "brass"
         ],
@@ -2322,7 +2324,7 @@
             "enamel",
             "leather"
         ],
-        "title": "3L/C ",
+        "title": "3L/C",
         "museum": "v&a"
     },
     {
@@ -2334,15 +2336,6 @@
             "polyvinyl chloride"
         ],
         "title": "Brompton chair",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1660",
-        "medium": [
-            "ebony"
-        ],
-        "title": "",
         "museum": "v&a"
     },
     {
@@ -2360,7 +2353,10 @@
         "medium": [
             "walnut",
             "beech",
-            "rush"
+            "rush",
+            "walnut",
+            "burr walnut",
+            "velvet"
         ],
         "title": "",
         "museum": "v&a"
@@ -2390,9 +2386,9 @@
         "artist": "Marcel Breuer",
         "date": "1928",
         "medium": [
-            "Tubular steel",
+            "tubular steel",
             "beech",
-            "cane (plant material)"
+            "cane"
         ],
         "title": "Model B32",
         "museum": "v&a"
@@ -2402,7 +2398,8 @@
         "date": "1740",
         "medium": [
             "walnut",
-            "cane"
+            "cane",
+            "walnut"
         ],
         "title": "",
         "museum": "v&a"
@@ -2412,19 +2409,6 @@
         "date": "1965",
         "medium": [
             "paperboard"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "walnut",
-            "leather",
-            "oak",
-            "softwood",
-            "iron"
         ],
         "title": "",
         "museum": "v&a"
@@ -2445,16 +2429,11 @@
         "date": "1580",
         "medium": [
             "walnut",
-            "gold leaf"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1930",
-        "medium": [
-            "Plywood"
+            "gold leaf",
+            "gold leaf",
+            "bole",
+            "gold paint",
+            "walnut"
         ],
         "title": "",
         "museum": "v&a"
@@ -2472,7 +2451,7 @@
         "artist": "Sergio Mazza",
         "date": "1968",
         "medium": [
-            "fibreglass"
+            "fiberglass"
         ],
         "title": "Toga",
         "museum": "v&a"
@@ -2489,20 +2468,11 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1770",
-        "medium": [
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "James Leonard",
         "date": "1947",
         "medium": [
             "plywood",
-            "aluminium"
+            "aluminum"
         ],
         "title": "",
         "museum": "v&a"
@@ -2520,22 +2490,19 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1770",
-        "medium": [
-            "Beech",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1870",
         "medium": [
             "ebony",
             "ivory",
             "copper",
-            "brass"
+            "brass",
+            "ebony",
+            "ivory",
+            "copper",
+            "brass",
+            "blackwood",
+            "beech",
+            "elm"
         ],
         "title": "",
         "museum": "v&a"
@@ -2552,48 +2519,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1870",
-        "medium": [
-            "Ebony",
-            "ivory",
-            "copper",
-            "brass"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1780",
-        "medium": [
-            "Beech",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1785",
-        "medium": [
-            "mahogany",
-            "horsehair"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1770",
-        "medium": [
-            "beech",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Erich Dieckmann",
         "date": "1926",
         "medium": [
@@ -2607,8 +2532,8 @@
         "artist": "Edward Godwin",
         "date": "1890",
         "medium": [
-            "Hardwood",
-            "Cane"
+            "hardwood",
+            "cane"
         ],
         "title": "",
         "museum": "v&a"
@@ -2630,7 +2555,7 @@
         "medium": [
             "oak",
             "beech",
-            "cane (plant material)"
+            "cane"
         ],
         "title": "",
         "museum": "v&a"
@@ -2640,18 +2565,9 @@
         "date": "1947",
         "medium": [
             "beech plywood",
-            "aluminium"
+            "aluminum"
         ],
         "title": "Model X201",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1800",
-        "medium": [
-            "Beech"
-        ],
-        "title": "",
         "museum": "v&a"
     },
     {
@@ -2677,16 +2593,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1790",
-        "medium": [
-            "mahogany",
-            "brass"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Antoni Gaud\u00ed",
         "date": "1902",
         "medium": [
@@ -2699,7 +2605,7 @@
         "artist": "Ernest Gimson",
         "date": "1971",
         "medium": [
-            "ash (wood)",
+            "ash",
             "rush"
         ],
         "title": "",
@@ -2719,7 +2625,7 @@
         "artist": "Michael Thonet",
         "date": "1836",
         "medium": [
-            "cane (plant material)",
+            "cane",
             "walnut",
             "wood"
         ],
@@ -2733,7 +2639,7 @@
             "oak",
             "brass",
             "cloth",
-            "fringe"
+            ""
         ],
         "title": "",
         "museum": "v&a"
@@ -2746,18 +2652,6 @@
             "goatskin"
         ],
         "title": "Hammock chair 24",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1580",
-        "medium": [
-            "gold leaf",
-            "bole",
-            "gold paint",
-            "walnut"
-        ],
-        "title": "",
         "museum": "v&a"
     },
     {
@@ -2779,17 +2673,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1710",
-        "medium": [
-            "beech",
-            "softwood",
-            "cane"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Le Corbusier",
         "date": "1950",
         "medium": [
@@ -2805,16 +2688,8 @@
         "medium": [
             "beech",
             "leather",
-            "bentwood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1690",
-        "medium": [
-            "oak"
+            "",
+            "wood"
         ],
         "title": "",
         "museum": "v&a"
@@ -2833,7 +2708,7 @@
         "date": "1968",
         "medium": [
             "plywood",
-            "aluminium"
+            "aluminum"
         ],
         "title": "QE2 restaurant chairs",
         "museum": "v&a"
@@ -2842,9 +2717,29 @@
         "artist": "Artist unknown",
         "date": "1755",
         "medium": [
-            "Mahogany",
-            "Birch",
-            "Leather"
+            "mahogany",
+            "birch",
+            "leather",
+            "mahogany",
+            "birch",
+            "birch",
+            "damask",
+            "mahogany",
+            "birch",
+            "damask",
+            "birch",
+            "mahogany",
+            "mahogany",
+            "velvet",
+            "birch",
+            "mahogany",
+            "leather",
+            "mahogany",
+            "leather",
+            "mahogany",
+            "leather",
+            "mahogany",
+            "leather"
         ],
         "title": "",
         "museum": "v&a"
@@ -2853,7 +2748,7 @@
         "artist": "",
         "date": "1755",
         "medium": [
-            "Mahogany"
+            "mahogany"
         ],
         "title": "",
         "museum": "v&a"
@@ -2869,31 +2764,10 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "ash",
-            "rush"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1685",
-        "medium": [
-            "walnut",
-            "cane"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Christopher Dresser",
         "date": "1870",
         "medium": [
-            "iron",
-            ""
+            "iron"
         ],
         "title": "",
         "museum": "v&a"
@@ -2906,26 +2780,6 @@
             "plywood"
         ],
         "title": "Model ST14",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1725",
-        "medium": [
-            "walnut",
-            "burr walnut",
-            "velvet"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1715",
-        "medium": [
-            "Walnut"
-        ],
-        "title": "",
         "museum": "v&a"
     },
     {
@@ -2942,7 +2796,9 @@
         "artist": "Artist unknown",
         "date": "1675",
         "medium": [
-            "beech"
+            "beech",
+            "beech",
+            "cane"
         ],
         "title": "",
         "museum": "v&a"
@@ -2951,23 +2807,10 @@
         "artist": "Joe Colombo",
         "date": "1963",
         "medium": [
-            "Plywood",
+            "plywood",
             "polyester"
         ],
         "title": "Model 4801",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1755",
-        "medium": [
-            "Mahogany",
-            "Birch",
-            "birch",
-            "damask",
-            ""
-        ],
-        "title": "",
         "museum": "v&a"
     },
     {
@@ -2981,27 +2824,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1710",
-        "medium": [
-            "Beech",
-            "cane"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1800",
-        "medium": [
-            "cherry",
-            "beech",
-            "composition"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Philip Hardwick",
         "date": "1834",
         "medium": [
@@ -3012,35 +2834,11 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "Mahogany",
-            "silk (textile)",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "mahogany",
-            "oak",
-            "",
-            "softwood",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Philippe Starck",
         "date": "1988",
         "medium": [
             "plastic",
-            "aluminium"
+            "aluminum"
         ],
         "title": "Dr Glob",
         "museum": "v&a"
@@ -3113,18 +2911,9 @@
         "medium": [
             "beech",
             "cane",
-            "brass"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1715",
-        "medium": [
+            "brass",
             "beech",
-            "gesso",
-            "velvet"
+            "cane"
         ],
         "title": "",
         "museum": "v&a"
@@ -3154,7 +2943,10 @@
         "date": "1730",
         "medium": [
             "walnut",
-            "cane"
+            "cane",
+            "beech",
+            "leather",
+            "wood"
         ],
         "title": "",
         "museum": "v&a"
@@ -3164,28 +2956,6 @@
         "date": "1933",
         "medium": [
             "birch plywood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1810",
-        "medium": [
-            "beech",
-            "cane"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "mahogany",
-            "oak",
-            "softwood",
-            "velvet"
         ],
         "title": "",
         "museum": "v&a"
@@ -3243,52 +3013,13 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1850",
-        "medium": [
-            "oak"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1760",
-        "medium": [
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Thonet",
         "date": "1887",
         "medium": [
-            "beech wood",
+            "beech",
             "cane",
             "metal",
-            "wood",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1680",
-        "medium": [
-            "ebony",
-            "cane (plant material)"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1675",
-        "medium": [
-            "beech",
-            "cane"
+            "wood"
         ],
         "title": "",
         "museum": "v&a"
@@ -3320,7 +3051,7 @@
         "artist": "Ronald Carter",
         "date": "1985",
         "medium": [
-            "ash (wood)"
+            "ash"
         ],
         "title": "",
         "museum": "v&a"
@@ -3351,46 +3082,11 @@
         "medium": [
             "walnut",
             "cane",
-            "velvet"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1755",
-        "medium": [
-            "mahogany",
-            "Birch",
-            "damask",
-            "birch"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1660",
-        "medium": [
+            "velvet",
+            "walnut",
+            "beech",
+            "velvet",
             "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1870",
-        "medium": [
-            "blackwood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1860",
-        "medium": [
-            "Mahogany"
         ],
         "title": "",
         "museum": "v&a"
@@ -3399,8 +3095,12 @@
         "artist": "Artist unknown",
         "date": "1720",
         "medium": [
-            "Walnut",
-            "Leather"
+            "walnut",
+            "leather",
+            "mahogany",
+            "oak",
+            "walnut",
+            "oak"
         ],
         "title": "",
         "museum": "v&a"
@@ -3422,17 +3122,6 @@
             "walnut",
             "leather",
             "paint"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1860",
-        "medium": [
-            "beech",
-            "ash",
-            "cast iron"
         ],
         "title": "",
         "museum": "v&a"
@@ -3462,17 +3151,7 @@
         "medium": [
             "mahogany",
             "ebony",
-            "brass (alloy)"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1760",
-        "medium": [
-            "Mahogany",
-            "wool"
+            "brass"
         ],
         "title": "",
         "museum": "v&a"
@@ -3502,7 +3181,10 @@
         "date": "1840",
         "medium": [
             "mahogany",
-            "leatherette"
+            "synthetic leather",
+            "mahogany",
+            "mahogany",
+            "paper m\u00e2ch\u00e9"
         ],
         "title": "",
         "museum": "v&a"
@@ -3513,15 +3195,6 @@
         "medium": [
             "oak",
             "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1755",
-        "medium": [
-            "mahogany"
         ],
         "title": "",
         "museum": "v&a"
@@ -3540,18 +3213,7 @@
         "date": "1900",
         "medium": [
             "pearwood",
-            "silk (textile)"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1830",
-        "medium": [
-            "Walnut",
-            "beech",
-            "velvet"
+            "silk"
         ],
         "title": "",
         "museum": "v&a"
@@ -3561,16 +3223,6 @@
         "date": "1687",
         "medium": [
             "oak"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1770",
-        "medium": [
-            "Mahogany",
-            "horsehair"
         ],
         "title": "",
         "museum": "v&a"
@@ -3598,25 +3250,6 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "Ivory"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "",
-            "Ivory"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1875",
         "medium": [
             "wood",
@@ -3626,31 +3259,10 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "Damask",
-            "mahogany"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1755",
-        "medium": [
-            "mahogany",
-            "velvet",
-            "birch"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "",
         "date": "1966",
         "medium": [
-            "aluminium",
+            "aluminum",
             "nylon",
             "vinyl",
             "dacron"
@@ -3663,27 +3275,9 @@
         "date": "1901",
         "medium": [
             "beech",
-            "aluminium",
+            "aluminum",
             "leather",
             "gimp"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1780",
-        "medium": [
-            "Mahogany"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1983",
-        "medium": [
-            "wood"
         ],
         "title": "",
         "museum": "v&a"
@@ -3692,7 +3286,7 @@
         "artist": "Achille Castiglioni",
         "date": "1980",
         "medium": [
-            "aluminium",
+            "aluminum",
             "leather"
         ],
         "title": "Irma",
@@ -3705,11 +3299,10 @@
             "beech",
             "velvet",
             "silk braid",
-            "linen (material)",
+            "linen",
             "horsehair",
             "pine",
-            "walnut",
-            ""
+            "walnut"
         ],
         "title": "",
         "museum": "v&a"
@@ -3730,15 +3323,6 @@
             "beech",
             "wool",
             "linen"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1710",
-        "medium": [
-            "beech"
         ],
         "title": "",
         "museum": "v&a"
@@ -3766,28 +3350,9 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "Mahogany",
-            "Beech"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1840",
-        "medium": [
-            "Mahogany"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1950",
         "medium": [
-            "aluminium"
+            "aluminum"
         ],
         "title": "",
         "museum": "v&a"
@@ -3807,7 +3372,7 @@
         "date": "2004",
         "medium": [
             "Chinese elm",
-            "Acrylic",
+            "acrylic",
             "catalpa"
         ],
         "title": "Project No.1 of Year 2004",
@@ -3823,26 +3388,8 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1740",
-        "medium": [
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Morris & Company",
         "date": "1879",
-        "medium": [
-            "wood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1680",
         "medium": [
             "wood"
         ],
@@ -3860,33 +3407,14 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1730",
-        "medium": [
-            "beech",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Josef Hoffmann",
         "date": "1907",
         "medium": [
             "beech",
-            "bentwood",
+            "",
+            "wood",
             "leather",
             "paint"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1890",
-        "medium": [
-            "bentwood",
-            "plush"
         ],
         "title": "",
         "museum": "v&a"
@@ -3912,21 +3440,10 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "mahogany",
-            "oak",
-            "softwood",
-            "Plush"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1640",
         "medium": [
-            "turkeywork"
+            "turkeywork",
+            "oak"
         ],
         "title": "",
         "museum": "v&a"
@@ -3949,16 +3466,6 @@
             "wood",
             "rubber",
             "metal"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1690",
-        "medium": [
-            "cane",
-            "beech"
         ],
         "title": "",
         "museum": "v&a"
@@ -3996,26 +3503,7 @@
         "date": "1845",
         "medium": [
             "walnut",
-            "wool (textile)"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1850",
-        "medium": [
-            "papier m\u00e2ch\u00e9",
-            "wood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1720",
-        "medium": [
-            "mahogany"
+            "wool"
         ],
         "title": "",
         "museum": "v&a"
@@ -4036,7 +3524,9 @@
         "artist": "Artist unknown",
         "date": "1650",
         "medium": [
-            "walnut"
+            "walnut",
+            "walnut",
+            "wood"
         ],
         "title": "",
         "museum": "v&a"
@@ -4052,16 +3542,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1670",
-        "medium": [
-            "leather",
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "IKEA",
         "date": "1996",
         "medium": [
@@ -4071,20 +3551,11 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Eero Saarinen",
         "date": "1956",
         "medium": [
-            "fibreglass",
-            "aluminium",
+            "fiberglass",
+            "aluminum",
             "wool"
         ],
         "title": "Tulip",
@@ -4111,19 +3582,14 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1830",
-        "medium": [
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1966",
         "medium": [
             "beech",
-            "cane"
+            "cane",
+            "ash",
+            "canvas",
+            "cane",
+            "steel"
         ],
         "title": "",
         "museum": "v&a"
@@ -4140,27 +3606,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1820",
-        "medium": [
-            "beech",
-            "oak",
-            "pine",
-            "rush"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1850",
-        "medium": [
-            "birch"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Alfred Waterhouse",
         "date": "1870",
         "medium": [
@@ -4174,8 +3619,8 @@
         "artist": "Thomas Chippendale Senior",
         "date": "1850",
         "medium": [
-            "Mahogany",
-            "Beech"
+            "mahogany",
+            "beech"
         ],
         "title": "",
         "museum": "v&a"
@@ -4186,17 +3631,6 @@
         "medium": [
             "oak",
             "wood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1850",
-        "medium": [
-            "papier",
-            "wood",
-            "mother"
         ],
         "title": "",
         "museum": "v&a"
@@ -4216,9 +3650,9 @@
         "date": "1905",
         "medium": [
             "stain",
-            "brass (alloy)",
+            "brass",
             "leather",
-            "beech (wood)"
+            "beech"
         ],
         "title": "",
         "museum": "v&a"
@@ -4228,7 +3662,7 @@
         "date": "1855",
         "medium": [
             "white pine",
-            "Oat straw",
+            "straw",
             "grass"
         ],
         "title": "",
@@ -4245,29 +3679,10 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1930",
-        "medium": [
-            "bamboo",
-            "sisal"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1760",
-        "medium": [
-            "mahogany",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1880",
         "medium": [
-            "wood"
+            "wood",
+            "oak"
         ],
         "title": "",
         "museum": "v&a"
@@ -4277,7 +3692,12 @@
         "date": "1900",
         "medium": [
             "wood",
-            "hide"
+            "hide",
+            "wood",
+            "cotton",
+            "wood",
+            "sisal",
+            "walnut"
         ],
         "title": "",
         "museum": "v&a"
@@ -4307,47 +3727,7 @@
         "date": "1901",
         "medium": [
             "black walnut",
-            "cane (plant material)"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1600",
-        "medium": [
-            "walnut",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1705",
-        "medium": [
-            "beech",
-            "oak",
             "cane"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1760",
-        "medium": [
-            "mahogany"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1650",
-        "medium": [
-            "walnut",
-            "wood"
         ],
         "title": "",
         "museum": "v&a"
@@ -4358,15 +3738,6 @@
         "medium": [
             "beech",
             "elm"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "Walnut"
         ],
         "title": "",
         "museum": "v&a"
@@ -4393,7 +3764,7 @@
         "artist": "Artist unknown",
         "date": "1960",
         "medium": [
-            "Beech",
+            "beech",
             "flax",
             "leather",
             "brass"
@@ -4402,71 +3773,11 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1685",
-        "medium": [
-            "beech",
-            "cane"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1640",
-        "medium": [
-            "oak"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1840",
-        "medium": [
-            "mahogany",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1755",
-        "medium": [
-            "mahogany",
-            "leather",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1755",
-        "medium": [
-            "mahogany",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1930",
-        "medium": [
-            "wicker",
-            "willow",
-            "beech"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Ingmar Relling",
         "date": "1978",
         "medium": [
-            "bentwood",
+            "",
+            "wood",
             "leather",
             "cord"
         ],
@@ -4475,31 +3786,13 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1900",
-        "medium": [
-            "wood",
-            "cotton"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1965",
         "medium": [
             "walnut",
             "plywood",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "Walnut",
-            "Beech"
+            "leather",
+            "oak",
+            "canvas"
         ],
         "title": "",
         "museum": "v&a"
@@ -4514,40 +3807,11 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "Mahogany",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1705",
-        "medium": [
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1800",
-        "medium": [
-            "yew",
-            "elm"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Louis Bigaux",
         "date": "1900",
         "medium": [
             "pearwood",
-            "gilt",
+            "gold leaf",
             "brass",
             "velvet"
         ],
@@ -4556,29 +3820,11 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1880",
-        "medium": [
-            "Oak"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1918",
         "medium": [
-            "beech wood",
+            "beech",
             "leather",
             "canvas"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1730",
-        "medium": [
-            "wood"
         ],
         "title": "",
         "museum": "v&a"
@@ -4588,16 +3834,6 @@
         "date": "1765",
         "medium": [
             ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1720",
-        "medium": [
-            "oak",
-            "walnut"
         ],
         "title": "",
         "museum": "v&a"
@@ -4637,20 +3873,10 @@
         "date": "1979",
         "medium": [
             "steel",
-            "aluminium",
+            "aluminum",
             "polyurethane"
         ],
         "title": "Supporto",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "mahogany",
-            "leather"
-        ],
-        "title": "",
         "museum": "v&a"
     },
     {
@@ -4659,25 +3885,6 @@
         "medium": [
             "walnut",
             "mother of pearl"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1770",
-        "medium": [
-            "mahogany",
-            "veneer"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1720",
-        "medium": [
-            "Oak"
         ],
         "title": "",
         "museum": "v&a"
@@ -4693,121 +3900,11 @@
     },
     {
         "artist": "Artist unknown",
-        "date": "1750",
-        "medium": [
-            "leather",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
         "date": "1775",
         "medium": [
             "mahogany",
             "leather",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1670",
-        "medium": [
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1760",
-        "medium": [
-            "mahogany",
-            "beech"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1966",
-        "medium": [
-            "ash",
-            "canvas"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1755",
-        "medium": [
-            "Mahogany",
-            "leather",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1755",
-        "medium": [
-            "Mahogany",
-            "leather"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1966",
-        "medium": [
-            "cane",
-            "steel"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1870",
-        "medium": [
-            "beech",
-            "elm"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "walnut wood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1690",
-        "medium": [
-            "walnut",
-            "cane"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1850",
-        "medium": [
-            "papier mache",
-            "wood",
-            "mother of pearl"
+            "mahogany"
         ],
         "title": "",
         "museum": "v&a"
@@ -4816,18 +3913,8 @@
         "artist": "Ernesto Basile",
         "date": "1902",
         "medium": [
-            "cane (plant material)",
+            "cane",
             "wood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1900",
-        "medium": [
-            "wood",
-            "sisal"
         ],
         "title": "",
         "museum": "v&a"
@@ -4862,22 +3949,11 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1670",
-        "medium": [
-            "walnut",
-            "cane"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Marcel Breuer",
         "date": "1928",
         "medium": [
             "steel",
             "cane",
-            "",
             "beech"
         ],
         "title": "",
@@ -4887,85 +3963,17 @@
         "artist": "Yrj\u00f6 Kukkapuro",
         "date": "1966",
         "medium": [
-            "fibreglass",
+            "fiberglass",
             "leather"
         ],
         "title": "414K",
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1800",
-        "medium": [
-            "chestnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1800",
-        "medium": [
-            "European chestnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "James Wyatt",
         "date": "1775",
         "medium": [
-            "Mahogany"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1775",
-        "medium": [
             "mahogany"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1660",
-        "medium": [
-            "walnut",
-            "cane",
-            ""
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1965",
-        "medium": [
-            "oak",
-            "canvas"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1600",
-        "medium": [
-            "chestnut",
-            "ivory"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "mahogany",
-            "leather"
         ],
         "title": "",
         "museum": "v&a"
@@ -4990,16 +3998,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1680",
-        "medium": [
-            "beech",
-            "cane"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Hans Wegner",
         "date": "1970",
         "medium": [
@@ -5019,17 +4017,6 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1690",
-        "medium": [
-            "oak",
-            "leather",
-            "brass"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "John Haynes & Sons",
         "date": "1980",
         "medium": [
@@ -5039,86 +4026,10 @@
         "museum": "v&a"
     },
     {
-        "artist": "Artist unknown",
-        "date": "1890",
-        "medium": [
-            "bentwood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1840",
-        "medium": [
-            "papier m\u00e2ch\u00e9"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
         "artist": "Henry Velde",
         "date": "1906",
         "medium": [
             "oak"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1700",
-        "medium": [
-            "walnut",
-            "cane"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1660",
-        "medium": [
-            "walnut",
-            "oak"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1710",
-        "medium": [
-            "beech wood",
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1900",
-        "medium": [
-            "walnut"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1710",
-        "medium": [
-            "walnut wood"
-        ],
-        "title": "",
-        "museum": "v&a"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": "1800",
-        "medium": [
-            "mahogany",
-            "brass"
         ],
         "title": "",
         "museum": "v&a"
@@ -5137,7 +4048,7 @@
         "artist": "Wendell Castle",
         "date": "2010",
         "medium": [
-            "fibreglass",
+            "fiberglass",
             "gold leaf",
             "lacquer"
         ],
@@ -5150,14 +4061,14 @@
         "medium": [
             "plywood",
             "steel",
-            "synthetic fibre"
+            "synthetic fiber"
         ],
         "title": "700",
         "museum": "v&a"
     },
     {
         "artist": "David Rowland",
-        "date": 1956,
+        "date": "1956",
         "medium": [
             "steel",
             "vinyl"
@@ -5167,7 +4078,7 @@
     },
     {
         "artist": "Edgar Bartolucci",
-        "date": 1946,
+        "date": "1946",
         "medium": [
             "aluminum",
             "upholstery"
@@ -5177,10 +4088,10 @@
     },
     {
         "artist": "Ron Arad",
-        "date": 1981,
+        "date": "1981",
         "medium": [
             "rover 2000 car seat mounted on a frame of kee klamp scaffolding",
-            "tubular steel frame",
+            "tubular steel",
             "vinyl upholstery"
         ],
         "title": "Rover Car Chair",
@@ -5188,9 +4099,10 @@
     },
     {
         "artist": "Campana Brothers",
-        "date": 2006,
+        "date": "2006",
         "medium": [
-            "bent steel wire",
+            "",
+            "steel wire",
             "epoxy paint"
         ],
         "title": "Corallo Chair",
@@ -5198,7 +4110,7 @@
     },
     {
         "artist": "George Nelson",
-        "date": 1955,
+        "date": "1955",
         "medium": [
             "fiberglass",
             "aluminum",
@@ -5210,7 +4122,7 @@
     },
     {
         "artist": "Joe Cesare Colombo",
-        "date": 1963,
+        "date": "1963",
         "medium": [
             "fiberglass",
             "vinyl"
@@ -5220,7 +4132,7 @@
     },
     {
         "artist": "Rudolph Michael Schindler",
-        "date": 1938,
+        "date": "1938",
         "medium": [
             "plywood veneer"
         ],
@@ -5229,18 +4141,18 @@
     },
     {
         "artist": "Greg Lynn",
-        "date": 2005,
+        "date": "2005",
         "medium": [
             "fiberglass-reinforced polyester shell",
-            "polyurethane foam seat",
-            "upholstery fabric"
+            "polyurethane foam",
+            "upholstery"
         ],
         "title": "Ravioli Chair",
         "museum": "aic"
     },
     {
         "artist": "Hans J. Wegner",
-        "date": 1951,
+        "date": "1951",
         "medium": [
             "wood",
             "upholstery"
@@ -5250,7 +4162,7 @@
     },
     {
         "artist": "Charles Eames",
-        "date": 1956,
+        "date": "1956",
         "medium": [
             "rosewood",
             "leather",
@@ -5261,7 +4173,7 @@
     },
     {
         "artist": "Henry Peter Glass",
-        "date": 1942,
+        "date": "1942",
         "medium": [
             "cast iron"
         ],
@@ -5270,22 +4182,22 @@
     },
     {
         "artist": "Campana Brothers",
-        "date": 2002,
+        "date": "2002",
         "medium": [
-            "multicolored fabric (including cotton",
+            "cotton",
             "polyester",
-            "blends of both",
-            "polyurethane padded foam",
-            "polyethylene/astroturf)",
-            "wrapped",
-            "cut over stainless steel frame"
+            "",
+            "polyurethane foam",
+            "polyethylene astroturf",
+            "",
+            "stainless steel"
         ],
         "title": "Sushi Chair",
         "museum": "aic"
     },
     {
         "artist": "Tokujin Yoshioka",
-        "date": 2001,
+        "date": "2001",
         "medium": [
             "honeycomb-paper construction"
         ],
@@ -5294,7 +4206,7 @@
     },
     {
         "artist": "Eero Saarinen",
-        "date": 1955,
+        "date": "1955",
         "medium": [
             "fiberglass-reinforced plastic",
             "lacquer",
@@ -5306,7 +4218,7 @@
     },
     {
         "artist": "Harry Bertoia",
-        "date": 1967,
+        "date": "1967",
         "medium": [
             "white vinyl-covered steel mesh"
         ],
@@ -5315,7 +4227,7 @@
     },
     {
         "artist": "Konstantin Grcic",
-        "date": 2003,
+        "date": "2003",
         "medium": [
             "die-cast aluminum",
             "concrete"
@@ -5325,7 +4237,7 @@
     },
     {
         "artist": "Henry Peter Glass",
-        "date": 1978,
+        "date": "1978",
         "medium": [
             "aluminum tubing",
             "polyester mesh"
@@ -5335,7 +4247,7 @@
     },
     {
         "artist": "Edgar Bartolucci",
-        "date": 1950,
+        "date": "1950",
         "medium": [
             "aluminum",
             "canvas"
@@ -5345,9 +4257,9 @@
     },
     {
         "artist": "Alexander Korab",
-        "date": 1983,
+        "date": "1983",
         "medium": [
-            "welded wire mesh",
+            "wire mesh",
             "acrylic head",
             "seat cushions"
         ],
@@ -5356,7 +4268,7 @@
     },
     {
         "artist": "Eero Saarinen",
-        "date": 1948,
+        "date": "1948",
         "medium": [
             "plastic",
             "latex",
@@ -5367,7 +4279,7 @@
     },
     {
         "artist": "Finn Juhl",
-        "date": 1949,
+        "date": "1949",
         "medium": [
             "teak",
             "leather upholstery"
@@ -5377,18 +4289,18 @@
     },
     {
         "artist": "Charles Eames",
-        "date": 1951,
+        "date": "1951",
         "medium": [
-            "molded metal mesh"
+            "metal mesh"
         ],
         "title": "Side Chair (model DKR)",
         "museum": "aic"
     },
     {
         "artist": "Ludwig Mies van der Rohe",
-        "date": 1929,
+        "date": "1929",
         "medium": [
-            "chrome-plated",
+            "chrome",
             "steel",
             "leather"
         ],
@@ -5397,7 +4309,7 @@
     },
     {
         "artist": "Frank O. Gehry",
-        "date": 1979,
+        "date": "1979",
         "medium": [
             "corrugated cardboard",
             "plywood"
@@ -5407,7 +4319,7 @@
     },
     {
         "artist": "Greg Lynn",
-        "date": 2010,
+        "date": "2010",
         "medium": [
             "3di aramid tape"
         ],
@@ -5416,21 +4328,22 @@
     },
     {
         "artist": "Marcel Breuer",
-        "date": 1930,
+        "date": "1930",
         "medium": [
-            "chromed bent tubular steel frame",
-            "fabric covering"
+            "chrome",
+            "tubular steel",
+            "fabric"
         ],
         "title": "Chair, Variation on B5",
         "museum": "aic"
     },
     {
         "artist": "Achille Castiglioni",
-        "date": 1957,
+        "date": "1957",
         "medium": [
             "enamel",
             "steel",
-            "chrome-plated",
+            "chrome",
             "beech"
         ],
         "title": "Mezzadro Stool",
@@ -5438,7 +4351,7 @@
     },
     {
         "artist": "Robert Venturi",
-        "date": 1984,
+        "date": "1984",
         "medium": [
             "laminated plywood"
         ],
@@ -5447,9 +4360,9 @@
     },
     {
         "artist": "Charles Eames",
-        "date": 1945,
+        "date": "1945",
         "medium": [
-            "molded plywood",
+            "plywood",
             "rubber"
         ],
         "title": "Lounge Chair (model LCW)",
@@ -5457,7 +4370,7 @@
     },
     {
         "artist": "Hans J. Wegner",
-        "date": 1940,
+        "date": "1940",
         "medium": [
             "ash",
             "teak",
@@ -5468,7 +4381,7 @@
     },
     {
         "artist": "Douglas Kelley",
-        "date": 1952,
+        "date": "1952",
         "medium": [
             "steel",
             "leather"
@@ -5478,11 +4391,11 @@
     },
     {
         "artist": "Coop Himmelblau",
-        "date": 1989,
+        "date": "1989",
         "medium": [
             "paint",
-            "steel",
-            "chromed tubular steel",
+            "tubular steel",
+            "chrome",
             "vinyl upholstery"
         ],
         "title": "Vod\u00f6l Armchair",
@@ -5490,7 +4403,7 @@
     },
     {
         "artist": "Paul Ludick",
-        "date": 1984,
+        "date": "1984",
         "medium": [
             "wood",
             "polychrome paint",
@@ -5501,7 +4414,7 @@
     },
     {
         "artist": "Frank O. Gehry",
-        "date": 1972,
+        "date": "1972",
         "medium": [
             "corrugated cardboard",
             "masonite"
@@ -5511,7 +4424,7 @@
     },
     {
         "artist": "Howard Meister",
-        "date": 1982,
+        "date": "1982",
         "medium": [
             "steel"
         ],
@@ -5520,7 +4433,7 @@
     },
     {
         "artist": "Harry Bertoia",
-        "date": 1952,
+        "date": "1952",
         "medium": [
             "steel",
             "wool",
@@ -5531,17 +4444,17 @@
     },
     {
         "artist": "Jerome Caruso",
-        "date": 1987,
+        "date": "1987",
         "medium": [
             "aluminum",
-            "molded polypropylene"
+            "polypropylene"
         ],
         "title": "Stacking chairs",
         "museum": "aic"
     },
     {
         "artist": "Cooper/Kato",
-        "date": 1984,
+        "date": "1984",
         "medium": [
             "elm"
         ],
@@ -5550,7 +4463,7 @@
     },
     {
         "artist": "Konstantin Grcic",
-        "date": 2014,
+        "date": "2014",
         "medium": [
             "glass",
             "metal"
@@ -5560,7 +4473,7 @@
     },
     {
         "artist": "David Rowland",
-        "date": 1964,
+        "date": "1964",
         "medium": [
             "steel",
             "vinyl"
@@ -5570,7 +4483,7 @@
     },
     {
         "artist": "Harry Bertoia",
-        "date": 1952,
+        "date": "1952",
         "medium": [
             "steel",
             "naugahyde"
@@ -5580,7 +4493,7 @@
     },
     {
         "artist": "Konstantin Grcic",
-        "date": 2001,
+        "date": "2001",
         "medium": [
             "tubular stainless steel",
             "rubber",
@@ -5593,7 +4506,7 @@
     },
     {
         "artist": "Ron Arad",
-        "date": 1997,
+        "date": "1997",
         "medium": [
             "polypropylene",
             "steel"
@@ -5603,7 +4516,7 @@
     },
     {
         "artist": "Thomas Dixon",
-        "date": 1992,
+        "date": "1992",
         "medium": [
             "enamel",
             "steel"
@@ -5613,7 +4526,7 @@
     },
     {
         "artist": "Terence Harold Robsjohn-Gibbings",
-        "date": 1941,
+        "date": "1941",
         "medium": [
             "birch",
             "metal",
@@ -5624,10 +4537,10 @@
     },
     {
         "artist": "Konstantin Grcic",
-        "date": 2009,
+        "date": "2009",
         "medium": [
             "aluminum",
-            "pu foam",
+            "polyurethane foam",
             "powder-coated steel"
         ],
         "title": "360\u00ba Chair",
@@ -5635,18 +4548,18 @@
     },
     {
         "artist": "Poul Kjaerholm",
-        "date": 1957,
+        "date": "1957",
         "medium": [
-            "brushed stainless steel",
-            "woven wicker seat",
-            "back"
+            "stainless steel",
+            "wicker",
+            ""
         ],
         "title": "Chair",
         "museum": "aic"
     },
     {
         "artist": "Charles Jencks",
-        "date": 1985,
+        "date": "1985",
         "medium": [
             "formica",
             "wood"
@@ -5656,7 +4569,7 @@
     },
     {
         "artist": "Harry Bertoia",
-        "date": 1952,
+        "date": "1952",
         "medium": [
             "steel",
             "wool"
@@ -5666,7 +4579,7 @@
     },
     {
         "artist": "Jonathan Muecke",
-        "date": 2013,
+        "date": "2013",
         "medium": [
             "carbon",
             "kevlar fibers",
@@ -5677,7 +4590,7 @@
     },
     {
         "artist": "Robert Wilson",
-        "date": 1987,
+        "date": "1987",
         "medium": [
             "bleached birch",
             "lacquer",
@@ -5688,7 +4601,7 @@
     },
     {
         "artist": "Max Lamb",
-        "date": 2017,
+        "date": "2017",
         "medium": [
             "textile board"
         ],
@@ -5697,7 +4610,7 @@
     },
     {
         "artist": "Tord Boontje",
-        "date": 1998,
+        "date": "1998",
         "medium": [
             "paint",
             "pine",
@@ -5709,7 +4622,7 @@
     },
     {
         "artist": "Pierre Paulin",
-        "date": 1967,
+        "date": "1967",
         "medium": [
             "upholstery over tubular metal frame"
         ],
@@ -5718,16 +4631,16 @@
     },
     {
         "artist": "Jonathan De Pas",
-        "date": 1967,
+        "date": "1967",
         "medium": [
-            "inflated pvc"
+            "PVC"
         ],
         "title": "Blow Chair",
         "museum": "aic"
     },
     {
         "artist": "Gerrit Thomas Rietveld",
-        "date": 1934,
+        "date": "1934",
         "medium": [
             "paint",
             "wood"
@@ -5737,7 +4650,7 @@
     },
     {
         "artist": "Charles Eames",
-        "date": 1950,
+        "date": "1950",
         "medium": [
             "fiberglass",
             "steel",
@@ -5748,7 +4661,7 @@
     },
     {
         "artist": "Werner Schmidt",
-        "date": 1988,
+        "date": "1988",
         "medium": [
             "wood",
             "metal"
@@ -5758,16 +4671,16 @@
     },
     {
         "artist": "Ron Arad",
-        "date": 2006,
+        "date": "2006",
         "medium": [
-            "rotational-moulded polyethylene"
+            "rotational-molded polyethylene"
         ],
         "title": "Voido Rocking Chair",
         "museum": "aic"
     },
     {
         "artist": "Paul Ludick",
-        "date": 1986,
+        "date": "1986",
         "medium": [
             "plywood",
             "paint"
@@ -5777,7 +4690,7 @@
     },
     {
         "artist": "Gregg Fleishman",
-        "date": 1990,
+        "date": "1990",
         "medium": [
             "birch plywood",
             "lacquer"
@@ -5787,7 +4700,7 @@
     },
     {
         "artist": "Konstantin Grcic",
-        "date": 2006,
+        "date": "2006",
         "medium": [
             "laminated plywood",
             "oak veneer",
@@ -5798,7 +4711,7 @@
     },
     {
         "artist": "Charlotte Perriand",
-        "date": 1968,
+        "date": "1968",
         "medium": [
             "pine",
             "enamel",
@@ -5809,9 +4722,9 @@
     },
     {
         "artist": "Paul Ludick",
-        "date": 1992,
+        "date": "1992",
         "medium": [
-            "welded metal",
+            "metal",
             "canvas"
         ],
         "title": "Sling Chair",
@@ -5819,7 +4732,7 @@
     },
     {
         "artist": "Gregg Fleishman",
-        "date": 1990,
+        "date": "1990",
         "medium": [
             "birch plywood"
         ],
@@ -5828,7 +4741,7 @@
     },
     {
         "artist": "Ronan & Erwan Bouroullec Design",
-        "date": 2009,
+        "date": "2009",
         "medium": [
             "polyamide"
         ],
@@ -5837,7 +4750,7 @@
     },
     {
         "artist": "Hans Bellmann",
-        "date": 1950,
+        "date": "1950",
         "medium": [
             "plywood",
             "steel"
@@ -5847,10 +4760,10 @@
     },
     {
         "artist": "Charlotte Perriand",
-        "date": 1965,
+        "date": "1965",
         "medium": [
             "leather",
-            "chrome-plated",
+            "chrome",
             "steel"
         ],
         "title": "Dining chair from Les Arcs, France",
@@ -5858,18 +4771,18 @@
     },
     {
         "artist": "Henry Peter Glass",
-        "date": 1966,
+        "date": "1966",
         "medium": [
             "walnut",
             "plywood",
-            "artificial leather"
+            "synthetic leather"
         ],
         "title": "Cylindra Plywood Chair",
         "museum": "aic"
     },
     {
         "artist": "Frank O. Gehry",
-        "date": 1982,
+        "date": "1982",
         "medium": [
             "cardboard"
         ],
@@ -5878,7 +4791,7 @@
     },
     {
         "artist": "Paul Ludick",
-        "date": 1985,
+        "date": "1985",
         "medium": [
             "paint",
             "wood",
@@ -5889,16 +4802,16 @@
     },
     {
         "artist": "Verner Panton",
-        "date": 1973,
+        "date": "1973",
         "medium": [
-            "injection molded plastic"
+            "injection-molded plastic"
         ],
         "title": "Stacking Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Jorge Gonz\u00e1lez Santos",
-        "date": 2016,
+        "date": "2016",
         "medium": [
             "woven \u201cenea\u201d fiber (typha dominguensis) on \u201claurel espada\u201d wood (ocotea floribunda)"
         ],
@@ -5907,7 +4820,7 @@
     },
     {
         "artist": "Cecilie Manz",
-        "date": 2016,
+        "date": "2016",
         "medium": [
             "oregon pine",
             "veneer"
@@ -5917,7 +4830,7 @@
     },
     {
         "artist": "Barber Osgerby",
-        "date": 2011,
+        "date": "2011",
         "medium": [
             "polypropylene"
         ],
@@ -5926,7 +4839,7 @@
     },
     {
         "artist": "Charles Eames",
-        "date": 1968,
+        "date": "1968",
         "medium": [
             "aluminum",
             "leather"
@@ -5936,17 +4849,17 @@
     },
     {
         "artist": "Robert Wilson",
-        "date": 1987,
+        "date": "1987",
         "medium": [
-            "perforated",
-            "coated sheet steel"
+            "",
+            "perforated sheet steel"
         ],
         "title": "Hamletmachine Chair",
         "museum": "aic"
     },
     {
         "artist": "Jonathan Muecke",
-        "date": 2022,
+        "date": "2022",
         "medium": [
             "carbon fiber",
             "epoxy resin"
@@ -5956,7 +4869,7 @@
     },
     {
         "artist": "Philippe Starck",
-        "date": 1988,
+        "date": "1988",
         "medium": [
             "pau rosa plywood",
             "cast aluminum"
@@ -5966,19 +4879,19 @@
     },
     {
         "artist": "Konstantin Grcic",
-        "date": 2009,
+        "date": "2009",
         "medium": [
             "ash",
-            "reinforced polypropylene"
+            "polypropylene"
         ],
         "title": "Monza Chair",
         "museum": "aic"
     },
     {
         "artist": "Harold L. Cohen",
-        "date": 1945,
+        "date": "1945",
         "medium": [
-            "tubular steel frame",
+            "tubular steel",
             "nylon mesh fabric"
         ],
         "title": "Orange Nylon Chair",
@@ -5986,7 +4899,7 @@
     },
     {
         "artist": "Paul Ludick",
-        "date": 1989,
+        "date": "1989",
         "medium": [
             "paint",
             "wood",
@@ -5999,7 +4912,7 @@
     },
     {
         "artist": "Scholten and Baijings",
-        "date": 2013,
+        "date": "2013",
         "medium": [
             "polyamide"
         ],
@@ -6008,9 +4921,9 @@
     },
     {
         "artist": "Davis Pratt",
-        "date": 1948,
+        "date": "1948",
         "medium": [
-            "tubular steel frame",
+            "tubular steel",
             "rubber inner tube from auto tire",
             "shag textile cover"
         ],
@@ -6019,7 +4932,7 @@
     },
     {
         "artist": "Patricia Urquiola",
-        "date": 2006,
+        "date": "2006",
         "medium": [
             "felt",
             "wool",
@@ -6027,14 +4940,14 @@
             "polyurethane foam",
             "synthetic net",
             "stainless steel",
-            "pvc"
+            "PVC"
         ],
         "title": "Antibodi Chaise",
         "museum": "aic"
     },
     {
         "artist": "George Nelson",
-        "date": 1956,
+        "date": "1956",
         "medium": [
             "fiberglass",
             "steel"
@@ -6044,7 +4957,7 @@
     },
     {
         "artist": "Hern\u00e1n D\u00edaz Alonso",
-        "date": 2009,
+        "date": "2009",
         "medium": [
             "expanded polystyrene",
             "polyester",
@@ -6056,7 +4969,7 @@
     },
     {
         "artist": "Davis Brewster Allen",
-        "date": 1957,
+        "date": "1957",
         "medium": [
             "steel"
         ],
@@ -6065,7 +4978,7 @@
     },
     {
         "artist": "Dirk Vander Kooij",
-        "date": 2012,
+        "date": "2012",
         "medium": [
             "reused plastics"
         ],
@@ -6074,7 +4987,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1987,
+        "date": "1987",
         "medium": [
             "olive",
             "sycamore",
@@ -6086,7 +4999,7 @@
     },
     {
         "artist": "Christien Meindertsma",
-        "date": 2018,
+        "date": "2018",
         "medium": [
             "flax"
         ],
@@ -6095,7 +5008,7 @@
     },
     {
         "artist": "Thomas Heatherwick",
-        "date": 2007,
+        "date": "2007",
         "medium": [
             "rotation-molded plastic"
         ],
@@ -6104,7 +5017,7 @@
     },
     {
         "artist": "Frank O. Gehry",
-        "date": 1967,
+        "date": "1967",
         "medium": [
             "cardboard"
         ],
@@ -6113,7 +5026,7 @@
     },
     {
         "artist": "Cecilie Manz",
-        "date": 2009,
+        "date": "2009",
         "medium": [
             "oregon pine"
         ],
@@ -6122,7 +5035,7 @@
     },
     {
         "artist": "Konstantin Grcic",
-        "date": 2009,
+        "date": "2009",
         "medium": [
             "steel",
             "plywood",
@@ -6133,22 +5046,22 @@
     },
     {
         "artist": "Dan Friedman",
-        "date": 1987,
+        "date": "1987",
         "medium": [
             "medium-density fiberboard",
             "plastic",
-            "wood laminates",
-            "nickel-plated",
+            "wood laminate",
+            "nickel",
             "metal",
-            "hand-paint",
-            "letters"
+            "paint",
+            ""
         ],
         "title": "Truth Chair",
         "museum": "aic"
     },
     {
         "artist": "Jorge Gonz\u00e1lez Santos",
-        "date": 2018,
+        "date": "2018",
         "medium": [
             "woven cotton cord on constructed \u201croble\u201d wood (tabebuia heterophylla)"
         ],
@@ -6157,17 +5070,17 @@
     },
     {
         "artist": "Industrial Facility",
-        "date": 2009,
+        "date": "2009",
         "medium": [
-            "beech wood",
-            "natural waxed oak"
+            "beech",
+            "oak"
         ],
         "title": "Table, Bench, Chair",
         "museum": "aic"
     },
     {
         "artist": "Max Lamb",
-        "date": 2017,
+        "date": "2017",
         "medium": [
             "aisi 1045 carbon steel"
         ],
@@ -6176,7 +5089,7 @@
     },
     {
         "artist": "Michele Oka Doner",
-        "date": 1991,
+        "date": "1991",
         "medium": [
             "silver"
         ],
@@ -6185,7 +5098,7 @@
     },
     {
         "artist": "Patrick Jouin",
-        "date": 2006,
+        "date": "2006",
         "medium": [
             "plastic",
             "stereolithography"
@@ -6195,7 +5108,7 @@
     },
     {
         "artist": "Jean Prouv\u00e9",
-        "date": 1950,
+        "date": "1950",
         "medium": [
             "wood",
             "metal",
@@ -6206,9 +5119,10 @@
     },
     {
         "artist": "Bruno Mathsson",
-        "date": 1960,
+        "date": "1960",
         "medium": [
-            "bent plywood or beechwood",
+            "",
+            "plywood",
             "hemp webbing"
         ],
         "title": "Chaise Longue: \"Pernilla\"",
@@ -6216,9 +5130,9 @@
     },
     {
         "artist": "Frank Lloyd Wright",
-        "date": 1940,
+        "date": "1940",
         "medium": [
-            "blonde mahogany (philippine bataan)",
+            "blonde mahogany",
             "plywood",
             "leather"
         ],
@@ -6227,7 +5141,7 @@
     },
     {
         "artist": "Nanna and Jorgen Ditzel",
-        "date": 1950,
+        "date": "1950",
         "medium": [
             "wicker",
             "teak"
@@ -6237,11 +5151,11 @@
     },
     {
         "artist": "Maarten van Severen",
-        "date": 1999,
+        "date": "1999",
         "medium": [
             "polyurethane foam",
-            "coating",
-            "enamel",
+            "",
+            "",
             "steel",
             "enamel",
             "aluminum"
@@ -6251,7 +5165,7 @@
     },
     {
         "artist": "Yves B\u00e9har",
-        "date": 2010,
+        "date": "2010",
         "medium": [
             "paper"
         ],
@@ -6260,7 +5174,7 @@
     },
     {
         "artist": "Jasper Morrison",
-        "date": 2000,
+        "date": "2000",
         "medium": [
             "injection-molded polypropylene",
             "fiberglass"
@@ -6270,7 +5184,7 @@
     },
     {
         "artist": "David Rowland",
-        "date": 1987,
+        "date": "1987",
         "medium": [
             "chrome",
             "vinyl"
@@ -6280,7 +5194,7 @@
     },
     {
         "artist": "Mathias Bengtsson",
-        "date": 2003,
+        "date": "2003",
         "medium": [
             "spun carbon fiber"
         ],
@@ -6289,9 +5203,9 @@
     },
     {
         "artist": "Gaetano Pesce",
-        "date": 1969,
+        "date": "1969",
         "medium": [
-            "bayfit flexible cold-shaped polyurethane foam",
+            "Bayfit flexible cold-shaped polyurethane foam",
             "jersey fabric",
             "jute"
         ],
@@ -6300,10 +5214,10 @@
     },
     {
         "artist": "Konstantin Grcic",
-        "date": 2009,
+        "date": "2009",
         "medium": [
             "tubular steel",
-            "mdf",
+            "MDF",
             "upholstery"
         ],
         "title": "Pipe Chair",
@@ -6311,7 +5225,7 @@
     },
     {
         "artist": "Konstantin Grcic",
-        "date": 2011,
+        "date": "2011",
         "medium": [
             "fabric",
             "steel"
@@ -6321,7 +5235,7 @@
     },
     {
         "artist": "Gio Ponti",
-        "date": 1957,
+        "date": "1957",
         "medium": [
             "lacquer",
             "wood",
@@ -6332,7 +5246,7 @@
     },
     {
         "artist": "Frank Lloyd Wright",
-        "date": 1902,
+        "date": "1902",
         "medium": [
             "poplar",
             "leather"
@@ -6342,60 +5256,60 @@
     },
     {
         "artist": "Carlo Bugatti",
-        "date": 1902,
+        "date": "1902",
         "medium": [
             "wood",
             "parchment",
             "copper",
-            "pigments"
+            "pigment"
         ],
         "title": "Cobra Chair",
         "museum": "aic"
     },
     {
         "artist": "Michael Thonet",
-        "date": 1876,
+        "date": "1876",
         "medium": [
             "beech",
-            "caning"
+            "cane"
         ],
         "title": "Rocking Chair",
         "museum": "aic"
     },
     {
         "artist": "Hector Guimard",
-        "date": 1900,
+        "date": "1900",
         "medium": [
             "pearwood",
-            "tooled leather"
+            "leather"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Peter Behrens",
-        "date": 1902,
+        "date": "1902",
         "medium": [
             "ebonized oak",
-            "woven rattan"
+            "rattan"
         ],
         "title": "Chair",
         "museum": "aic"
     },
     {
         "artist": "Frank Lloyd Wright",
-        "date": 1937,
+        "date": "1937",
         "medium": [
             "steel",
             "maple",
-            "original upholstery (later laminated surface)"
+            "upholstery"
         ],
         "title": "Armchair",
         "museum": "aic"
     },
     {
         "artist": "Richard Riemerschmid",
-        "date": 1898,
+        "date": "1898",
         "medium": [
             "bog oak",
             "leather"
@@ -6405,17 +5319,17 @@
     },
     {
         "artist": "Unknown",
-        "date": 1815,
+        "date": "1815",
         "medium": [
             "walnut",
-            "modern replacement upholstery"
+            "upholstery"
         ],
         "title": "Chair",
         "museum": "aic"
     },
     {
         "artist": "Dutch School",
-        "date": 1740,
+        "date": "1740",
         "medium": [
             "walnut",
             "walnut veneer",
@@ -6426,17 +5340,17 @@
     },
     {
         "artist": "Giles Grendey",
-        "date": 1735,
+        "date": "1735",
         "medium": [
             "walnut",
-            "18th-century replacement upholstery"
+            "upholstery"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Thomas Hope",
-        "date": 1802,
+        "date": "1802",
         "medium": [
             "mahogany",
             "ebony",
@@ -6448,7 +5362,7 @@
     },
     {
         "artist": "Swahili",
-        "date": 1801,
+        "date": "1801",
         "medium": [
             "wood",
             "ivory",
@@ -6459,7 +5373,7 @@
     },
     {
         "artist": "Frank Lloyd Wright",
-        "date": 1904,
+        "date": "1904",
         "medium": [
             "oak",
             "upholstery"
@@ -6469,12 +5383,12 @@
     },
     {
         "artist": "George Grant Elmslie",
-        "date": 1910,
+        "date": "1910",
         "medium": [
             "oak",
             "laminated wood",
             "leather",
-            "jute webbing",
+            "jute",
             "horsehair"
         ],
         "title": "Side Chair",
@@ -6482,7 +5396,7 @@
     },
     {
         "artist": "Adolf Loos",
-        "date": 1893,
+        "date": "1893",
         "medium": [
             "beech",
             "cane"
@@ -6492,24 +5406,25 @@
     },
     {
         "artist": "Ludwig Mies van der Rohe",
-        "date": 1926,
+        "date": "1926",
         "medium": [
-            "bent",
-            "tubular",
-            "chromium-plated",
-            "steel",
-            "banded",
-            "sewn dark green leather spanning seat",
-            "back"
+            "",
+            "",
+            "chrome",
+            "tubular steel",
+            "",
+            "leather",
+            ""
         ],
         "title": "MR 20 Armchair",
         "museum": "aic"
     },
     {
         "artist": "Ludwig Mies van der Rohe",
-        "date": 1926,
+        "date": "1926",
         "medium": [
-            "bent chromed flat steel frame",
+            "chrome",
+            "steel",
             "leather upholstery"
         ],
         "title": "MR 90 Chair",
@@ -6517,7 +5432,7 @@
     },
     {
         "artist": "Gerrit Thomas Rietveld",
-        "date": 1920,
+        "date": "1920",
         "medium": [
             "paint",
             "plywood"
@@ -6527,21 +5442,22 @@
     },
     {
         "artist": "Josef Hoffmann",
-        "date": 1903,
+        "date": "1903",
         "medium": [
-            "bent beechwood",
+            "",
+            "beech",
             "laminated wood",
-            "red leather seat"
+            "leather"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Herter Brothers",
-        "date": 1869,
+        "date": "1869",
         "medium": [
             "rosewood",
-            "marquetry of various woods",
+            "wood",
             "ivory",
             "upholstery"
         ],
@@ -6550,7 +5466,7 @@
     },
     {
         "artist": "Michael Thonet",
-        "date": 1846,
+        "date": "1846",
         "medium": [
             "beech",
             "cane"
@@ -6560,7 +5476,7 @@
     },
     {
         "artist": "George Nakashima",
-        "date": 1988,
+        "date": "1988",
         "medium": [
             "walnut",
             "hickory"
@@ -6570,28 +5486,30 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1825,
+        "date": "1825",
         "medium": [
             "walnut",
             "walnut veneer",
-            "modern upholstery"
+            "upholstery",
+            "chestnut",
+            "oak"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Charles Rohlfs",
-        "date": 1900,
+        "date": "1900",
         "medium": [
             "oak",
-            "black stain"
+            "stain"
         ],
         "title": "Hall Chair",
         "museum": "aic"
     },
     {
         "artist": "Asante",
-        "date": 1850,
+        "date": "1850",
         "medium": [
             "wood",
             "brass",
@@ -6602,7 +5520,7 @@
     },
     {
         "artist": "Cevedra B. Sheldon",
-        "date": 1876,
+        "date": "1876",
         "medium": [
             "iron",
             "walnut",
@@ -6614,7 +5532,7 @@
     },
     {
         "artist": "Augustus Welby Northmore Pugin",
-        "date": 1843,
+        "date": "1843",
         "medium": [
             "oak",
             "leather",
@@ -6625,10 +5543,10 @@
     },
     {
         "artist": "Chokwe",
-        "date": 1875,
+        "date": "1875",
         "medium": [
             "wood",
-            "brass tacks",
+            "brass",
             "hide"
         ],
         "title": "Chair (Chitwamo or Njunga)",
@@ -6636,7 +5554,7 @@
     },
     {
         "artist": "Asante",
-        "date": 1875,
+        "date": "1875",
         "medium": [
             "wood",
             "brass",
@@ -6647,7 +5565,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1870,
+        "date": "1870",
         "medium": [
             "horn",
             "silk",
@@ -6659,7 +5577,7 @@
     },
     {
         "artist": "Bruno Paul",
-        "date": 1910,
+        "date": "1910",
         "medium": [
             "wood",
             "upholstery"
@@ -6669,7 +5587,7 @@
     },
     {
         "artist": "John Philip Fond\u00e9",
-        "date": 1816,
+        "date": "1816",
         "medium": [
             "ash",
             "white pine",
@@ -6683,21 +5601,21 @@
     },
     {
         "artist": "Theophilus Edvard von Hansen",
-        "date": 1865,
+        "date": "1865",
         "medium": [
             "walnut",
             "beech",
-            "modern velvet upholstery"
+            "upholstery"
         ],
         "title": "Dining Chair",
         "museum": "aic"
     },
     {
         "artist": "Herter Brothers",
-        "date": 1877,
+        "date": "1877",
         "medium": [
             "ebonized cherry",
-            "various inlaid woods",
+            "wood",
             "upholstery"
         ],
         "title": "Side Chair",
@@ -6705,7 +5623,7 @@
     },
     {
         "artist": "Josef Hoffmann",
-        "date": 1901,
+        "date": "1901",
         "medium": [
             "beech",
             "wood laminate"
@@ -6715,7 +5633,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1760,
+        "date": "1760",
         "medium": [
             "walnut"
         ],
@@ -6723,23 +5641,8 @@
         "museum": "aic"
     },
     {
-        "artist": "Artist unknown",
-        "date": 1790,
-        "medium": [
-            "carved",
-            "gilded",
-            "paint",
-            "wood",
-            "inlay reverse paint",
-            "glass",
-            "modern upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
         "artist": "Charles Sumner Greene",
-        "date": 1907,
+        "date": "1907",
         "medium": [
             "mahogany",
             "ebony",
@@ -6750,18 +5653,18 @@
     },
     {
         "artist": "Richard Joseph Neutra",
-        "date": 1930,
+        "date": "1930",
         "medium": [
-            "chrome-plated",
+            "chrome",
             "steel",
-            "replacement upholstery"
+            "upholstery"
         ],
         "title": "Armchair",
         "museum": "aic"
     },
     {
         "artist": "Tiv",
-        "date": 1901,
+        "date": "1901",
         "medium": [
             "wood"
         ],
@@ -6770,7 +5673,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1765,
+        "date": "1765",
         "medium": [
             "wood",
             "leather",
@@ -6781,17 +5684,17 @@
     },
     {
         "artist": "Ngombe",
-        "date": 1875,
+        "date": "1875",
         "medium": [
             "wood",
-            "brass tacks"
+            "brass"
         ],
         "title": "Reclined-Back Chair",
         "museum": "aic"
     },
     {
         "artist": "Frank Lloyd Wright",
-        "date": 1956,
+        "date": "1956",
         "medium": [
             "plywood",
             "copper",
@@ -6802,7 +5705,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1760,
+        "date": "1760",
         "medium": [
             "mahogany",
             "oak",
@@ -6814,7 +5717,7 @@
     },
     {
         "artist": "Frank Lloyd Wright",
-        "date": 1908,
+        "date": "1908",
         "medium": [
             "oak"
         ],
@@ -6823,17 +5726,17 @@
     },
     {
         "artist": "Bruno Paul",
-        "date": 1910,
+        "date": "1910",
         "medium": [
             "wood",
-            "modern upholstery"
+            "upholstery"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Lobi",
-        "date": 1901,
+        "date": "1901",
         "medium": [
             "wood"
         ],
@@ -6842,7 +5745,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1760,
+        "date": "1760",
         "medium": [
             "tulipwood",
             "maple",
@@ -6854,7 +5757,7 @@
     },
     {
         "artist": "Samuel McIntire",
-        "date": 1794,
+        "date": "1794",
         "medium": [
             "mahogany",
             "ash",
@@ -6866,7 +5769,7 @@
     },
     {
         "artist": "Warren McArthur",
-        "date": 1936,
+        "date": "1936",
         "medium": [
             "anodized aluminum",
             "cotton upholstery"
@@ -6876,7 +5779,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1730,
+        "date": "1730",
         "medium": [
             "white pine",
             "upholstery"
@@ -6886,18 +5789,18 @@
     },
     {
         "artist": "Harvey Ellis",
-        "date": 1903,
+        "date": "1903",
         "medium": [
             "oak",
             "copper",
-            "bronze inlays"
+            "bronze"
         ],
         "title": "Rocking Chair",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1640,
+        "date": "1640",
         "medium": [
             "ash",
             "white oak",
@@ -6908,7 +5811,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1600,
+        "date": "1600",
         "medium": [
             "maple",
             "oak"
@@ -6918,7 +5821,7 @@
     },
     {
         "artist": "Samuel Gragg",
-        "date": 1808,
+        "date": "1808",
         "medium": [
             "oak",
             "ash",
@@ -6930,7 +5833,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1740,
+        "date": "1740",
         "medium": [
             "walnut"
         ],
@@ -6939,33 +5842,33 @@
     },
     {
         "artist": "Carlo Bugatti",
-        "date": 1902,
+        "date": "1902",
         "medium": [
-            "wood frame covered",
+            "wood",
             "parchment",
-            "painted",
-            "gilded",
-            "applied brass mounts"
+            "paint",
+            "gold leaf",
+            "brass"
         ],
         "title": "Eiffel Tower Chair",
         "museum": "aic"
     },
     {
         "artist": "Marcel Breuer",
-        "date": 1926,
+        "date": "1926",
         "medium": [
-            "chrome-plated",
-            "steel",
-            "tubing",
-            "woven wicker seat",
-            "back"
+            "chrome",
+            "tubular steel",
+            "",
+            "wicker",
+            ""
         ],
         "title": "B-5 Side Chair",
         "museum": "aic"
     },
     {
         "artist": "George Nakashima",
-        "date": 1988,
+        "date": "1988",
         "medium": [
             "walnut",
             "hickory"
@@ -6975,7 +5878,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1722,
+        "date": "1722",
         "medium": [
             "maple",
             "leather"
@@ -6985,30 +5888,20 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1825,
+        "date": "1795",
         "medium": [
-            "chestnut",
-            "oak"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1795,
-        "medium": [
-            "beechwood",
-            "carved",
-            "painted",
-            "gilded",
-            "modern upholstery"
+            "beech",
+            "",
+            "paint",
+            "gold leaf",
+            "upholstery"
         ],
         "title": "Armchair (one of two)",
         "museum": "aic"
     },
     {
         "artist": "R. J. Horner and Company",
-        "date": 1890,
+        "date": "1890",
         "medium": [
             "maple",
             "birds-eye maple"
@@ -7018,30 +5911,30 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1690,
+        "date": "1690",
         "medium": [
-            "painted",
-            "gilded",
-            "beechwood",
-            "modern upholstery"
+            "paint",
+            "gold leaf",
+            "beech",
+            "upholstery"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1685,
+        "date": "1685",
         "medium": [
-            "black lacquer",
-            "gilded",
-            "beechwood"
+            "lacquer",
+            "gold leaf",
+            "beech"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1742,
+        "date": "1742",
         "medium": [
             "mahogany",
             "white oak",
@@ -7053,11 +5946,11 @@
     },
     {
         "artist": "Donald Deskey",
-        "date": 1938,
+        "date": "1938",
         "medium": [
-            "chrome-plated",
+            "chrome",
             "metal",
-            "upholster",
+            "upholstery",
             "fabric"
         ],
         "title": "Pair of Armchairs",
@@ -7065,17 +5958,17 @@
     },
     {
         "artist": "John Makepeace",
-        "date": 1988,
+        "date": "1988",
         "medium": [
             "laminated english holly wood",
-            "natural hide"
+            "hide"
         ],
         "title": "Millennium 3 Armchair",
         "museum": "aic"
     },
     {
         "artist": "John Gaines, III",
-        "date": 1735,
+        "date": "1735",
         "medium": [
             "maple"
         ],
@@ -7084,7 +5977,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1746,
+        "date": "1746",
         "medium": [
             "maple"
         ],
@@ -7093,7 +5986,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1780,
+        "date": "1780",
         "medium": [
             "mahogany",
             "white pine",
@@ -7105,7 +5998,7 @@
     },
     {
         "artist": "Chapin School of Cabinetmakers",
-        "date": 1770,
+        "date": "1770",
         "medium": [
             "mahogany",
             "white pine",
@@ -7117,7 +6010,7 @@
     },
     {
         "artist": "J. & J.W. Meeks",
-        "date": 1856,
+        "date": "1856",
         "medium": [
             "rosewood",
             "upholstery"
@@ -7127,7 +6020,7 @@
     },
     {
         "artist": "John Henry Belter and Company",
-        "date": 1851,
+        "date": "1851",
         "medium": [
             "rosewood",
             "upholstery"
@@ -7137,7 +6030,7 @@
     },
     {
         "artist": "Louis Comfort Tiffany",
-        "date": 1911,
+        "date": "1911",
         "medium": [
             "oak",
             "velvet upholstery"
@@ -7147,7 +6040,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1760,
+        "date": "1760",
         "medium": [
             "mahogany",
             "white pine",
@@ -7159,7 +6052,7 @@
     },
     {
         "artist": "George Trask",
-        "date": 1825,
+        "date": "1825",
         "medium": [
             "mahogany",
             "birch",
@@ -7170,18 +6063,18 @@
     },
     {
         "artist": "Charles Francis Annesley Voysey",
-        "date": 1898,
+        "date": "1898",
         "medium": [
             "oak",
             "ash",
-            "original rush seat"
+            "rush"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Shaker",
-        "date": 1831,
+        "date": "1831",
         "medium": [
             "birch"
         ],
@@ -7190,7 +6083,7 @@
     },
     {
         "artist": "Alexander Jackson Davis",
-        "date": 1849,
+        "date": "1849",
         "medium": [
             "rosewood",
             "upholstery"
@@ -7200,7 +6093,7 @@
     },
     {
         "artist": "Hendrik Van Keppel",
-        "date": 1939,
+        "date": "1939",
         "medium": [
             "enamel",
             "steel tubing",
@@ -7211,11 +6104,11 @@
     },
     {
         "artist": "Le Corbusier (Charles-\u00c9douard Jeanneret)",
-        "date": 1928,
+        "date": "1928",
         "medium": [
-            "chrome-plated",
+            "chrome",
             "steel",
-            "replacement american shorthorn upholstery",
+            "upholstery",
             "leather",
             "paint",
             "metal"
@@ -7225,19 +6118,19 @@
     },
     {
         "artist": "Jacques-\u00c9mile Ruhlmann",
-        "date": 1920,
+        "date": "1920",
         "medium": [
             "macassar ebony",
-            "silvered bronze ferrules on front feet",
-            "silk velvet upholster",
-            "seat"
+            "bronze",
+            "silk velvet",
+            "upholstery"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1890,
+        "date": "1890",
         "medium": [
             "hickory",
             "oak"
@@ -7247,7 +6140,7 @@
     },
     {
         "artist": "Kem Weber",
-        "date": 1928,
+        "date": "1928",
         "medium": [
             "paint",
             "wood",
@@ -7258,7 +6151,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1770,
+        "date": "1770",
         "medium": [
             "mahogany",
             "tulipwood",
@@ -7270,7 +6163,7 @@
     },
     {
         "artist": "D. E. Cutter",
-        "date": 1800,
+        "date": "1800",
         "medium": [
             "maple",
             "beech",
@@ -7282,24 +6175,24 @@
     },
     {
         "artist": "Edward Welby Pugin",
-        "date": 1865,
+        "date": "1865",
         "medium": [
             "oak",
             "ebony",
-            "later iron plate"
+            "iron"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1796,
+        "date": "1796",
         "medium": [
             "oak",
             "cherry",
             "pine",
             "paint",
-            "gilding",
+            "gold leaf",
             "upholstery"
         ],
         "title": "Side Chair",
@@ -7307,7 +6200,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1850,
+        "date": "1850",
         "medium": [
             "white pine",
             "walnut",
@@ -7318,7 +6211,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1755,
+        "date": "1755",
         "medium": [
             "mahogany",
             "upholstery"
@@ -7328,7 +6221,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1790,
+        "date": "1790",
         "medium": [
             "mahogany",
             "ash",
@@ -7340,7 +6233,7 @@
     },
     {
         "artist": "Peter Bonnett Wight",
-        "date": 1876,
+        "date": "1876",
         "medium": [
             "oak",
             "cane"
@@ -7350,7 +6243,7 @@
     },
     {
         "artist": "Lars Kinsarvik",
-        "date": 1908,
+        "date": "1908",
         "medium": [
             "pine",
             "pigment"
@@ -7360,7 +6253,7 @@
     },
     {
         "artist": "Kem Weber",
-        "date": 1928,
+        "date": "1928",
         "medium": [
             "paint",
             "wood",
@@ -7372,7 +6265,7 @@
     },
     {
         "artist": "Clifton Monteith",
-        "date": 1991,
+        "date": "1991",
         "medium": [
             "willow",
             "aspen"
@@ -7382,69 +6275,69 @@
     },
     {
         "artist": "Thomas Chippendale, I",
-        "date": 1770,
+        "date": "1770",
         "medium": [
             "giltwood",
-            "modern upholstery"
+            "upholstery"
         ],
         "title": "Armchair",
         "museum": "aic"
     },
     {
         "artist": "Jacob Keller",
-        "date": 1900,
+        "date": "1900",
         "medium": [
             "walnut",
-            "caning"
+            "cane"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1815,
+        "date": "1815",
         "medium": [
             "hardwood",
-            "caning"
+            "cane"
         ],
         "title": "Chair",
         "museum": "aic"
     },
     {
         "artist": "Edwin Lutyens",
-        "date": 1931,
+        "date": "1931",
         "medium": [
             "walnut",
-            "replacement leather"
+            "leather"
         ],
         "title": "Armchair and stool",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1790,
+        "date": "1790",
         "medium": [
             "white pine",
-            "other woods"
+            "wood"
         ],
         "title": "Child's Windsor Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1815,
+        "date": "1815",
         "medium": [
             "mahogany",
             "ebony",
-            "slip seat",
-            "modern upholstery"
+            "",
+            "upholstery"
         ],
         "title": "Side Chair (one of two)",
         "museum": "aic"
     },
     {
         "artist": "Frank Lloyd Wright",
-        "date": 1900,
+        "date": "1900",
         "medium": [
             "oak"
         ],
@@ -7453,7 +6346,7 @@
     },
     {
         "artist": "August Thonet",
-        "date": 1880,
+        "date": "1880",
         "medium": [
             "beech",
             "cane"
@@ -7463,7 +6356,7 @@
     },
     {
         "artist": "Richard Parkin",
-        "date": 1835,
+        "date": "1835",
         "medium": [
             "wood",
             "upholstery"
@@ -7473,24 +6366,24 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1715,
+        "date": "1715",
         "medium": [
-            "frames:",
-            "gilt",
+            "",
+            "gold leaf",
             "gesso",
-            "on",
-            "beechwood",
-            "backs",
-            "seats: lacquered",
-            "chinese",
-            "softwood"
+            "",
+            "beech",
+            "",
+            "lacquer",
+            "",
+            "Chinese softwood"
         ],
         "title": "Pair of Hall Chairs",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1900,
+        "date": "1900",
         "medium": [
             "mahogany"
         ],
@@ -7499,24 +6392,25 @@
     },
     {
         "artist": "Jennens and Bettridge",
-        "date": 1844,
+        "date": "1844",
         "medium": [
-            "papier-m\u00e2ch\u00e9",
+            "paper m\u00e2ch\u00e9",
             "wood",
-            "gilded",
+            "gold leaf",
             "inlaid",
-            "mother-of-pearl",
-            "modern upholstery"
+            "mother of pearl",
+            "upholstery"
         ],
         "title": "Pair of Chairs",
         "museum": "aic"
     },
     {
         "artist": "Marcel Breuer",
-        "date": 1936,
+        "date": "1936",
         "medium": [
-            "bent plywood",
-            "laminated",
+            "",
+            "plywood",
+            "laminate",
             "wood"
         ],
         "title": "Chaise Longue",
@@ -7524,7 +6418,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1805,
+        "date": "1805",
         "medium": [
             "mahogany",
             "ash",
@@ -7537,7 +6431,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1890,
+        "date": "1890",
         "medium": [
             "paint",
             "cast iron"
@@ -7547,7 +6441,7 @@
     },
     {
         "artist": "Mount Lebanon Shaker Village (New Lebanon, N.Y.)",
-        "date": 1873,
+        "date": "1873",
         "medium": [
             "maple"
         ],
@@ -7556,18 +6450,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1755,
-        "medium": [
-            "mahogany",
-            "white pine",
-            "upholstery"
-        ],
-        "title": "Side Chair",
-        "museum": "aic"
-    },
-    {
-        "artist": "Artist unknown",
-        "date": 1691,
+        "date": "1691",
         "medium": [
             "maple",
             "ash"
@@ -7577,7 +6460,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1660,
+        "date": "1660",
         "medium": [
             "maple",
             "birch"
@@ -7587,7 +6470,7 @@
     },
     {
         "artist": "George Nakashima",
-        "date": 1945,
+        "date": "1945",
         "medium": [
             "walnut"
         ],
@@ -7596,19 +6479,19 @@
     },
     {
         "artist": "Samuel A. Marx",
-        "date": 1944,
+        "date": "1944",
         "medium": [
             "birch",
             "plastic",
-            "veneered legs",
-            "black plastic"
+            "veneer",
+            "plastic"
         ],
         "title": "Side Chair",
         "museum": "aic"
     },
     {
         "artist": "Artist unknown",
-        "date": 1870,
+        "date": "1870",
         "medium": [
             "wood"
         ],
@@ -7617,7 +6500,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1730,
+        "date": "1730",
         "medium": [
             "walnut",
             "maple",
@@ -7628,7 +6511,7 @@
     },
     {
         "artist": "Artist unknown",
-        "date": 1790,
+        "date": "1790",
         "medium": [
             "maple",
             "white pine",
@@ -7638,34 +6521,28 @@
         "museum": "aic"
     },
     {
-        "artist": [
-            "PINWU"
-        ],
-        "date": 2012,
+        "artist": "PINWU",
+        "date": "2012",
         "medium": [
-            "beech (wood)",
+            "beech",
             "bamboo paper"
         ],
         "title": "G\u00f9",
         "museum": "m+"
     },
     {
-        "artist": [
-            "PINWU"
-        ],
-        "date": 2011,
+        "artist": "PINWU",
+        "date": "2011",
         "medium": [
-            "beech (wood)",
+            "beech",
             "rice paper"
         ],
         "title": "Piao",
         "museum": "m+"
     },
     {
-        "artist": [
-            "PINWU"
-        ],
-        "date": 2012,
+        "artist": "PINWU",
+        "date": "2012",
         "medium": [
             "xuan paper",
             "wood",
@@ -7676,23 +6553,26 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki",
-            "Aoshima Shoten"
-        ],
-        "date": 1976,
+        "artist": "Ohashi Teruaki",
+        "date": "1976",
         "medium": [
-            "japanese cherry wood",
+            "Japanese cherry"
+        ],
+        "title": "Chair or a Stand-Like Chair / Chair Miri",
+        "museum": "m+"
+    },
+    {
+        "artist": "Aoshima Shoten",
+        "date": "1976",
+        "medium": [
             "stainless steel wire"
         ],
         "title": "Chair or a Stand-Like Chair / Chair Miri",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1974,
+        "artist": "Ohashi Teruaki",
+        "date": "1974",
         "medium": [
             "metal wire",
             "wood"
@@ -7701,25 +6581,36 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Michael Young",
-            "EOQ"
-        ],
-        "date": 2008,
+        "artist": "Michael Young",
+        "date": "2008",
         "medium": [
-            "aluminium"
+            "aluminum"
         ],
         "title": "Chair 4A",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Watanabe Riki",
-            "Yokoyama Industry"
-        ],
-        "date": 1952,
+        "artist": "EOQ",
+        "date": "2008",
         "medium": [
-            "japanese oak",
+            ""
+        ],
+        "title": "Chair 4A",
+        "museum": "m+"
+    },
+    {
+        "artist": "Watanabe Riki",
+        "date": "1952",
+        "medium": [
+            "Japanese oak"
+        ],
+        "title": "Rope Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Yokoyama Industry",
+        "date": "1952",
+        "medium": [
             "cotton rope",
             "metal"
         ],
@@ -7727,47 +6618,46 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1988,
+        "artist": "Uchida Shigeru",
+        "date": "1988",
         "medium": [
-            "beech moulded plywood",
-            "lacquer enamel paint"
+            "beech plywood",
+            "lacquer"
         ],
         "title": "August Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Tadaomi Mizunoe",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1954,
+        "artist": "Tadaomi Mizunoe",
+        "date": "1954",
         "medium": [
-            "beech",
+            "beech"
+        ],
+        "title": "Book Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Tendo Co., Ltd.",
+        "date": "1954",
+        "medium": [
             "teak-veneered plywood"
         ],
         "title": "Book Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Pierre Jeanneret"
-        ],
-        "date": 1925,
+        "artist": "Pierre Jeanneret",
+        "date": "1925",
         "medium": [
             "teak",
-            "caning"
+            "cane"
         ],
         "title": "Library Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1995,
+        "artist": "Uchida Shigeru",
+        "date": "1995",
         "medium": [
             "resin plywood",
             "core filling"
@@ -7776,11 +6666,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Kidokoro Ubunji",
-            "Tokyo Chikkosha"
-        ],
-        "date": 1935,
+        "artist": "Kidokoro Ubunji",
+        "date": "1935",
         "medium": [
             "bamboo"
         ],
@@ -7788,10 +6675,17 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Charlotte Perriand"
+        "artist": "Tokyo Chikkosha",
+        "date": "1935",
+        "medium": [
+            ""
         ],
-        "date": 1946,
+        "title": "Bamboo chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Charlotte Perriand",
+        "date": "1946",
         "medium": [
             "rattan",
             "wood"
@@ -7800,29 +6694,54 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Tarumi Kenzo",
-            "Q Designers",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1962,
+        "artist": "Tarumi Kenzo",
+        "date": "1962",
         "medium": [
-            "plywood",
+            "plywood"
+        ],
+        "title": "Legless chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Q Designers",
+        "date": "1962",
+        "medium": [
             "fabric"
         ],
         "title": "Legless chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki",
-            "Inoue Industries Inc.",
-            "Viale"
-        ],
-        "date": 1985,
+        "artist": "Tendo Co., Ltd.",
+        "date": "1962",
         "medium": [
-            "metal",
-            "lacquer paint",
+            ""
+        ],
+        "title": "Legless chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Ohashi Teruaki",
+        "date": "1985",
+        "medium": [
+            "metal"
+        ],
+        "title": "Hannan Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Inoue Industries Inc.",
+        "date": "1985",
+        "medium": [
+            "lacquer"
+        ],
+        "title": "Hannan Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Viale",
+        "date": "1985",
+        "medium": [
             "cotton",
             "textile"
         ],
@@ -7830,13 +6749,11 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Kowloon Rattan Ware Co."
-        ],
-        "date": 1952,
+        "artist": "Kowloon Rattan Ware Co.",
+        "date": "1952",
         "medium": [
             "rattan",
-            "pvc (plastic)",
+            "PVC",
             "iron",
             "rubber"
         ],
@@ -7844,50 +6761,71 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Kidokoro Ubunji",
-            "Mitsukoshi Ltd.",
-            "Chikukousha"
-        ],
-        "date": 1937,
+        "artist": "Kidokoro Ubunji",
+        "date": "1937",
         "medium": [
-            "bamboo",
+            "bamboo"
+        ],
+        "title": "Bamboo Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Mitsukoshi Ltd.",
+        "date": "1937",
+        "medium": [
             "brass"
         ],
         "title": "Bamboo Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Minnie Boga",
-            "Taaru"
-        ],
-        "date": 1969,
+        "artist": "Chikukousha",
+        "date": "1937",
         "medium": [
-            "teak (wood)",
-            "jute (fibre)"
+            ""
+        ],
+        "title": "Bamboo Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Minnie Boga",
+        "date": "1969",
+        "medium": [
+            "teak"
         ],
         "title": "Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Kuramata Shiro",
-            "Ishimaru Co. Ltd."
-        ],
-        "date": 1969,
+        "artist": "Taaru",
+        "date": "1969",
         "medium": [
-            "plastic",
+            "jute"
+        ],
+        "title": "Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Kuramata Shiro",
+        "date": "1969",
+        "medium": [
+            "plastic"
+        ],
+        "title": "Luminous Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Ishimaru Co. Ltd.",
+        "date": "1969",
+        "medium": [
             "fluorescent lamp"
         ],
         "title": "Luminous Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Tom Dixon"
-        ],
-        "date": 1988,
+        "artist": "Tom Dixon",
+        "date": "1988",
         "medium": [
             "steel",
             "rush"
@@ -7896,36 +6834,30 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1986,
+        "artist": "Uchida Shigeru",
+        "date": "1986",
         "medium": [
             "steel",
             "melamine coating",
-            "upholster",
+            "upholstery",
             "seat"
         ],
         "title": "NY Chair II",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Pierre Jeanneret"
-        ],
-        "date": 1958,
+        "artist": "Pierre Jeanneret",
+        "date": "1958",
         "medium": [
             "teak",
-            "caning"
+            "cane"
         ],
         "title": "Rectangular Feet Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Xiao Tianyu"
-        ],
-        "date": 2010,
+        "artist": "Xiao Tianyu",
+        "date": "2010",
         "medium": [
             "elm",
             "cotton",
@@ -7935,10 +6867,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1986,
+        "artist": "Uchida Shigeru",
+        "date": "1986",
         "medium": [
             "steel",
             "melamine coating"
@@ -7947,10 +6877,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Xiao Tianyu"
-        ],
-        "date": 2010,
+        "artist": "Xiao Tianyu",
+        "date": "2010",
         "medium": [
             "elm",
             "cotton",
@@ -7960,15 +6888,27 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki",
-            "Inoue Industries Inc.",
-            "Viale"
-        ],
-        "date": 1984,
+        "artist": "Ohashi Teruaki",
+        "date": "1984",
         "medium": [
-            "metal",
-            "lacquer",
+            "metal"
+        ],
+        "title": "Hannan Chair Long",
+        "museum": "m+"
+    },
+    {
+        "artist": "Inoue Industries Inc.",
+        "date": "1984",
+        "medium": [
+            "lacquer"
+        ],
+        "title": "Hannan Chair Long",
+        "museum": "m+"
+    },
+    {
+        "artist": "Viale",
+        "date": "1984",
+        "medium": [
             "cotton",
             "wool"
         ],
@@ -7976,10 +6916,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Yoshioka Tokujin"
-        ],
-        "date": 2006,
+        "artist": "Yoshioka Tokujin",
+        "date": "2006",
         "medium": [
             "polyester fiber"
         ],
@@ -7987,10 +6925,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Zhang Zhoujie"
-        ],
-        "date": 2011,
+        "artist": "Zhang Zhoujie",
+        "date": "2011",
         "medium": [
             "stainless steel"
         ],
@@ -7998,10 +6934,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Xiao Tianyu"
-        ],
-        "date": 2010,
+        "artist": "Xiao Tianyu",
+        "date": "2010",
         "medium": [
             "elm",
             "cotton",
@@ -8011,23 +6945,28 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Artist unknown"
-        ],
-        "date": 1990,
+        "artist": "Artist unknown",
+        "date": "1990",
         "medium": [
             "metal",
-            "upholster",
-            "cushion"
+            "upholstery",
+            "cushion",
+            "plastic bag",
+            "upholstery",
+            "fabric",
+            "plastic",
+            "iron",
+            "plastic",
+            "wood",
+            "steel",
+            "rubber"
         ],
         "title": "Found chair collected for Michael Wolf's 'Bastard Chair' photography series",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1985,
+        "artist": "Ohashi Teruaki",
+        "date": "1985",
         "medium": [
             "metal wire",
             "paper",
@@ -8039,10 +6978,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1971,
+        "artist": "Ohashi Teruaki",
+        "date": "1971",
         "medium": [
             "wood"
         ],
@@ -8050,25 +6987,35 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki",
-            "Aoshima Shoten",
-            "Viale"
-        ],
-        "date": 1973,
+        "artist": "Ohashi Teruaki",
+        "date": "1973",
         "medium": [
-            "maple (wood)",
-            "natural dye",
+            "maple"
+        ],
+        "title": "Study model, Small Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Aoshima Shoten",
+        "date": "1973",
+        "medium": [
+            "dye"
+        ],
+        "title": "Study model, Small Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Viale",
+        "date": "1973",
+        "medium": [
             "cotton"
         ],
         "title": "Study model, Small Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1988,
+        "artist": "Ohashi Teruaki",
+        "date": "1988",
         "medium": [
             "metal wire",
             "paper",
@@ -8080,10 +7027,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1972,
+        "artist": "Ohashi Teruaki",
+        "date": "1972",
         "medium": [
             "wood"
         ],
@@ -8091,81 +7036,59 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Sakakura Junzo",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1953,
+        "artist": "Sakakura Junzo",
+        "date": "1953",
         "medium": [
-            "stain",
-            "beechwood",
-            "stain",
-            "beechwood-veneer",
+            "stain"
+        ],
+        "title": "Side Chair, No. 3221",
+        "museum": "m+"
+    },
+    {
+        "artist": "Tendo Co., Ltd.",
+        "date": "1953",
+        "medium": [
+            "beech",
+            "",
+            "beech veneer",
             "plywood"
         ],
         "title": "Side Chair, No. 3221",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Choh Daisaku",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1957,
+        "artist": "Choh Daisaku",
+        "date": "1957",
         "medium": [
-            "teak-veneered plywood",
+            "teak-veneered plywood"
+        ],
+        "title": "Low Chair, model 5016",
+        "museum": "m+"
+    },
+    {
+        "artist": "Tendo Co., Ltd.",
+        "date": "1957",
+        "medium": [
             "fabric"
         ],
         "title": "Low Chair, model 5016",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Sakakura Junzo"
-        ],
-        "date": 1958,
+        "artist": "Sakakura Junzo",
+        "date": "1958",
         "medium": [
-            "bent laminated beechwood",
-            "beechwood-veneered plywood",
+            "",
+            "beech plywood",
+            "beech veneer",
             "fabric"
         ],
         "title": "Side Chair, no. 5015",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Artist unknown"
-        ],
-        "date": 1990,
-        "medium": [
-            "plastic bag",
-            "fabric cushion",
-            "fabric strip",
-            "plastic strap",
-            "iron box",
-            "plastic dispenser outer casing"
-        ],
-        "title": "Found chair collected for Michael Wolf's 'Bastard Chair' photography series",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Artist unknown"
-        ],
-        "date": 1990,
-        "medium": [
-            "wood",
-            "steel",
-            "rubber"
-        ],
-        "title": "Found chair collected for Michael Wolf's 'Bastard Chair' photography series",
-        "museum": "m+"
-    },
-    {
-        "artist": [
-            "Alessandro Mendini"
-        ],
-        "date": 1978,
+        "artist": "Alessandro Mendini",
+        "date": "1978",
         "medium": [
             "paint",
             "wood",
@@ -8175,23 +7098,26 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Umeda Masanori",
-            "Arte Japan Ltd."
-        ],
-        "date": 1982,
+        "artist": "Umeda Masanori",
+        "date": "1982",
         "medium": [
-            "metal",
+            "metal"
+        ],
+        "title": "Prototype, Animal chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Arte Japan Ltd.",
+        "date": "1982",
+        "medium": [
             "polyurethane foam"
         ],
         "title": "Prototype, Animal chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Kowloon Rattan Ware Co."
-        ],
-        "date": 1954,
+        "artist": "Kowloon Rattan Ware Co.",
+        "date": "1954",
         "medium": [
             "rattan",
             "plastic",
@@ -8201,27 +7127,53 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Isamu Noguchi",
-            "Isamu Kenmochi",
-            "Kenmochi Design Associates",
-            "Kondo Shosaku",
-            "Yamakawa Rattan (now YMK Nagaoka)"
-        ],
-        "date": 1950,
+        "artist": "Isamu Noguchi",
+        "date": "1950",
         "medium": [
-            "shioji wood",
-            "bamboo",
+            "shioji wood"
+        ],
+        "title": "Bamboo Basket Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Isamu Kenmochi",
+        "date": "1950",
+        "medium": [
+            "bamboo"
+        ],
+        "title": "Bamboo Basket Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Kenmochi Design Associates",
+        "date": "1950",
+        "medium": [
             "iron"
         ],
         "title": "Bamboo Basket Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki"
+        "artist": "Kondo Shosaku",
+        "date": "1950",
+        "medium": [
+            ""
         ],
-        "date": 1972,
+        "title": "Bamboo Basket Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Yamakawa Rattan (now YMK Nagaoka)",
+        "date": "1950",
+        "medium": [
+            ""
+        ],
+        "title": "Bamboo Basket Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Ohashi Teruaki",
+        "date": "1972",
         "medium": [
             "wood",
             "string",
@@ -8233,10 +7185,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1985,
+        "artist": "Ohashi Teruaki",
+        "date": "1985",
         "medium": [
             "metal wire",
             "paper",
@@ -8248,10 +7198,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1983,
+        "artist": "Ohashi Teruaki",
+        "date": "1983",
         "medium": [
             "metal",
             "fabric"
@@ -8260,22 +7208,18 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Pierre Jeanneret"
-        ],
-        "date": 1953,
+        "artist": "Pierre Jeanneret",
+        "date": "1953",
         "medium": [
             "teak",
-            "caning"
+            "cane"
         ],
         "title": "Easy Chair, Chandigarh, India",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1972,
+        "artist": "Ohashi Teruaki",
+        "date": "1972",
         "medium": [
             "wood"
         ],
@@ -8283,35 +7227,36 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Choh Daisaku",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1957,
+        "artist": "Choh Daisaku",
+        "date": "1957",
         "medium": [
-            "teak-veneered plywood",
+            "teak-veneered plywood"
+        ],
+        "title": "Prototype, Low Chair, model 5016",
+        "museum": "m+"
+    },
+    {
+        "artist": "Tendo Co., Ltd.",
+        "date": "1957",
+        "medium": [
             "fabric"
         ],
         "title": "Prototype, Low Chair, model 5016",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Satyendra Pakhal\u00e9"
-        ],
-        "date": 2001,
+        "artist": "Satyendra Pakhal\u00e9",
+        "date": "2001",
         "medium": [
             "ceramic",
-            "carbon fibre coating"
+            "carbon fiber"
         ],
         "title": "RCCC/Roll Carbon Ceramic Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Yoshioka Tokujin"
-        ],
-        "date": 2006,
+        "artist": "Yoshioka Tokujin",
+        "date": "2006",
         "medium": [
             "polyester fiber",
             "paper"
@@ -8320,10 +7265,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Xiao Tianyu"
-        ],
-        "date": 2010,
+        "artist": "Xiao Tianyu",
+        "date": "2010",
         "medium": [
             "elm",
             "cotton",
@@ -8333,10 +7276,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Kuramata Shiro"
-        ],
-        "date": 1967,
+        "artist": "Kuramata Shiro",
+        "date": "1967",
         "medium": [
             "wood",
             "plywood",
@@ -8348,39 +7289,41 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Tange Kenzo",
-            "Tendo Co., Ltd."
-        ],
-        "date": 1955,
+        "artist": "Tange Kenzo",
+        "date": "1955",
         "medium": [
-            "bent laminated birch",
+            "",
+            "birch plywood"
+        ],
+        "title": "Lounge Chair for Sumi Memorial Hall",
+        "museum": "m+"
+    },
+    {
+        "artist": "Tendo Co., Ltd.",
+        "date": "1955",
+        "medium": [
             "fabric"
         ],
         "title": "Lounge Chair for Sumi Memorial Hall",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Star Industrial Co., Ltd."
-        ],
-        "date": 1960,
+        "artist": "Star Industrial Co., Ltd.",
+        "date": "1960",
         "medium": [
             "polypropylene",
-            "chromium-plated",
-            "aluminium",
+            "chrome",
+            "aluminum",
             "legs"
         ],
         "title": "Red A chair, no. 354",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ron Arad"
-        ],
-        "date": 1981,
+        "artist": "Ron Arad",
+        "date": "1981",
         "medium": [
-            "leather imitation",
+            "synthetic leather",
             "metal",
             "foam",
             "plastic",
@@ -8391,29 +7334,63 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Front",
-            "Sofia Lagerkvist",
-            "Charlotte von der Lancken",
-            "Anna Lindgren",
-            "Katja Pettersson"
-        ],
-        "date": 2005,
+        "artist": "Front",
+        "date": "2005",
         "medium": [
-            "selective laser\u2013sintered 3d-printed nylon",
+            "selective laser\u2013sintered 3d-printed nylon"
+        ],
+        "title": "Materialised Sketch of a Round Back Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Sofia Lagerkvist",
+        "date": "2005",
+        "medium": [
             "acrylic paint"
         ],
         "title": "Materialised Sketch of a Round Back Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Yanagi Sori",
-            "Kotobuki Seating Co., Ltd."
-        ],
-        "date": 1969,
+        "artist": "Charlotte von der Lancken",
+        "date": "2005",
         "medium": [
-            "polyester",
+            ""
+        ],
+        "title": "Materialised Sketch of a Round Back Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Anna Lindgren",
+        "date": "2005",
+        "medium": [
+            ""
+        ],
+        "title": "Materialised Sketch of a Round Back Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Katja Pettersson",
+        "date": "2005",
+        "medium": [
+            ""
+        ],
+        "title": "Materialised Sketch of a Round Back Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Yanagi Sori",
+        "date": "1969",
+        "medium": [
+            "polyester"
+        ],
+        "title": "Side Chair, model FRP-3276F",
+        "museum": "m+"
+    },
+    {
+        "artist": "Kotobuki Seating Co., Ltd.",
+        "date": "1969",
+        "medium": [
             "metal",
             "textile",
             "rubber"
@@ -8422,55 +7399,85 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Front",
-            "Sofia Lagerkvist",
-            "Charlotte von der Lancken",
-            "Anna Lindgren",
-            "Katja Pettersson"
-        ],
-        "date": 2005,
+        "artist": "Front",
+        "date": "2005",
         "medium": [
-            "selective laser\u2013sintered 3d-printed nylon",
+            "selective laser\u2013sintered 3d-printed nylon"
+        ],
+        "title": "Materialised Sketch of a Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Sofia Lagerkvist",
+        "date": "2005",
+        "medium": [
             "acrylic paint"
         ],
         "title": "Materialised Sketch of a Chair",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Frank Lloyd Wright"
+        "artist": "Charlotte von der Lancken",
+        "date": "2005",
+        "medium": [
+            ""
         ],
-        "date": 1919,
+        "title": "Materialised Sketch of a Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Anna Lindgren",
+        "date": "2005",
+        "medium": [
+            ""
+        ],
+        "title": "Materialised Sketch of a Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Katja Pettersson",
+        "date": "2005",
+        "medium": [
+            ""
+        ],
+        "title": "Materialised Sketch of a Chair",
+        "museum": "m+"
+    },
+    {
+        "artist": "Frank Lloyd Wright",
+        "date": "1919",
         "medium": [
             "oak",
-            "oil cloth covering",
+            "oil cloth",
             "metal"
         ],
         "title": "'Peacock Chair' for Imperial Hotel, Tokyo, Japan",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Isamu Kenmochi",
-            "Yamakawa Rattan Japan Inc."
-        ],
-        "date": 1961,
+        "artist": "Isamu Kenmochi",
+        "date": "1961",
         "medium": [
-            "rattan",
-            "fabric upholster",
-            "cushion"
+            "rattan"
         ],
         "title": "Rattan Round Chair, model C-315-S",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Kiyonori Kikutake"
-        ],
-        "date": 1966,
+        "artist": "Yamakawa Rattan Japan Inc.",
+        "date": "1961",
         "medium": [
-            "fibre-reinforced plastic",
+            "upholstery",
+            "fabric"
+        ],
+        "title": "Rattan Round Chair, model C-315-S",
+        "museum": "m+"
+    },
+    {
+        "artist": "Kiyonori Kikutake",
+        "date": "1966",
+        "medium": [
+            "fiber-reinforced plastic",
             "metal",
             "textile"
         ],
@@ -8478,10 +7485,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki"
-        ],
-        "date": 1978,
+        "artist": "Ohashi Teruaki",
+        "date": "1978",
         "medium": [
             "wood"
         ],
@@ -8489,10 +7494,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Umeda Masanori"
-        ],
-        "date": 1988,
+        "artist": "Umeda Masanori",
+        "date": "1988",
         "medium": [
             "polyurethane foam",
             "acrylic paint",
@@ -8502,10 +7505,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Umeda Masanori"
-        ],
-        "date": 1975,
+        "artist": "Umeda Masanori",
+        "date": "1975",
         "medium": [
             "polyurethane foam",
             "acrylic paint"
@@ -8514,35 +7515,36 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Kader Industrial Company Limited"
-        ],
-        "date": 1973,
+        "artist": "Kader Industrial Company Limited",
+        "date": "1973",
         "medium": [
-            "pp (plastic)",
+            "polypropylene plastic",
             "aluminum"
         ],
         "title": "OK 'Best-line' chair, model no. 902A",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki",
-            "Inoue Industries Inc."
-        ],
-        "date": 1981,
+        "artist": "Ohashi Teruaki",
+        "date": "1981",
         "medium": [
-            "lacquer",
+            "lacquer"
+        ],
+        "title": "Board Stool 'Bird Bud' #4",
+        "museum": "m+"
+    },
+    {
+        "artist": "Inoue Industries Inc.",
+        "date": "1981",
+        "medium": [
             "plywood"
         ],
         "title": "Board Stool 'Bird Bud' #4",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Lanzavecchia + Wai"
-        ],
-        "date": 2012,
+        "artist": "Lanzavecchia + Wai",
+        "date": "2012",
         "medium": [
             "iron",
             "oak plywood",
@@ -8553,68 +7555,80 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Kuramata Shiro",
-            "Terada Tekkojo, Ltd."
-        ],
-        "date": 1985,
+        "artist": "Kuramata Shiro",
+        "date": "1985",
         "medium": [
-            "partially burnt bentwood",
+            "",
+            "wood"
+        ],
+        "title": "Homage to Josef Hoffmann, Begin the Beguine",
+        "museum": "m+"
+    },
+    {
+        "artist": "Terada Tekkojo, Ltd.",
+        "date": "1985",
+        "medium": [
             "metal"
         ],
         "title": "Homage to Josef Hoffmann, Begin the Beguine",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Star Industrial Co., Ltd."
-        ],
-        "date": 1960,
+        "artist": "Star Industrial Co., Ltd.",
+        "date": "1960",
         "medium": [
             "polypropylene",
-            "chromium-plated",
-            "aluminium",
+            "chrome",
+            "aluminum",
             "legs"
         ],
         "title": "Red A chair, no. 355",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Umeda Masanori",
-            "Umeda Design Studio Inc."
-        ],
-        "date": 1989,
+        "artist": "Umeda Masanori",
+        "date": "1989",
         "medium": [
-            "velvet",
-            "steel",
-            "wood",
-            "plastic",
-            "pu (plastic) foam"
+            "velvet"
         ],
         "title": "Prototype, Getsuen",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Umeda Masanori",
-            "Toyo Kitchen Style Co., Ltd."
-        ],
-        "date": 1991,
+        "artist": "Umeda Design Studio Inc.",
+        "date": "1989",
         "medium": [
-            "alcantara fabric",
+            "steel",
+            "wood",
+            "plastic",
+            "polyurethane foam"
+        ],
+        "title": "Prototype, Getsuen",
+        "museum": "m+"
+    },
+    {
+        "artist": "Umeda Masanori",
+        "date": "1991",
+        "medium": [
+            "alcantara fabric"
+        ],
+        "title": "RAN-Orchid",
+        "museum": "m+"
+    },
+    {
+        "artist": "Toyo Kitchen Style Co., Ltd.",
+        "date": "1991",
+        "medium": [
             "stainless steel",
-            "wood structure",
+            "wood",
             "polyurethane foam"
         ],
         "title": "RAN-Orchid",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1977,
+        "artist": "Uchida Shigeru",
+        "date": "1977",
         "medium": [
             "steel",
             "melamine coating",
@@ -8624,38 +7638,54 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Alvar Aalto"
-        ],
-        "date": 1932,
+        "artist": "Alvar Aalto",
+        "date": "1932",
         "medium": [
-            "birch burl (wood) veneer"
+            "birch burl veneer"
         ],
         "title": "Armchair, model 31",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Oscar Niemeyer",
-            "Anna Maria Niemeyer",
-            "Tendo Brasileira"
-        ],
-        "date": 1978,
+        "artist": "Oscar Niemeyer",
+        "date": "1978",
         "medium": [
-            "brazilian pau ferro (wood)",
+            "brazilian pau ferro"
+        ],
+        "title": "'Rio' chaise longue",
+        "museum": "m+"
+    },
+    {
+        "artist": "Anna Maria Niemeyer",
+        "date": "1978",
+        "medium": [
             "straw"
         ],
         "title": "'Rio' chaise longue",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Kuramata Shiro",
-            "Ishimaru Co. Ltd."
-        ],
-        "date": 1988,
+        "artist": "Tendo Brasileira",
+        "date": "1978",
         "medium": [
-            "acrylic resin",
+            ""
+        ],
+        "title": "'Rio' chaise longue",
+        "museum": "m+"
+    },
+    {
+        "artist": "Kuramata Shiro",
+        "date": "1988",
+        "medium": [
+            "acrylic resin"
+        ],
+        "title": "Miss Blanche",
+        "museum": "m+"
+    },
+    {
+        "artist": "Ishimaru Co. Ltd.",
+        "date": "1988",
+        "medium": [
             "plastic",
             "epoxy-coated anodized aluminium"
         ],
@@ -8663,19 +7693,31 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Ohashi Teruaki",
-            "Inoue Industries Inc.",
-            "Viale"
-        ],
-        "date": 1989,
+        "artist": "Ohashi Teruaki",
+        "date": "1989",
         "medium": [
-            "steel pipe",
-            "polyurethane foam",
+            "tubular steel"
+        ],
+        "title": "Donald Duck A",
+        "museum": "m+"
+    },
+    {
+        "artist": "Inoue Industries Inc.",
+        "date": "1989",
+        "medium": [
+            "polyurethane foam"
+        ],
+        "title": "Donald Duck A",
+        "museum": "m+"
+    },
+    {
+        "artist": "Viale",
+        "date": "1989",
+        "medium": [
             "synthetic leather",
             "leotard fabric",
             "chrome",
-            "plated",
+            "",
             "steel",
             "lauan plywood"
         ],
@@ -8683,27 +7725,21 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Uchida Shigeru"
-        ],
-        "date": 1981,
+        "artist": "Uchida Shigeru",
+        "date": "1981",
         "medium": [
             "enamel",
             "steel",
-            "brass-plated",
-            "upholster",
+            "brass",
+            "upholstery",
             "cushion"
         ],
         "title": "Nirvana",
         "museum": "m+"
     },
     {
-        "artist": [
-            "Charlotte Perriand",
-            "Tendo Co., Ltd.",
-            "Hardware Shokai"
-        ],
-        "date": 1954,
+        "artist": "Charlotte Perriand",
+        "date": "1954",
         "medium": [
             "beech plywood"
         ],
@@ -8711,10 +7747,26 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Zhang Zhoujie"
+        "artist": "Tendo Co., Ltd.",
+        "date": "1954",
+        "medium": [
+            ""
         ],
-        "date": 2011,
+        "title": "Ombre",
+        "museum": "m+"
+    },
+    {
+        "artist": "Hardware Shokai",
+        "date": "1954",
+        "medium": [
+            ""
+        ],
+        "title": "Ombre",
+        "museum": "m+"
+    },
+    {
+        "artist": "Zhang Zhoujie",
+        "date": "2011",
         "medium": [
             "cardboard"
         ],
@@ -8722,10 +7774,8 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Estudio Campana"
-        ],
-        "date": 2006,
+        "artist": "Estudio Campana",
+        "date": "2006",
         "medium": [
             "wicker",
             "plastic",
@@ -8735,13 +7785,18 @@
         "museum": "m+"
     },
     {
-        "artist": [
-            "Gunjan Gupta",
-            "Wrap"
-        ],
-        "date": 2009,
+        "artist": "Gunjan Gupta",
+        "date": "2009",
         "medium": [
-            "silk",
+            "silk"
+        ],
+        "title": "Gadda Walla Bicycle Throne",
+        "museum": "m+"
+    },
+    {
+        "artist": "Wrap",
+        "date": "2009",
+        "medium": [
             "steel",
             "foam",
             "recycled bicycle parts"
